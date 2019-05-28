@@ -1098,10 +1098,6 @@ Wire Wire Line
 	9650 8500 9250 8500
 Wire Wire Line
 	9650 8500 9650 8600
-Text GLabel 7000 1900 0    50   Input ~ 0
-Vref
-Text GLabel 7000 4050 0    50   Input ~ 0
-Vref
 Wire Wire Line
 	7000 1500 6550 1500
 Wire Wire Line
@@ -1407,8 +1403,6 @@ F 3 "http://www.ti.com/lit/ds/symlink/lf347-n.pdf" H 10600 3850 50  0001 C CNN
 	2    10600 3850
 	1    0    0    -1  
 $EndComp
-Text GLabel 7000 4050 0    50   Input ~ 0
-Vref
 $Comp
 L Device:R R230
 U 1 1 5D5E8D97
@@ -1883,10 +1877,6 @@ F 3 "~" H 13450 8550 50  0001 C CNN
 $EndComp
 Text GLabel 13450 8350 1    50   Input ~ 0
 +AUD
-Text GLabel 14550 8750 2    50   Input ~ 0
-Vref
-Wire Wire Line
-	14550 8750 14450 8750
 Wire Wire Line
 	13450 8750 13450 8700
 Wire Wire Line
@@ -2080,10 +2070,27 @@ Wire Wire Line
 Wire Wire Line
 	7650 7000 7650 7400
 Connection ~ 7650 7400
+Wire Wire Line
+	7000 1900 6800 1900
+Wire Wire Line
+	6800 1900 6800 4050
+Wire Wire Line
+	6800 4050 7000 4050
+Wire Wire Line
+	6800 4050 6800 6200
+Wire Wire Line
+	6800 6200 14950 6200
+Wire Wire Line
+	14950 6200 14950 8750
+Wire Wire Line
+	14450 8750 14950 8750
 Wire Bus Line
 	1300 4850 1300 5050
 Wire Bus Line
 	1300 3800 1300 4500
 Wire Bus Line
 	1300 1800 1300 3300
+Connection ~ 6800 4050
+Text Label 14600 8750 0    50   ~ 0
+Vref
 $EndSCHEMATC

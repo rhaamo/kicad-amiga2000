@@ -2821,6 +2821,8 @@ Wire Wire Line
 	14250 8550 14250 8250
 Wire Wire Line
 	14250 8250 15150 8250
+Text GLabel 15150 8250 2    50   Input ~ 0
+_BRST
 Wire Bus Line
 	1200 4450 3050 4450
 Wire Bus Line
@@ -2831,6 +2833,4 @@ Wire Bus Line
 	6650 4500 6650 5600
 Wire Bus Line
 	4950 5000 4950 5900
-Text GLabel 15150 8250 2    50   Input ~ 0
-_BRST
 $EndSCHEMATC
