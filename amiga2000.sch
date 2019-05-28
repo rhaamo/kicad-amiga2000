@@ -1,15 +1,16 @@
 EESchema Schematic File Version 4
+LIBS:amiga2000-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 13
 Title ""
-Date ""
+Date "07/06/1987"
 Rev ""
-Comp ""
-Comment1 ""
-Comment2 ""
+Comp "Commodore"
+Comment1 "Drawn by: Dave Haynie"
+Comment2 "Used on: A2000-CR"
 Comment3 ""
 Comment4 ""
 $EndDescr
@@ -88,25 +89,25 @@ $EndSheet
 Text Notes 1200 1300 0    50   ~ 0
 x done\n   to review
 Text Notes 2750 1300 0    50   ~ 0
-  done\n  to review
+x done\n   to review
 Text Notes 4250 1300 0    50   ~ 0
-  done\n  to review
+x done\n   to review
 Text Notes 5700 1300 0    50   ~ 0
   done\n  to review
 Text Notes 7250 1300 0    50   ~ 0
-  done\n  to review
+x done\n   to review
 Text Notes 8750 1300 0    50   ~ 0
-  done\n  to review
+x done\n   to review
 Text Notes 8750 2300 0    50   ~ 0
   done\n  to review
 Text Notes 7300 2300 0    50   ~ 0
-  done\n  to review
+x done\n   to review
 Text Notes 5750 2300 0    50   ~ 0
-  done\n  to review
+x done\n   to review
 Text Notes 4300 2300 0    50   ~ 0
-  done\n  to review
+x done\n   to review
 Text Notes 2750 2300 0    50   ~ 0
-  done\n  to review
+x done\n   to review
 Text Notes 1250 2300 0    50   ~ 0
-  done\n  to review
+x done\n   to review
 $EndSCHEMATC

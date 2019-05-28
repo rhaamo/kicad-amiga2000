@@ -1,17 +1,18 @@
 EESchema Schematic File Version 4
+LIBS:amiga2000-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 13
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
-Comment2 ""
-Comment3 ""
-Comment4 ""
+Title "B2000 Processor"
+Date "07/06/1987"
+Rev "2"
+Comp "Commodore"
+Comment1 "Drawn by: Dave Haynie"
+Comment2 "Used on: A2000-CR"
+Comment3 "Next Assy: 312725"
+Comment4 "Assy: 312721"
 $EndDescr
 $Comp
 L CPU_NXP_68000:68000D U100
@@ -117,7 +118,7 @@ L Device:C C100
 U 1 1 5CEB90F2
 P 4000 7250
 F 0 "C100" H 4115 7296 50  0000 L CNN
-F 1 "0.047uF" H 4115 7205 50  0000 L CNN
+F 1 "0.1uF" H 4115 7205 50  0000 L CNN
 F 2 "" H 4038 7100 50  0001 C CNN
 F 3 "~" H 4000 7250 50  0001 C CNN
 	1    4000 7250
@@ -128,7 +129,7 @@ L Device:C C103
 U 1 1 5CEBA6E6
 P 4550 7250
 F 0 "C103" H 4665 7296 50  0000 L CNN
-F 1 "0.047uF" H 4665 7205 50  0000 L CNN
+F 1 "0.1uF" H 4665 7205 50  0000 L CNN
 F 2 "" H 4588 7100 50  0001 C CNN
 F 3 "~" H 4550 7250 50  0001 C CNN
 	1    4550 7250
@@ -139,7 +140,7 @@ L Device:C C104
 U 1 1 5CEBAB0D
 P 5100 7250
 F 0 "C104" H 5215 7296 50  0000 L CNN
-F 1 "0.047uF" H 5215 7205 50  0000 L CNN
+F 1 "0.1uF" H 5215 7205 50  0000 L CNN
 F 2 "" H 5138 7100 50  0001 C CNN
 F 3 "~" H 5100 7250 50  0001 C CNN
 	1    5100 7250
@@ -150,7 +151,7 @@ L Device:C C105
 U 1 1 5CEBAF54
 P 5650 7250
 F 0 "C105" H 5765 7296 50  0000 L CNN
-F 1 "0.047uF" H 5765 7205 50  0000 L CNN
+F 1 "0.1uF" H 5765 7205 50  0000 L CNN
 F 2 "" H 5688 7100 50  0001 C CNN
 F 3 "~" H 5650 7250 50  0001 C CNN
 	1    5650 7250
@@ -161,7 +162,7 @@ L Device:C C106
 U 1 1 5CEBB2D0
 P 6200 7250
 F 0 "C106" H 6315 7296 50  0000 L CNN
-F 1 "0.047uF" H 6315 7205 50  0000 L CNN
+F 1 "0.1uF" H 6315 7205 50  0000 L CNN
 F 2 "" H 6238 7100 50  0001 C CNN
 F 3 "~" H 6200 7250 50  0001 C CNN
 	1    6200 7250
@@ -503,7 +504,7 @@ FC(0:2)
 Wire Bus Line
 	1550 3150 1850 3150
 Wire Wire Line
-	3750 3450 3150 3450
+	3750 3450 3500 3450
 Wire Wire Line
 	3150 3450 3150 7000
 Wire Wire Line
@@ -558,7 +559,7 @@ Wire Wire Line
 Wire Wire Line
 	2550 7000 2550 4550
 Wire Wire Line
-	2550 4550 3750 4550
+	2550 4550 3250 4550
 Wire Wire Line
 	2450 7000 2450 4950
 Wire Wire Line
@@ -1215,42 +1216,38 @@ Wire Bus Line
 	11050 1100 11000 1100
 Wire Bus Line
 	10950 4200 11100 4200
-Text Label 9400 1350 0    50   ~ 0
-DRD8
-Text Label 9400 1450 0    50   ~ 0
+Text Label 9350 1450 0    50   ~ 0
 DRD9
-Text Label 9400 1550 0    50   ~ 0
+Text Label 9350 1550 0    50   ~ 0
 DRD10
-Text Label 9400 1650 0    50   ~ 0
+Text Label 9350 1650 0    50   ~ 0
 DRD11
-Text Label 9400 1750 0    50   ~ 0
+Text Label 9350 1750 0    50   ~ 0
 DRD12
-Text Label 9400 1850 0    50   ~ 0
+Text Label 9350 1850 0    50   ~ 0
 DRD13
-Text Label 9400 1950 0    50   ~ 0
+Text Label 9350 1950 0    50   ~ 0
 DRD14
-Text Label 9400 2050 0    50   ~ 0
+Text Label 9350 2050 0    50   ~ 0
 DRD15
 Text Label 9350 4450 0    50   ~ 0
-DRD8
+DRD0
 Text Label 9350 4550 0    50   ~ 0
-DRD9
+DRD1
 Text Label 9350 4650 0    50   ~ 0
-DRD10
+DRD2
 Text Label 9350 4750 0    50   ~ 0
-DRD11
+DRD3
 Text Label 9350 4850 0    50   ~ 0
-DRD12
+DRD4
 Text Label 9350 4950 0    50   ~ 0
-DRD13
+DRD5
 Text Label 9350 5050 0    50   ~ 0
-DRD14
+DRD6
 Text Label 9350 5150 0    50   ~ 0
-DRD15
+DRD7
 Wire Bus Line
 	8400 1150 8550 1150
-Wire Bus Line
-	8400 2150 9150 2150
 Wire Bus Line
 	8550 5250 9050 5250
 Wire Bus Line
@@ -1335,6 +1332,75 @@ F 3 "" H 7600 2650 50  0001 C CNN
 	1    7600 2650
 	1    0    0    -1  
 $EndComp
+$Comp
+L Device:R R917
+U 1 1 5DE25665
+P 3250 4050
+F 0 "R917" H 3320 4096 50  0000 L CNN
+F 1 "330" H 3320 4005 50  0000 L CNN
+F 2 "" V 3180 4050 50  0001 C CNN
+F 3 "~" H 3250 4050 50  0001 C CNN
+	1    3250 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR031
+U 1 1 5DE25EBF
+P 3250 3800
+F 0 "#PWR031" H 3250 3650 50  0001 C CNN
+F 1 "+5V" H 3265 3973 50  0000 C CNN
+F 2 "" H 3250 3800 50  0001 C CNN
+F 3 "" H 3250 3800 50  0001 C CNN
+	1    3250 3800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3250 3800 3250 3900
+Wire Wire Line
+	3250 4200 3250 4550
+Connection ~ 3250 4550
+Wire Wire Line
+	3250 4550 3750 4550
+Text GLabel 1550 3250 0    50   Input ~ 0
+_VMA
+Wire Wire Line
+	1550 3250 3050 3250
+Connection ~ 3050 3250
+Text GLabel 1550 3450 0    50   Input ~ 0
+_VPA
+Wire Wire Line
+	1550 3450 3150 3450
+Connection ~ 3150 3450
+Wire Bus Line
+	8400 2150 9150 2150
+Text Label 9350 1350 0    50   ~ 0
+DRD8
+$Comp
+L Device:R R1000
+U 1 1 5DEC05BA
+P 3500 3750
+F 0 "R1000" H 3570 3796 50  0000 L CNN
+F 1 "330" H 3570 3705 50  0000 L CNN
+F 2 "" V 3430 3750 50  0001 C CNN
+F 3 "~" H 3500 3750 50  0001 C CNN
+	1    3500 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR032
+U 1 1 5DEC0AA7
+P 3500 4100
+F 0 "#PWR032" H 3500 3950 50  0001 C CNN
+F 1 "+5V" H 3515 4273 50  0000 C CNN
+F 2 "" H 3500 4100 50  0001 C CNN
+F 3 "" H 3500 4100 50  0001 C CNN
+	1    3500 4100
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	3500 3900 3500 4100
+Wire Wire Line
+	3500 3600 3500 3450
 Wire Bus Line
 	1850 1950 1850 2200
 Wire Bus Line
@@ -1348,15 +1414,18 @@ Wire Bus Line
 Wire Bus Line
 	9050 4550 9050 5250
 Wire Bus Line
-	8400 1150 8400 2150
-Wire Bus Line
-	8550 4150 8550 5250
-Wire Bus Line
 	11050 1100 11050 1950
 Wire Bus Line
 	11100 4200 11100 5050
 Wire Bus Line
+	8550 4150 8550 5250
+Wire Bus Line
+	8400 1150 8400 2150
+Wire Bus Line
 	6050 3850 6050 5350
 Wire Bus Line
 	6050 1450 6050 3650
+Connection ~ 3500 3450
+Wire Wire Line
+	3500 3450 3150 3450
 $EndSCHEMATC

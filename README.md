@@ -6,8 +6,8 @@ TBD
 
 # Sources
 
-- https://gamesx.com/wiki/doku.php?id=amiga:amiga
- - a2000_rev.6_-_schematics.pdf
+- http://amiga.serveftp.net/Schematics/A2000_schematics/A2000_rev6_schematics_scanned.pdf
+ - A2000_rev6_schematics_scanned.pdf
 - https://github.com/Floppie209/Amiga2000-remake/
  - Solder-side.jpg
  - Component-side.jpg
