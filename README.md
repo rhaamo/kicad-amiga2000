@@ -1,5 +1,14 @@
 # Amiga 2000 KiCAD Schematics and PCB
 
+# Various tools
+
+## extract_labels.py
+Use this script to quickly extract all Global Labels from wanted sheets.
+
+```
+./extract_labels.py agnus.sch amiga2000.sch chipram.sch coprocessor\ slot.sch denise.sch expansion\ logic.sch parallel.sch paula.sch pc\ slots.sch power.sch processor.sch serial.sch zorro.sch
+```
+
 # License
 
 TBD
