@@ -2079,11 +2079,11 @@ Wire Wire Line
 	7400 6700 7650 6700
 Wire Wire Line
 	7650 7000 7650 7400
+Connection ~ 7650 7400
 Wire Bus Line
 	1300 4850 1300 5050
 Wire Bus Line
 	1300 3800 1300 4500
 Wire Bus Line
 	1300 1800 1300 3300
-Connection ~ 7650 7400
 $EndSCHEMATC

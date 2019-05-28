@@ -15,17 +15,6 @@ Comment3 "Next Assy: 312725"
 Comment4 "Assy: 312721"
 $EndDescr
 $Comp
-L CPU_NXP_68000:68000D U100
-U 1 1 5CEABE4E
-P 4750 3750
-F 0 "U100" H 4750 4000 50  0000 C CNN
-F 1 "MC68000" H 4750 4150 50  0000 C CNN
-F 2 "Package_DIP:DIP-64_W22.86mm_Socket" H 4750 3750 50  0001 C CNN
-F 3 "https://www.nxp.com/docs/en/reference-manual/MC68000UM.pdf" H 4750 3750 50  0001 C CNN
-	1    4750 3750
-	1    0    0    -1  
-$EndComp
-$Comp
 L 74xx:74LS245 U103
 U 1 1 5CEADCFB
 P 7600 1850
@@ -399,11 +388,10 @@ Text GLabel 6150 3850 2    50   Input ~ 0
 D(0:15)
 Wire Wire Line
 	3750 4350 1550 4350
-Connection ~ 3750 4350
 Text GLabel 1550 4350 0    50   Input ~ 0
 _BEER
 Text GLabel 3650 1550 0    50   Input ~ 0
-7MHz
+7M
 Wire Wire Line
 	3650 1550 3750 1550
 Wire Wire Line
@@ -1401,6 +1389,9 @@ Wire Wire Line
 	3500 3900 3500 4100
 Wire Wire Line
 	3500 3600 3500 3450
+Connection ~ 3500 3450
+Wire Wire Line
+	3500 3450 3150 3450
 Wire Bus Line
 	1850 1950 1850 2200
 Wire Bus Line
@@ -1425,7 +1416,16 @@ Wire Bus Line
 	6050 3850 6050 5350
 Wire Bus Line
 	6050 1450 6050 3650
-Connection ~ 3500 3450
-Wire Wire Line
-	3500 3450 3150 3450
+Connection ~ 3750 4350
+$Comp
+L CPU_NXP_68000:68000D U100
+U 1 1 5CEABE4E
+P 4750 3750
+F 0 "U100" H 4750 4000 50  0000 C CNN
+F 1 "MC68000" H 4750 4150 50  0000 C CNN
+F 2 "Package_DIP:DIP-64_W22.86mm_Socket" H 4750 3750 50  0001 C CNN
+F 3 "https://www.nxp.com/docs/en/reference-manual/MC68000UM.pdf" H 4750 3750 50  0001 C CNN
+	1    4750 3750
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
