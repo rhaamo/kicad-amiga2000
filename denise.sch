@@ -2190,12 +2190,8 @@ Wire Wire Line
 	9350 5450 10350 5450
 Wire Wire Line
 	10350 5450 10350 5700
-Text GLabel 9100 5150 1    50   Input ~ 0
-+VID
 Wire Wire Line
 	8950 5250 9100 5250
-Wire Wire Line
-	9100 5150 9100 5250
 Connection ~ 9100 5250
 Wire Wire Line
 	9100 5250 9350 5250
@@ -2351,8 +2347,6 @@ Wire Wire Line
 Wire Wire Line
 	6150 4350 6400 4350
 Wire Wire Line
-	6150 4000 5650 4000
-Wire Wire Line
 	5650 4000 5650 3950
 Wire Wire Line
 	5650 4000 5650 4250
@@ -2492,6 +2486,14 @@ Wire Wire Line
 Wire Wire Line
 	5150 5900 5650 5900
 Connection ~ 5650 5900
+Wire Wire Line
+	6150 4000 5900 4000
+Wire Wire Line
+	9100 3850 5900 3850
+Wire Wire Line
+	5900 3850 5900 4000
+Wire Wire Line
+	9100 3850 9100 5250
 Wire Bus Line
 	11300 2950 11300 3100
 Wire Bus Line
@@ -2514,4 +2516,7 @@ Wire Bus Line
 	1700 4400 1700 5200
 Wire Bus Line
 	1700 2550 1700 4150
+Connection ~ 5900 4000
+Wire Wire Line
+	5900 4000 5650 4000
 $EndSCHEMATC

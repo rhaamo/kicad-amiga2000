@@ -1202,8 +1202,6 @@ Wire Bus Line
 	13800 3900 11750 3900
 Connection ~ 11750 3900
 Connection ~ 6800 3900
-Text GLabel 6800 3900 1    50   Input ~ 0
-DRAB(0:8)
 Text Label 6900 6200 0    50   ~ 0
 DRAB0
 Text Label 6900 6100 0    50   ~ 0
@@ -2082,6 +2080,8 @@ Entry Wire Line
 	14850 9700 14950 9800
 Wire Bus Line
 	15750 6800 15750 9800
+Text GLabel 7350 9800 0    50   Input ~ 0
+DRD(0:15)
 Wire Bus Line
 	3750 1850 5850 1850
 Wire Bus Line
@@ -2106,6 +2106,4 @@ Wire Bus Line
 	7650 6800 15750 6800
 Wire Bus Line
 	7350 9800 15750 9800
-Text GLabel 7350 9800 0    50   Input ~ 0
-DRD(0:15)
 $EndSCHEMATC

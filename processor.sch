@@ -1392,6 +1392,18 @@ Wire Wire Line
 Connection ~ 3500 3450
 Wire Wire Line
 	3500 3450 3150 3450
+Connection ~ 3750 4350
+$Comp
+L CPU_NXP_68000:68000D U100
+U 1 1 5CEABE4E
+P 4750 3750
+F 0 "U100" H 4750 4000 50  0000 C CNN
+F 1 "MC68000" H 4750 4150 50  0000 C CNN
+F 2 "Package_DIP:DIP-64_W22.86mm_Socket" H 4750 3750 50  0001 C CNN
+F 3 "https://www.nxp.com/docs/en/reference-manual/MC68000UM.pdf" H 4750 3750 50  0001 C CNN
+	1    4750 3750
+	1    0    0    -1  
+$EndComp
 Wire Bus Line
 	1850 1950 1850 2200
 Wire Bus Line
@@ -1416,16 +1428,4 @@ Wire Bus Line
 	6050 3850 6050 5350
 Wire Bus Line
 	6050 1450 6050 3650
-Connection ~ 3750 4350
-$Comp
-L CPU_NXP_68000:68000D U100
-U 1 1 5CEABE4E
-P 4750 3750
-F 0 "U100" H 4750 4000 50  0000 C CNN
-F 1 "MC68000" H 4750 4150 50  0000 C CNN
-F 2 "Package_DIP:DIP-64_W22.86mm_Socket" H 4750 3750 50  0001 C CNN
-F 3 "https://www.nxp.com/docs/en/reference-manual/MC68000UM.pdf" H 4750 3750 50  0001 C CNN
-	1    4750 3750
-	1    0    0    -1  
-$EndComp
 $EndSCHEMATC
