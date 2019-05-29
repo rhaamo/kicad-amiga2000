@@ -36,15 +36,15 @@ Wire Wire Line
 Wire Wire Line
 	1650 1800 2000 1800
 Text Label 1700 1400 0    50   ~ 0
-_EBR1
+_BR1
 Text Label 1700 1500 0    50   ~ 0
-_EBR2
+_BR2
 Text Label 1700 1600 0    50   ~ 0
-_EBR3
+_BR3
 Text Label 1700 1700 0    50   ~ 0
-_EBR4
+_BR4
 Text Label 1700 1800 0    50   ~ 0
-_EBR5
+_BR5
 Entry Wire Line
 	1550 1300 1650 1400
 Entry Wire Line
@@ -56,7 +56,7 @@ Entry Wire Line
 Entry Wire Line
 	1550 1700 1650 1800
 Text GLabel 1600 1100 2    50   Input ~ 0
-_EBR[1..5]
+_BR[1..5]
 Wire Wire Line
 	3000 1400 3350 1400
 Wire Wire Line
@@ -68,15 +68,15 @@ Wire Wire Line
 Wire Wire Line
 	3000 1800 3350 1800
 Text Label 3100 1400 0    50   ~ 0
-_EBG1
+_BG1
 Text Label 3100 1500 0    50   ~ 0
-_EBG2
+_BG2
 Text Label 3100 1600 0    50   ~ 0
-_EBG3
+_BG3
 Text Label 3100 1700 0    50   ~ 0
-_EBG4
+_BG4
 Text Label 3100 1800 0    50   ~ 0
-_EBG5
+_BG5
 Entry Wire Line
 	3350 1400 3450 1300
 Entry Wire Line
@@ -88,7 +88,7 @@ Entry Wire Line
 Entry Wire Line
 	3350 1800 3450 1700
 Text GLabel 3700 1250 2    50   Input ~ 0
-_EBG[1..5]
+_BG[1..5]
 Wire Bus Line
 	3700 1250 3450 1250
 $Comp

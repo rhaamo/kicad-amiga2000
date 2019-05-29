@@ -1990,9 +1990,9 @@ _BG4
 Text Label 15650 9600 0    50   ~ 0
 _BG5
 Text GLabel 4950 14450 0    50   Input ~ 0
-_EBR[1..5]
+_BR[1..5]
 Text GLabel 4950 14300 0    50   Input ~ 0
-_EBG[1..5]
+_BG[1..5]
 Wire Wire Line
 	7350 9600 7450 9600
 Wire Wire Line
