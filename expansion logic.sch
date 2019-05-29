@@ -1,4 +1,4 @@
-EESchema Schematic File Version 4
+EESchema Schematic File Version 5
 LIBS:amiga2000-cache
 EELAYER 29 0
 EELAYER END
@@ -56,7 +56,7 @@ Entry Wire Line
 Entry Wire Line
 	1550 1700 1650 1800
 Text GLabel 1600 1100 2    50   Input ~ 0
-_EBR(1:5)
+_EBR[1..5]
 Wire Wire Line
 	3000 1400 3350 1400
 Wire Wire Line
@@ -88,7 +88,7 @@ Entry Wire Line
 Entry Wire Line
 	3350 1800 3450 1700
 Text GLabel 3700 1250 2    50   Input ~ 0
-_EBG(1:5)
+_EBG[1..5]
 Wire Bus Line
 	3700 1250 3450 1250
 $Comp
@@ -443,7 +443,7 @@ Entry Wire Line
 Entry Wire Line
 	1550 2900 1650 3000
 Text GLabel 1350 2450 0    50   Input ~ 0
-BA(1:23)
+BA[1..23]
 Wire Bus Line
 	1350 2450 1550 2450
 Wire Wire Line
@@ -543,7 +543,7 @@ Wire Bus Line
 Wire Bus Line
 	1400 1800 1400 1700
 Text GLabel 850  1700 3    50   Input ~ 0
-_SLAVE(1:5)
+_SLAVE[1..5]
 NoConn ~ 700  1250
 NoConn ~ 800  1250
 $Comp
@@ -899,9 +899,9 @@ Entry Wire Line
 Entry Wire Line
 	3350 7900 3450 8000
 Text GLabel 3100 7050 0    50   Input ~ 0
-D(0:15)
+D[0..15]
 Text GLabel 3100 7550 0    50   Input ~ 0
-A(1:23)
+A[1..23]
 Wire Bus Line
 	3100 7050 3350 7050
 Wire Bus Line
@@ -1278,7 +1278,7 @@ Entry Wire Line
 Entry Wire Line
 	6400 3150 6500 3250
 Text GLabel 7050 3250 2    50   Input ~ 0
-_CIPL(0:2)
+_CIPL[0..2]
 Text Label 13400 2950 0    50   ~ 0
 _IPL0
 Text Label 13400 3050 0    50   ~ 0
@@ -1298,7 +1298,7 @@ Entry Wire Line
 Entry Wire Line
 	13700 3150 13800 3050
 Text GLabel 14000 2750 2    50   Input ~ 0
-_IPL(0:2)
+_IPL[0..2]
 Wire Bus Line
 	14000 2750 13800 2750
 $Comp

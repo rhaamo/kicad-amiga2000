@@ -1,4 +1,4 @@
-EESchema Schematic File Version 4
+EESchema Schematic File Version 5
 LIBS:amiga2000-cache
 EELAYER 29 0
 EELAYER END
@@ -307,7 +307,7 @@ Wire Wire Line
 Entry Wire Line
 	1300 4450 1400 4550
 Text GLabel 1200 4450 0    50   Input ~ 0
-A(1:23)
+A[1..23]
 Text Label 3200 3250 0    50   ~ 0
 D7
 Text Label 3200 3350 0    50   ~ 0
@@ -359,7 +359,7 @@ Entry Wire Line
 Wire Bus Line
 	3050 3850 2550 3850
 Text GLabel 2550 3850 0    50   Input ~ 0
-D(0:15)
+D[0..15]
 $Comp
 L Device:R_Network09 RP300
 U 1 1 6B88FE04
@@ -922,7 +922,7 @@ Wire Bus Line
 Wire Bus Line
 	4950 5900 5150 5900
 Text GLabel 5150 5900 2    50   Input ~ 0
-PPD(0:7)
+PPD[0..7]
 Text Label 4800 4150 0    50   ~ 0
 _RDY
 Text Label 4800 4250 0    50   ~ 0

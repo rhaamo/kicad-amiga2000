@@ -1,4 +1,4 @@
-EESchema Schematic File Version 4
+EESchema Schematic File Version 5
 LIBS:amiga2000-cache
 EELAYER 29 0
 EELAYER END
@@ -380,12 +380,10 @@ Wire Wire Line
 	5950 5450 5750 5450
 Wire Bus Line
 	6050 3850 6150 3850
-Wire Bus Line
-	6050 1450 6150 1450
-Text GLabel 6150 1450 2    50   Input ~ 0
-A(1:23)
+Text GLabel 6150 1350 2    50   Input ~ 0
+A[1..23]
 Text GLabel 6150 3850 2    50   Input ~ 0
-D(0:15)
+D[0..15]
 Wire Wire Line
 	3750 4350 1550 4350
 Text GLabel 1550 4350 0    50   Input ~ 0
@@ -426,7 +424,7 @@ Entry Wire Line
 Wire Bus Line
 	1850 2200 1600 2200
 Text GLabel 1600 2200 0    50   Input ~ 0
-_IPL(0:2)
+_IPL[0..2]
 Wire Wire Line
 	3750 2250 2250 2250
 Wire Wire Line
@@ -488,7 +486,7 @@ Entry Wire Line
 Entry Wire Line
 	1850 3050 1950 2950
 Text GLabel 1550 3150 0    50   Input ~ 0
-FC(0:2)
+FC[0..2]
 Wire Bus Line
 	1550 3150 1850 3150
 Wire Wire Line
@@ -951,9 +949,9 @@ Wire Bus Line
 Wire Bus Line
 	6550 5250 6700 5250
 Text GLabel 6550 2150 0    50   Input ~ 0
-D(0:15)
+D[0..15]
 Text GLabel 6550 5250 0    50   Input ~ 0
-D(0:15)
+D[0..15]
 Text GLabel 9450 2350 0    50   Input ~ 0
 _OEL
 Text GLabel 9450 2250 0    50   Input ~ 0
@@ -1003,7 +1001,7 @@ Entry Wire Line
 Entry Wire Line
 	8300 2050 8400 1950
 Text GLabel 8550 1150 2    50   Input ~ 0
-DRD(0:15)
+DRD[0..15]
 Text Label 8100 1350 0    50   ~ 0
 DRD8
 Text Label 8100 1450 0    50   ~ 0
@@ -1053,7 +1051,7 @@ Entry Wire Line
 Entry Wire Line
 	8450 5150 8550 5050
 Text GLabel 8800 4150 2    50   Input ~ 0
-DRD(0:15)
+DRD[0..15]
 Text Label 8150 4450 0    50   ~ 0
 DRD0
 Text Label 8150 4550 0    50   ~ 0
@@ -1241,9 +1239,9 @@ Wire Bus Line
 Wire Bus Line
 	8550 4150 8800 4150
 Text GLabel 11000 1100 0    50   Input ~ 0
-D(0:15)
+D[0..15]
 Text GLabel 10950 4200 0    50   Input ~ 0
-D(0:15)
+D[0..15]
 Text Label 10650 1350 0    50   ~ 0
 D8
 Text Label 10650 1450 0    50   ~ 0
@@ -1393,6 +1391,8 @@ Connection ~ 3500 3450
 Wire Wire Line
 	3500 3450 3150 3450
 Connection ~ 3750 4350
+Wire Bus Line
+	6050 1350 6150 1350
 $Comp
 L CPU_NXP_68000:68000D U100
 U 1 1 5CEABE4E
@@ -1427,5 +1427,5 @@ Wire Bus Line
 Wire Bus Line
 	6050 3850 6050 5350
 Wire Bus Line
-	6050 1450 6050 3650
+	6050 1350 6050 3650
 $EndSCHEMATC

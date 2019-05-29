@@ -1,4 +1,4 @@
-EESchema Schematic File Version 4
+EESchema Schematic File Version 5
 LIBS:amiga2000-cache
 EELAYER 29 0
 EELAYER END
@@ -220,7 +220,7 @@ Entry Wire Line
 Wire Bus Line
 	4400 3800 3350 3800
 Text GLabel 3350 3800 0    50   Input ~ 0
-FC(0:2)
+FC[0..2]
 Wire Wire Line
 	6050 4950 4500 4950
 Wire Wire Line
@@ -242,7 +242,7 @@ _IPL1
 Text Label 4850 5350 0    50   ~ 0
 _IPL2
 Text GLabel 3350 4700 0    50   Input ~ 0
-_IPL(0:2)
+_IPL[0..2]
 Wire Wire Line
 	6050 6950 4500 6950
 Wire Wire Line
@@ -440,7 +440,7 @@ Entry Wire Line
 Wire Bus Line
 	6850 700  7600 700 
 Text GLabel 6850 700  0    50   Input ~ 0
-A(1:23)
+A[1..23]
 Wire Wire Line
 	5900 7250 7500 7250
 Wire Wire Line
@@ -540,7 +540,7 @@ Entry Wire Line
 Wire Bus Line
 	7600 10000 7500 10000
 Text GLabel 7500 10000 0    50   Input ~ 0
-D(0:15)
+D[0..15]
 $Comp
 L 74xx:74LS245 U600
 U 1 1 70D64200
@@ -1601,11 +1601,11 @@ Entry Wire Line
 Wire Bus Line
 	14100 7200 14750 7200
 Text GLabel 14750 7200 2    50   Input ~ 0
-BD(0:15)
+BD[0..15]
 Wire Bus Line
 	12100 5800 12850 5800
 Text GLabel 12850 5800 2    50   Input ~ 0
-BA(1:23)
+BA[1..23]
 $Comp
 L power:+5V #PWR0245
 U 1 1 71228FE0
@@ -1745,30 +1745,6 @@ Wire Wire Line
 	9100 13900 11000 13900
 Wire Wire Line
 	11000 13900 11000 13300
-Wire Bus Line
-	4400 3800 4400 4350
-Wire Bus Line
-	4400 4700 4400 5250
-Wire Bus Line
-	9750 12500 9750 12800
-Wire Bus Line
-	11650 7300 11650 8100
-Wire Bus Line
-	11500 9250 11500 10100
-Wire Bus Line
-	11200 7300 11200 9250
-Wire Bus Line
-	11200 9250 11200 10550
-Wire Bus Line
-	7600 700  7600 6750
-Wire Bus Line
-	7600 7150 7600 10000
-Wire Bus Line
-	9900 700  9900 5600
-Wire Bus Line
-	14100 7200 14100 10100
-Wire Bus Line
-	12100 900  12100 5800
 $Comp
 L power:GND #PWR0241
 U 1 1 71417CB4
@@ -1793,4 +1769,28 @@ F 3 "" H 9100 13900 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 Connection ~ 9100 13900
+Wire Bus Line
+	4400 3800 4400 4350
+Wire Bus Line
+	4400 4700 4400 5250
+Wire Bus Line
+	9750 12500 9750 12800
+Wire Bus Line
+	11650 7300 11650 8100
+Wire Bus Line
+	11500 9250 11500 10100
+Wire Bus Line
+	11200 7300 11200 9250
+Wire Bus Line
+	11200 9250 11200 10550
+Wire Bus Line
+	7600 700  7600 6750
+Wire Bus Line
+	7600 7150 7600 10000
+Wire Bus Line
+	9900 700  9900 5600
+Wire Bus Line
+	14100 7200 14100 10100
+Wire Bus Line
+	12100 900  12100 5800
 $EndSCHEMATC

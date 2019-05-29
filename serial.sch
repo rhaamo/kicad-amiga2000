@@ -1,4 +1,4 @@
-EESchema Schematic File Version 4
+EESchema Schematic File Version 5
 LIBS:amiga2000-cache
 EELAYER 29 0
 EELAYER END
@@ -113,9 +113,9 @@ A8
 Text Label 1150 6400 0    50   ~ 0
 A13
 Text GLabel 950  5700 0    50   Input ~ 0
-D(0:15)
+D[0..15]
 Text GLabel 950  5900 0    50   Input ~ 0
-A(1:23)
+A[1..23]
 Wire Wire Line
 	1350 6400 1150 6400
 Text GLabel 1350 6600 0    50   Input ~ 0

@@ -1,4 +1,4 @@
-EESchema Schematic File Version 4
+EESchema Schematic File Version 5
 LIBS:amiga2000-cache
 EELAYER 29 0
 EELAYER END
@@ -214,9 +214,9 @@ Entry Wire Line
 Entry Wire Line
 	1700 5200 1800 5300
 Text GLabel 1500 2550 0    50   Input ~ 0
-DRD(0:15)
+DRD[0..15]
 Text GLabel 1500 4400 0    50   Input ~ 0
-RGA(1:8)
+RGA[1..8]
 Wire Bus Line
 	1500 2550 1700 2550
 Wire Bus Line
@@ -627,7 +627,7 @@ Entry Wire Line
 Entry Wire Line
 	3850 900  3950 1000
 Text GLabel 3450 900  0    50   Input ~ 0
-R(0:3)
+R[0..3]
 Wire Wire Line
 	4050 800  3100 800 
 Wire Wire Line
@@ -651,7 +651,7 @@ Entry Wire Line
 Wire Bus Line
 	3000 1000 2900 1000
 Text GLabel 2900 1000 0    50   Input ~ 0
-G(0:3)
+G[0..3]
 Wire Wire Line
 	4250 1150 4250 700 
 Wire Wire Line
@@ -667,7 +667,7 @@ Entry Wire Line
 Entry Wire Line
 	2600 700  2700 600 
 Text GLabel 2750 600  2    50   Input ~ 0
-B(0:3)
+B[0..3]
 Wire Wire Line
 	4550 1150 4550 900 
 Text GLabel 4550 900  1    50   Input ~ 0
@@ -815,7 +815,7 @@ Wire Bus Line
 	6150 800  6250 800 
 Connection ~ 6150 800 
 Text GLabel 6250 800  2    50   Input ~ 0
-PPD(0:7)
+PPD[0..7]
 Text GLabel 7550 2100 0    50   Input ~ 0
 FLTLEFT
 Text GLabel 7600 1400 0    50   Input ~ 0
@@ -1110,11 +1110,11 @@ Wire Bus Line
 Wire Bus Line
 	11300 2650 11350 2650
 Text GLabel 11350 2650 2    50   Input ~ 0
-R(0:3)
+R[0..3]
 Text GLabel 11350 3100 2    50   Input ~ 0
-B(0:3)
+B[0..3]
 Text GLabel 11350 2850 2    50   Input ~ 0
-G(0:3)
+G[0..3]
 $Comp
 L Device:C_Feedthrough EMI208
 U 1 1 6EAF8516
@@ -2103,11 +2103,11 @@ Entry Wire Line
 Entry Wire Line
 	7400 3750 7500 3650
 Text GLabel 7450 3550 0    50   Input ~ 0
-R(0:3)
+R[0..3]
 Text GLabel 6900 5900 0    50   Input ~ 0
-B(0:3)
+B[0..3]
 Text GLabel 7600 5900 0    50   Input ~ 0
-G(0:3)
+G[0..3]
 Wire Bus Line
 	7550 3650 7550 3550
 Wire Bus Line
@@ -2494,6 +2494,9 @@ Wire Wire Line
 	5900 3850 5900 4000
 Wire Wire Line
 	9100 3850 9100 5250
+Connection ~ 5900 4000
+Wire Wire Line
+	5900 4000 5650 4000
 Wire Bus Line
 	11300 2950 11300 3100
 Wire Bus Line
@@ -2516,7 +2519,4 @@ Wire Bus Line
 	1700 4400 1700 5200
 Wire Bus Line
 	1700 2550 1700 4150
-Connection ~ 5900 4000
-Wire Wire Line
-	5900 4000 5650 4000
 $EndSCHEMATC

@@ -1,4 +1,4 @@
-EESchema Schematic File Version 4
+EESchema Schematic File Version 5
 LIBS:amiga2000-cache
 EELAYER 29 0
 EELAYER END
@@ -172,7 +172,7 @@ Entry Wire Line
 Wire Bus Line
 	1300 3300 1200 3300
 Text GLabel 1200 3300 0    50   Input ~ 0
-DRD(0:15)
+DRD[0..15]
 Text Label 1400 3700 0    50   ~ 0
 RGA8
 Text Label 1400 3800 0    50   ~ 0
@@ -206,7 +206,7 @@ Entry Wire Line
 Entry Wire Line
 	1300 4500 1400 4400
 Text GLabel 1200 4500 0    50   Input ~ 0
-RGA(1:8)
+RGA[1..8]
 Wire Bus Line
 	1200 4500 1300 4500
 Text Label 1400 4950 0    50   ~ 0
@@ -266,7 +266,7 @@ Wire Wire Line
 Wire Wire Line
 	1400 4750 1750 4750
 Text GLabel 1200 5050 0    50   Input ~ 0
-_CIPL(0:2)
+_CIPL[0..2]
 Entry Wire Line
 	1300 4850 1400 4750
 Entry Wire Line
