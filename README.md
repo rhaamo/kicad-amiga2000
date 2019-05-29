@@ -2,7 +2,7 @@
 
 # Revision
 
-Revision format is "original board rev"-"local revision"; ex. 6.0-2, 6.2-3
+Current schematics are 6.0 plus various 6.2 fixes incorporated as soon as I understand them on my board.
 
 # Libraries
 
@@ -23,8 +23,12 @@ TBD
 
 # Sources
 
+My own dying 6.2 A2000 board.
+
+This pre-6.2 schematics, best scan quality available...:
 - http://amiga.serveftp.net/Schematics/A2000_schematics/A2000_rev6_schematics_scanned.pdf
- - A2000_rev6_schematics_scanned.pdf
+
+Can be useful for PCB part:
 - https://github.com/Floppie209/Amiga2000-remake/
  - Solder-side.jpg
  - Component-side.jpg

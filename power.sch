@@ -7,7 +7,7 @@ encoding utf-8
 Sheet 5 13
 Title "B2000 Power"
 Date "07/06/1987"
-Rev "6.0-1"
+Rev "6.2-a"
 Comp "Commodore"
 Comment1 "Drawn by: Dave Haynie"
 Comment2 "Used on: A2000-CR"
