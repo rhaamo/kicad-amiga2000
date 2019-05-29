@@ -4,6 +4,10 @@
 
 Revision format is "original board rev"-"local revision"; ex. 6.0-2, 6.2-3
 
+# Libraries
+
+Uses libraries from https://dev.sigpipe.me/dashieelectronics/kicad_libraries
+
 # Various tools
 
 ## extract_labels.py
