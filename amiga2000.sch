@@ -7,7 +7,7 @@ encoding utf-8
 Sheet 1 13
 Title ""
 Date "07/06/1987"
-Rev ""
+Rev "6.0-1"
 Comp "Commodore"
 Comment1 "Drawn by: Dave Haynie"
 Comment2 "Used on: A2000-CR"

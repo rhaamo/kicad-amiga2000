@@ -7,7 +7,7 @@ encoding utf-8
 Sheet 3 13
 Title "B2000 Audio"
 Date "07/06/1987"
-Rev "2"
+Rev "6.0-1"
 Comp "Commodore"
 Comment1 "Drawn by: Dave Haynie"
 Comment2 "Used on: A2000-CR"
