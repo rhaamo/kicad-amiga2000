@@ -1871,10 +1871,10 @@ Wire Wire Line
 Wire Wire Line
 	12650 4950 11800 4950
 NoConn ~ 14350 6950
+Wire Wire Line
+	7850 2400 8250 2400
 Wire Bus Line
 	1800 5650 1800 5900
 Wire Bus Line
 	1800 4750 1800 5450
-Wire Wire Line
-	7850 2400 8250 2400
 $EndSCHEMATC

@@ -1369,26 +1369,6 @@ F 3 "" H 6400 2450 50  0001 C CNN
 	1    6400 2450
 	1    0    0    -1  
 $EndComp
-Wire Bus Line
-	7050 3250 7050 3500
-Wire Bus Line
-	6300 3250 7050 3250
-Wire Bus Line
-	13800 2750 13800 3050
-Wire Bus Line
-	3450 1250 3450 1700
-Wire Bus Line
-	1550 2450 1550 2900
-Wire Bus Line
-	1550 1100 1550 1700
-Wire Bus Line
-	1550 1800 1550 2300
-Wire Bus Line
-	850  1700 1400 1700
-Wire Bus Line
-	3350 7050 3350 7400
-Wire Bus Line
-	3350 7550 3350 7900
 $Comp
 L power:+5V #PWR0153
 U 1 1 6B47B0B0
@@ -1413,4 +1393,24 @@ F 3 "" H 5300 2200 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 Connection ~ 5300 2200
+Wire Bus Line
+	7050 3250 7050 3500
+Wire Bus Line
+	6300 3250 7050 3250
+Wire Bus Line
+	13800 2750 13800 3050
+Wire Bus Line
+	3450 1250 3450 1700
+Wire Bus Line
+	1550 2450 1550 2900
+Wire Bus Line
+	1550 1100 1550 1700
+Wire Bus Line
+	1550 1800 1550 2300
+Wire Bus Line
+	850  1700 1400 1700
+Wire Bus Line
+	3350 7050 3350 7400
+Wire Bus Line
+	3350 7550 3350 7900
 $EndSCHEMATC

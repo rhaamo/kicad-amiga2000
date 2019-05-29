@@ -2084,13 +2084,13 @@ Wire Wire Line
 	14950 6200 14950 8750
 Wire Wire Line
 	14450 8750 14950 8750
+Connection ~ 6800 4050
+Text Label 14600 8750 0    50   ~ 0
+Vref
 Wire Bus Line
 	1300 4850 1300 5050
 Wire Bus Line
 	1300 3800 1300 4500
 Wire Bus Line
 	1300 1800 1300 3300
-Connection ~ 6800 4050
-Text Label 14600 8750 0    50   ~ 0
-Vref
 $EndSCHEMATC
