@@ -1,5 +1,9 @@
 # Amiga 2000 KiCAD Schematics and PCB
 
+# Revision
+
+Revision format is "original board rev"-"local revision"; ex. 6.0-2, 6.2-3
+
 # Various tools
 
 ## extract_labels.py
