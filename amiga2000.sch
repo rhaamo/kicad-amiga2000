@@ -93,13 +93,13 @@ x done\n   to review
 Text Notes 4250 1300 0    50   ~ 0
 x done\n   to review
 Text Notes 5700 1300 0    50   ~ 0
-  done\n  to review
+x done\n   to review
 Text Notes 7250 1300 0    50   ~ 0
 x done\n   to review
 Text Notes 8750 1300 0    50   ~ 0
 x done\n   to review
 Text Notes 8750 2300 0    50   ~ 0
-  done\n  to review
+ x done\n   to review
 Text Notes 7300 2300 0    50   ~ 0
 x done\n   to review
 Text Notes 5750 2300 0    50   ~ 0
