@@ -875,13 +875,13 @@ D1
 Text Label 3600 7500 0    50   ~ 0
 D0
 Text Label 3600 7700 0    50   ~ 0
-A3
+A5
 Text Label 3600 7800 0    50   ~ 0
-A2
+A4
 Text Label 3600 7900 0    50   ~ 0
-A1
+A3
 Text Label 3600 8000 0    50   ~ 0
-A0
+A2
 Entry Wire Line
 	3350 7100 3450 7200
 Entry Wire Line
