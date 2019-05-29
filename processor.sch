@@ -1,4 +1,4 @@
-EESchema Schematic File Version 5
+EESchema Schematic File Version 4
 LIBS:amiga2000-cache
 EELAYER 29 0
 EELAYER END

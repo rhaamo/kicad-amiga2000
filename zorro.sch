@@ -1,4 +1,4 @@
-EESchema Schematic File Version 5
+EESchema Schematic File Version 4
 LIBS:amiga2000-cache
 EELAYER 29 0
 EELAYER END
@@ -402,7 +402,7 @@ Wire Wire Line
 	13500 4800 15600 4800
 Connection ~ 15600 4800
 Text GLabel 6200 4900 0    50   Input ~ 0
-OVR
+_OVR
 Wire Wire Line
 	6200 4900 6300 4900
 Connection ~ 6300 4900

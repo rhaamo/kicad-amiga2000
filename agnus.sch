@@ -1,4 +1,4 @@
-EESchema Schematic File Version 5
+EESchema Schematic File Version 4
 LIBS:amiga2000-cache
 EELAYER 29 0
 EELAYER END
@@ -927,7 +927,7 @@ _WE
 Text GLabel 10350 5950 2    50   Input ~ 0
 _RAS1
 Text GLabel 10350 5850 2    50   Input ~ 0
-__RAS0
+_RAS0
 Text GLabel 10350 5750 2    50   Input ~ 0
 _CASU
 Text GLabel 10350 5650 2    50   Input ~ 0
