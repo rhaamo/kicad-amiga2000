@@ -1599,4 +1599,12 @@ Wire Bus Line
 	5900 5750 5900 8200
 Wire Bus Line
 	7600 4350 7600 5950
+Text GLabel 2100 8850 0    50   Input ~ 0
+_LDS
+Text GLabel 2200 8950 0    50   Input ~ 0
+_UDS
+Text GLabel 2300 9050 0    50   Input ~ 0
+R_W
+Text GLabel 2400 9150 0    50   Input ~ 0
+_AS
 $EndSCHEMATC

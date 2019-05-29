@@ -110,4 +110,8 @@ Text Notes 2750 2300 0    50   ~ 0
 x done\n   to review
 Text Notes 1250 2300 0    50   ~ 0
 x done\n   to review
+Text Notes 1000 5100 0    79   ~ 0
+Various notes:\nPullup res of 1kohm between P36 of U800 and +5V is needed if the 74ALS245 is from Signetics.
+Text Notes 3500 4200 0    50   ~ 0
+TODO from notes and my 6.2 rev board:\n- Remove left connector from R215 and solder to left side of C215\n- Solder 68 ohms and 270 pF series to the far right of the 4 vias below CN303, ground the other end of the circuit\n- Remove capacitor C909\n\n- check the "buffer fix" on my 6.2 and the buffers RP903/902...\n- check "Remove left connector from R215 and solder to left side of C215"
 $EndSCHEMATC

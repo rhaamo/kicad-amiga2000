@@ -5,4 +5,5 @@
   (lib (name d_eeproms)(type Legacy)(uri /home/dashie/dev/kicad/libs/dashie/d_eeproms.lib)(options "")(descr ""))
   (lib (name d_memory)(type Legacy)(uri /home/dashie/dev/kicad/libs/dashie/d_memory.lib)(options "")(descr ""))
   (lib (name d_rtc)(type Legacy)(uri /home/dashie/dev/kicad/libs/dashie/d_rtc.lib)(options "")(descr ""))
+  (lib (name d_ics)(type Legacy)(uri /home/dashie/dev/kicad/libs/dashie/d_ics.lib)(options "")(descr ""))
 )

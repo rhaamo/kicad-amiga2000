@@ -393,8 +393,8 @@ Text GLabel 3650 1550 0    50   Input ~ 0
 Wire Wire Line
 	3650 1550 3750 1550
 Wire Wire Line
-	1550 3350 3750 3350
-Text GLabel 1550 3350 0    50   Input ~ 0
+	700  3350 850  3350
+Text GLabel 700  3350 0    50   Input ~ 0
 E
 Wire Wire Line
 	2550 1400 2550 1850
@@ -1404,6 +1404,50 @@ F 3 "https://www.nxp.com/docs/en/reference-manual/MC68000UM.pdf" H 4750 3750 50 
 	1    4750 3750
 	1    0    0    -1  
 $EndComp
+$Comp
+L Device:R R1
+U 1 1 5D139FBE
+P 850 3650
+F 0 "R1" H 920 3696 50  0000 L CNN
+F 1 "68" H 920 3605 50  0000 L CNN
+F 2 "" V 780 3650 50  0001 C CNN
+F 3 "~" H 850 3650 50  0001 C CNN
+	1    850  3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C1
+U 1 1 5D13AB75
+P 850 3950
+F 0 "C1" H 965 3996 50  0000 L CNN
+F 1 "270pF" H 965 3905 50  0000 L CNN
+F 2 "" H 888 3800 50  0001 C CNN
+F 3 "~" H 850 3950 50  0001 C CNN
+	1    850  3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0262
+U 1 1 5D13B4A3
+P 850 4100
+F 0 "#PWR0262" H 850 3850 50  0001 C CNN
+F 1 "GND" H 855 3927 50  0000 C CNN
+F 2 "" H 850 4100 50  0001 C CNN
+F 3 "" H 850 4100 50  0001 C CNN
+	1    850  4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	850  3350 850  3500
+Connection ~ 850  3350
+Wire Wire Line
+	850  3350 3750 3350
+Wire Notes Line
+	600  3450 1250 3450
+Wire Notes Line
+	1250 3450 1250 4400
+Wire Notes Line
+	1250 4400 600  4400
 Wire Bus Line
 	1850 1950 1850 2200
 Wire Bus Line
@@ -1428,4 +1472,6 @@ Wire Bus Line
 	6050 3850 6050 5350
 Wire Bus Line
 	6050 1350 6050 3650
+Text Notes 700  4150 1    50   ~ 0
+rev 6.2 fixes
 $EndSCHEMATC
