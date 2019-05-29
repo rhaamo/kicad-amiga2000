@@ -1818,8 +1818,6 @@ Wire Wire Line
 Wire Wire Line
 	3650 3750 3650 5000
 Wire Wire Line
-	3650 5000 6300 5000
-Wire Wire Line
 	7200 5000 9700 5000
 Connection ~ 7200 5000
 Wire Wire Line
@@ -1829,15 +1827,7 @@ Wire Wire Line
 	12200 5000 14200 5000
 Connection ~ 12200 5000
 Wire Wire Line
-	6300 5000 6300 8000
-Wire Wire Line
-	6300 8000 7200 8000
-Connection ~ 6300 5000
-Wire Wire Line
-	6300 5000 7200 5000
-Wire Wire Line
 	7200 8000 9700 8000
-Connection ~ 7200 8000
 Wire Wire Line
 	9700 8000 12150 8000
 Connection ~ 9700 8000
@@ -2082,6 +2072,135 @@ Wire Bus Line
 	15750 6800 15750 9800
 Text GLabel 7350 9800 0    50   Input ~ 0
 DRD(0:15)
+$Comp
+L power:GND #PWR0257
+U 1 1 7152E7BF
+P 2500 10100
+F 0 "#PWR0257" H 2500 9850 50  0001 C CNN
+F 1 "GND" H 2505 9927 50  0000 C CNN
+F 2 "" H 2500 10100 50  0001 C CNN
+F 3 "" H 2500 10100 50  0001 C CNN
+	1    2500 10100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1600 2300 700  2300
+Wire Wire Line
+	700  2300 700  2400
+Wire Wire Line
+	700  2400 1600 2400
+Wire Wire Line
+	700  2400 700  2700
+Wire Wire Line
+	700  4150 1600 4150
+Connection ~ 700  2400
+Wire Wire Line
+	1600 4250 700  4250
+Wire Wire Line
+	700  4250 700  4150
+Connection ~ 700  4150
+$Comp
+L power:GND #PWR0258
+U 1 1 715AAAF3
+P 700 4650
+F 0 "#PWR0258" H 700 4400 50  0001 C CNN
+F 1 "GND" H 705 4477 50  0000 C CNN
+F 2 "" H 700 4650 50  0001 C CNN
+F 3 "" H 700 4650 50  0001 C CNN
+	1    700  4650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	700  4250 700  4550
+Connection ~ 700  4250
+Wire Wire Line
+	2100 4550 700  4550
+Connection ~ 700  4550
+Wire Wire Line
+	700  4550 700  4650
+Wire Wire Line
+	2100 2700 700  2700
+Connection ~ 700  2700
+Wire Wire Line
+	700  2700 700  4150
+$Comp
+L Device:C C540
+U 1 1 716271D2
+P 2450 850
+F 0 "C540" H 2565 896 50  0000 L CNN
+F 1 "0.1uF" H 2565 805 50  0000 L CNN
+F 2 "" H 2488 700 50  0001 C CNN
+F 3 "~" H 2450 850 50  0001 C CNN
+	1    2450 850 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C541
+U 1 1 71627735
+P 2500 2800
+F 0 "C541" H 2615 2846 50  0000 L CNN
+F 1 "0.1uF" H 2615 2755 50  0000 L CNN
+F 2 "" H 2538 2650 50  0001 C CNN
+F 3 "~" H 2500 2800 50  0001 C CNN
+	1    2500 2800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2250 2700 2250 2650
+Wire Wire Line
+	2250 2650 2500 2650
+Wire Wire Line
+	2100 2700 2250 2700
+Connection ~ 2100 2700
+Wire Wire Line
+	2500 2950 2100 2950
+$Comp
+L power:+5V #PWR0259
+U 1 1 716A9775
+P 1950 2900
+F 0 "#PWR0259" H 1950 2750 50  0001 C CNN
+F 1 "+5V" V 1965 3028 50  0000 L CNN
+F 2 "" H 1950 2900 50  0001 C CNN
+F 3 "" H 1950 2900 50  0001 C CNN
+	1    1950 2900
+	0    -1   -1   0   
+$EndComp
+Connection ~ 2100 2950
+Wire Wire Line
+	1950 2900 2100 2900
+Wire Wire Line
+	2100 2900 2100 2950
+$Comp
+L power:+5V #PWR0260
+U 1 1 716D557D
+P 1950 1050
+F 0 "#PWR0260" H 1950 900 50  0001 C CNN
+F 1 "+5V" V 1965 1178 50  0000 L CNN
+F 2 "" H 1950 1050 50  0001 C CNN
+F 3 "" H 1950 1050 50  0001 C CNN
+	1    1950 1050
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1950 1050 2100 1050
+Wire Wire Line
+	2100 1050 2100 1100
+Wire Wire Line
+	2100 1050 2450 1050
+Wire Wire Line
+	2450 1050 2450 1000
+Connection ~ 2100 1050
+Wire Wire Line
+	700  700  2450 700 
+Wire Wire Line
+	700  700  700  2300
+Connection ~ 700  2300
+Wire Wire Line
+	3650 5000 7200 5000
+Wire Wire Line
+	4250 8000 7200 8000
+Wire Wire Line
+	4250 3750 4250 8000
 Wire Bus Line
 	3750 1850 5850 1850
 Wire Bus Line
@@ -2106,15 +2225,5 @@ Wire Bus Line
 	7650 6800 15750 6800
 Wire Bus Line
 	7350 9800 15750 9800
-$Comp
-L power:GND #PWR0257
-U 1 1 7152E7BF
-P 2500 10100
-F 0 "#PWR0257" H 2500 9850 50  0001 C CNN
-F 1 "GND" H 2505 9927 50  0000 C CNN
-F 2 "" H 2500 10100 50  0001 C CNN
-F 3 "" H 2500 10100 50  0001 C CNN
-	1    2500 10100
-	1    0    0    -1  
-$EndComp
+Connection ~ 7200 8000
 $EndSCHEMATC
