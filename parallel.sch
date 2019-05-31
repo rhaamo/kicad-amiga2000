@@ -2827,16 +2827,6 @@ Entry Wire Line
 	1450 4350 1550 4450
 Wire Wire Line
 	1450 4350 1450 3600
-Wire Bus Line
-	1200 4450 3050 4450
-Wire Bus Line
-	3050 4050 3050 4450
-Wire Bus Line
-	3050 3150 3050 3850
-Wire Bus Line
-	6650 4500 6650 5600
-Wire Bus Line
-	4950 5000 4950 5900
 $Comp
 L Device:C C2
 U 1 1 5D447991
@@ -2874,4 +2864,16 @@ Text Notes 1000 2700 0    50   ~ 0
 REV 6.2 fixes\n"the via" is A11 line tied to GND\nthrough C and R
 Text Notes 3050 6600 0    50   ~ 0
 REV 6.2 fixes list C909 as removed but I haven't seen\nit removed at all on numerous 6.2 boards.\nso it is kept here
+Wire Bus Line
+	1200 4450 3050 4450
+Wire Bus Line
+	3050 4050 3050 4450
+Wire Bus Line
+	3050 3150 3050 3850
+Wire Bus Line
+	6650 4500 6650 5600
+Wire Bus Line
+	4950 5000 4950 5900
+Text Label 1450 3850 1    50   ~ 0
+A11
 $EndSCHEMATC
