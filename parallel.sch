@@ -2823,45 +2823,6 @@ Wire Wire Line
 	14250 8250 15150 8250
 Text GLabel 15150 8250 2    50   Input ~ 0
 _BRST
-Entry Wire Line
-	1450 4350 1550 4450
-Wire Wire Line
-	1450 4350 1450 3600
-$Comp
-L Device:C C2
-U 1 1 5D447991
-P 1450 3450
-F 0 "C2" H 1565 3496 50  0000 L CNN
-F 1 "270pF" H 1565 3405 50  0000 L CNN
-F 2 "" H 1488 3300 50  0001 C CNN
-F 3 "~" H 1450 3450 50  0001 C CNN
-	1    1450 3450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:R R3
-U 1 1 5D4491FD
-P 1450 3150
-F 0 "R3" H 1520 3196 50  0000 L CNN
-F 1 "68" H 1520 3105 50  0000 L CNN
-F 2 "" V 1380 3150 50  0001 C CNN
-F 3 "~" H 1450 3150 50  0001 C CNN
-	1    1450 3150
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR0217
-U 1 1 5D44A7A4
-P 1450 3000
-F 0 "#PWR0217" H 1450 2750 50  0001 C CNN
-F 1 "GND" H 1455 2827 50  0000 C CNN
-F 2 "" H 1450 3000 50  0001 C CNN
-F 3 "" H 1450 3000 50  0001 C CNN
-	1    1450 3000
-	-1   0    0    1   
-$EndComp
-Text Notes 1000 2700 0    50   ~ 0
-REV 6.2 fixes\n"the via" is A11 line tied to GND\nthrough C and R
 Text Notes 3050 6600 0    50   ~ 0
 REV 6.2 fixes list C909 as removed but I haven't seen\nit removed at all on numerous 6.2 boards.\nso it is kept here
 Wire Bus Line
@@ -2874,6 +2835,4 @@ Wire Bus Line
 	6650 4500 6650 5600
 Wire Bus Line
 	4950 5000 4950 5900
-Text Label 1450 3850 1    50   ~ 0
-A11
 $EndSCHEMATC
