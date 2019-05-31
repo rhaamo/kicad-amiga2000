@@ -2,7 +2,7 @@
 
 # Revision
 
-Current schematics are 6.0 plus various 6.2 fixes incorporated as soon as I understand them on my board.
+Current schematics are based on 6.0 plus known 6.2 fixes.
 
 # Libraries
 
@@ -32,3 +32,5 @@ Can be useful for PCB part:
 - https://github.com/Floppie209/Amiga2000-remake/
  - Solder-side.jpg
  - Component-side.jpg
+
+Documented 6.2 fixes: https://wiki.sigpipe.me/amiga:a2000:rev6.2fixes

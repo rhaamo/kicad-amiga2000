@@ -32,3 +32,5 @@ Rev. 6.2
 
 Rev. 6.3 (installing Kickstart 2.03 and Denise 8373)
 Rev. 6.4 (replace old Agnus with 8375, instead of resistor R101: Capacitor (100nF) from right side of R101 to ground) 
+
+Wholly documented here with pictures: https://wiki.sigpipe.me/amiga:a2000:rev6.2fixes

@@ -1892,10 +1892,10 @@ Wire Wire Line
 Connection ~ 4150 1550
 Wire Wire Line
 	4150 1550 4250 1550
+Text Notes 3750 750  0    50   ~ 0
+rev 6.2 fixes: D802 removed, PST518B added\nalso that makes the ERC cry but whatever...
 Wire Bus Line
 	1800 5650 1800 5900
 Wire Bus Line
 	1800 4750 1800 5450
-Text Notes 3750 750  0    50   ~ 0
-rev 6.2 fixes: D802 removed, PST518B added\nalso that makes the ERC cry but whatever...
 $EndSCHEMATC
