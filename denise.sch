@@ -2269,17 +2269,6 @@ Wire Wire Line
 Text GLabel 6150 3600 2    50   Input ~ 0
 _BHS
 $Comp
-L power:+5V #PWR0218
-U 1 1 6FF373F7
-P 6800 4350
-F 0 "#PWR0218" H 6800 4200 50  0001 C CNN
-F 1 "+5V" V 6815 4478 50  0000 L CNN
-F 2 "" H 6800 4350 50  0001 C CNN
-F 3 "" H 6800 4350 50  0001 C CNN
-	1    6800 4350
-	0    1    1    0   
-$EndComp
-$Comp
 L power:GND #PWR0213
 U 1 1 6FF37F5F
 P 5150 2700
@@ -2289,28 +2278,6 @@ F 2 "" H 5150 2700 50  0001 C CNN
 F 3 "" H 5150 2700 50  0001 C CNN
 	1    5150 2700
 	0    1    -1   0   
-$EndComp
-$Comp
-L Device:C_Feedthrough EMI200
-U 1 1 6FF38969
-P 6600 4250
-F 0 "EMI200" H 6700 4250 50  0000 C CNN
-F 1 "C_Feedthrough" H 6600 4464 50  0001 C CNN
-F 2 "" V 6600 4250 50  0001 C CNN
-F 3 "~" V 6600 4250 50  0001 C CNN
-	1    6600 4250
-	-1   0    0    1   
-$EndComp
-$Comp
-L power:GND #PWR0217
-U 1 1 6FF392C9
-P 6600 4150
-F 0 "#PWR0217" H 6600 3900 50  0001 C CNN
-F 1 "GND" H 6605 3977 50  0000 C CNN
-F 2 "" H 6600 4150 50  0001 C CNN
-F 3 "" H 6600 4150 50  0001 C CNN
-	1    6600 4150
-	1    0    0    1   
 $EndComp
 $Comp
 L Device:R R215
@@ -2548,4 +2515,6 @@ F 3 "~" H 2100 6100 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 Connection ~ 2100 6100
+Text GLabel 6400 4350 2    50   Input ~ 0
++5V_USER
 $EndSCHEMATC

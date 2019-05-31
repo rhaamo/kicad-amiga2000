@@ -336,7 +336,7 @@ Text GLabel 2000 4450 0    50   Input ~ 0
 _CDAC
 Text GLabel 2000 4100 0    50   Input ~ 0
 _BRST
-Text GLabel 2000 4000 0    50   Input ~ 0
+Text GLabel 850  4000 0    50   Input ~ 0
 _BAS
 $Comp
 L 74xx:74LS32 U302
@@ -1404,6 +1404,8 @@ F 3 "~" H 6300 7550 50  0001 C CNN
 	1    6300 7550
 	0    1    1    0   
 $EndComp
+Wire Wire Line
+	850  4000 1050 4000
 Wire Bus Line
 	7050 3250 7050 3500
 Wire Bus Line
@@ -1424,4 +1426,31 @@ Wire Bus Line
 	3350 7050 3350 7400
 Wire Bus Line
 	3350 7550 3350 7900
+$Comp
+L Device:R R2
+U 1 1 5D3BFFB3
+P 1050 3850
+F 0 "R2" H 1120 3896 50  0000 L CNN
+F 1 "1k" H 1120 3805 50  0000 L CNN
+F 2 "" V 980 3850 50  0001 C CNN
+F 3 "~" H 1050 3850 50  0001 C CNN
+	1    1050 3850
+	1    0    0    -1  
+$EndComp
+Connection ~ 1050 4000
+Wire Wire Line
+	1050 4000 2000 4000
+$Comp
+L power:+5V #PWR0265
+U 1 1 5D3C02DA
+P 1050 3700
+F 0 "#PWR0265" H 1050 3550 50  0001 C CNN
+F 1 "+5V" H 1065 3873 50  0000 C CNN
+F 2 "" H 1050 3700 50  0001 C CNN
+F 3 "" H 1050 3700 50  0001 C CNN
+	1    1050 3700
+	1    0    0    -1  
+$EndComp
+Text Notes 650  3450 0    50   ~ 0
+REV 6.2 fix\np36 to +5 via 1k
 $EndSCHEMATC
