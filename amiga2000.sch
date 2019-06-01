@@ -110,4 +110,6 @@ Text Notes 2750 2300 0    50   ~ 0
 x done\n   to review
 Text Notes 1250 2300 0    50   ~ 0
 x done\n   to review
+Text Notes 950  5550 0    157  ~ 0
+Rev 6.3 fixes :\n - Kickstart 2.03 and Denise 8373\n\nRev 6.4 fixes :\n - Agnus 8375\n - Instead of R101, add a capacitor (100nF) from right side of R101 to ground
 $EndSCHEMATC
