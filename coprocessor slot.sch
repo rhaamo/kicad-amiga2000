@@ -1627,6 +1627,159 @@ F 3 "" H 9100 13900 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 Connection ~ 9100 13900
+Text Notes 8450 7100 0    50   ~ 0
+REV 6.2 fixes: RP900 and RP901, 3.3k both, connected to D[0..15] were removed\nAnd instead connected directly to U603 and U604
+Entry Wire Line
+	11100 10100 11200 10000
+Entry Wire Line
+	11100 10000 11200 9900
+Entry Wire Line
+	11100 9900 11200 9800
+Entry Wire Line
+	11100 9800 11200 9700
+Entry Wire Line
+	11100 9700 11200 9600
+Entry Wire Line
+	11100 9600 11200 9500
+Entry Wire Line
+	11100 9500 11200 9400
+Text Label 10850 9400 0    50   ~ 0
+D8
+Text Label 10850 10100 0    50   ~ 0
+D15
+Text Label 10850 9900 0    50   ~ 0
+D13
+Text Label 10850 9700 0    50   ~ 0
+D11
+Text Label 10850 9500 0    50   ~ 0
+D9
+Text Label 10850 9600 0    50   ~ 0
+D10
+Text Label 10850 10000 0    50   ~ 0
+D14
+Wire Wire Line
+	10800 10000 11100 10000
+Wire Wire Line
+	10800 10100 11100 10100
+Wire Wire Line
+	10800 9800 11100 9800
+Wire Wire Line
+	10800 9600 11100 9600
+Text Label 10850 9800 0    50   ~ 0
+D12
+Wire Wire Line
+	10800 9900 11100 9900
+Wire Wire Line
+	10800 9700 11100 9700
+Wire Wire Line
+	10800 9500 11100 9500
+Entry Wire Line
+	11100 7950 11200 7850
+Wire Wire Line
+	10800 7950 11100 7950
+Text Label 10900 7550 0    50   ~ 0
+D6
+Text Label 10900 7650 0    50   ~ 0
+D5
+Entry Wire Line
+	11100 8150 11200 8050
+Wire Wire Line
+	10800 8150 11100 8150
+Entry Wire Line
+	11100 8050 11200 7950
+Entry Wire Line
+	11100 7850 11200 7750
+Entry Wire Line
+	11100 7750 11200 7650
+Entry Wire Line
+	11100 7650 11200 7550
+Entry Wire Line
+	11100 7550 11200 7450
+Wire Wire Line
+	10800 7550 11100 7550
+Text Label 10900 7950 0    50   ~ 0
+D2
+Text Label 10900 7750 0    50   ~ 0
+D4
+Text Label 10900 7850 0    50   ~ 0
+D3
+Text Label 10900 7450 0    50   ~ 0
+D7
+Text Label 10900 8150 0    50   ~ 0
+D0
+Text Label 10900 8050 0    50   ~ 0
+D1
+Wire Wire Line
+	10800 7650 11100 7650
+Wire Wire Line
+	10800 7850 11100 7850
+Wire Wire Line
+	10800 8050 11100 8050
+Wire Wire Line
+	10800 7750 11100 7750
+$Comp
+L Device:R_Network09 RPF604
+U 1 1 710DFE94
+P 10600 9800
+F 0 "RPF604" V 11225 9800 50  0000 C CNN
+F 1 "3.3k" V 11134 9800 50  0000 C CNN
+F 2 "Resistor_THT:R_Array_SIP10" V 11175 9800 50  0001 C CNN
+F 3 "http://www.vishay.com/docs/31509/csc.pdf" H 10600 9800 50  0001 C CNN
+	1    10600 9800
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:R_Network09 RPF603
+U 1 1 710F61A5
+P 10600 7850
+F 0 "RPF603" V 11225 7850 50  0000 C CNN
+F 1 "3.3k" V 11134 7850 50  0000 C CNN
+F 2 "Resistor_THT:R_Array_SIP10" V 11175 7850 50  0001 C CNN
+F 3 "http://www.vishay.com/docs/31509/csc.pdf" H 10600 7850 50  0001 C CNN
+	1    10600 7850
+	0    -1   1    0   
+$EndComp
+$Comp
+L power:GND #PWR0217
+U 1 1 5D5A06E2
+P 10400 7450
+F 0 "#PWR0217" H 10400 7200 50  0001 C CNN
+F 1 "GND" H 10405 7277 50  0000 C CNN
+F 2 "" H 10400 7450 50  0001 C CNN
+F 3 "" H 10400 7450 50  0001 C CNN
+	1    10400 7450
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR0218
+U 1 1 5D5A112B
+P 10400 9400
+F 0 "#PWR0218" H 10400 9150 50  0001 C CNN
+F 1 "GND" H 10405 9227 50  0000 C CNN
+F 2 "" H 10400 9400 50  0001 C CNN
+F 3 "" H 10400 9400 50  0001 C CNN
+	1    10400 9400
+	-1   0    0    1   
+$EndComp
+Entry Wire Line
+	11100 7450 11200 7350
+Entry Wire Line
+	11100 9400 11200 9300
+Wire Wire Line
+	11100 9400 10800 9400
+Wire Wire Line
+	10800 10200 11300 10200
+Wire Wire Line
+	11300 10200 11300 10400
+Wire Wire Line
+	11300 10400 11750 10400
+Connection ~ 11750 10400
+Wire Wire Line
+	10800 7450 11100 7450
+Wire Wire Line
+	10800 8250 11750 8250
+Wire Wire Line
+	11750 8250 11750 8400
 Wire Bus Line
 	4400 3800 4400 4350
 Wire Bus Line
@@ -1651,148 +1804,4 @@ Wire Bus Line
 	14100 7200 14100 10100
 Wire Bus Line
 	12100 900  12100 5800
-Text Notes 8450 7100 0    50   ~ 0
-REV 6.2 fixes: RP900 and RP901, 3.3k both, connected to D[0..15] were removed\nAnd instead connected directly to U603 and U604\nHere they get the same name
-Entry Wire Line
-	11100 10200 11200 10100
-Entry Wire Line
-	11100 10100 11200 10000
-Entry Wire Line
-	11100 10000 11200 9900
-Entry Wire Line
-	11100 9900 11200 9800
-Entry Wire Line
-	11100 9800 11200 9700
-Entry Wire Line
-	11100 9700 11200 9600
-Entry Wire Line
-	11100 9600 11200 9500
-Entry Wire Line
-	11100 9500 11200 9400
-Text Label 10850 10200 0    50   ~ 0
-D8
-Text Label 10850 9500 0    50   ~ 0
-D15
-Text Label 10850 9700 0    50   ~ 0
-D13
-Text Label 10850 9900 0    50   ~ 0
-D11
-Text Label 10850 10100 0    50   ~ 0
-D9
-Text Label 10850 10000 0    50   ~ 0
-D10
-Text Label 10850 9600 0    50   ~ 0
-D14
-Wire Wire Line
-	10800 10000 11100 10000
-Wire Wire Line
-	10800 10200 11100 10200
-Wire Wire Line
-	10800 10100 11100 10100
-Wire Wire Line
-	10800 9800 11100 9800
-Wire Wire Line
-	10800 9600 11100 9600
-Text Label 10850 9800 0    50   ~ 0
-D12
-Wire Wire Line
-	10800 9900 11100 9900
-Wire Wire Line
-	10800 9700 11100 9700
-Wire Wire Line
-	10800 9500 11100 9500
-NoConn ~ 10800 9400
-Entry Wire Line
-	11100 8150 11200 8050
-Wire Wire Line
-	10800 8150 11100 8150
-Text Label 10950 8150 0    50   ~ 0
-D6
-Text Label 10950 8350 0    50   ~ 0
-D5
-Entry Wire Line
-	11100 8350 11200 8250
-Wire Wire Line
-	10800 8350 11100 8350
-Entry Wire Line
-	11100 8250 11200 8150
-Entry Wire Line
-	11100 8050 11200 7950
-Entry Wire Line
-	11100 7950 11200 7850
-Entry Wire Line
-	11100 7850 11200 7750
-Entry Wire Line
-	11100 7750 11200 7650
-Entry Wire Line
-	11100 7650 11200 7550
-Wire Wire Line
-	10800 7750 11100 7750
-Text Label 10950 7850 0    50   ~ 0
-D2
-Text Label 10950 8250 0    50   ~ 0
-D4
-Text Label 10950 8050 0    50   ~ 0
-D3
-Text Label 10950 7950 0    50   ~ 0
-D7
-Text Label 10950 7650 0    50   ~ 0
-D0
-Text Label 10950 7750 0    50   ~ 0
-D1
-Wire Wire Line
-	10800 7850 11100 7850
-Wire Wire Line
-	10800 8050 11100 8050
-Wire Wire Line
-	10800 8250 11100 8250
-Wire Wire Line
-	10800 7950 11100 7950
-Wire Wire Line
-	10800 7650 11100 7650
-NoConn ~ 10800 7550
-$Comp
-L power:+5V #PWR0245
-U 1 1 71228FE0
-P 10400 10200
-F 0 "#PWR0245" H 10400 10050 50  0001 C CNN
-F 1 "+5V" H 10415 10373 50  0000 C CNN
-F 2 "" H 10400 10200 50  0001 C CNN
-F 3 "" H 10400 10200 50  0001 C CNN
-	1    10400 10200
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:+5V #PWR0244
-U 1 1 71229744
-P 10400 8350
-F 0 "#PWR0244" H 10400 8200 50  0001 C CNN
-F 1 "+5V" H 10415 8523 50  0000 C CNN
-F 2 "" H 10400 8350 50  0001 C CNN
-F 3 "" H 10400 8350 50  0001 C CNN
-	1    10400 8350
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:R_Network09 RP901
-U 1 1 710DFE94
-P 10600 9800
-F 0 "RP901" V 11225 9800 50  0000 C CNN
-F 1 "3.3k" V 11134 9800 50  0000 C CNN
-F 2 "Resistor_THT:R_Array_SIP10" V 11175 9800 50  0001 C CNN
-F 3 "http://www.vishay.com/docs/31509/csc.pdf" H 10600 9800 50  0001 C CNN
-	1    10600 9800
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:R_Network09 RP900
-U 1 1 710F61A5
-P 10600 7950
-F 0 "RP900" V 11225 7950 50  0000 C CNN
-F 1 "3.3k" V 11134 7950 50  0000 C CNN
-F 2 "Resistor_THT:R_Array_SIP10" V 11175 7950 50  0001 C CNN
-F 3 "http://www.vishay.com/docs/31509/csc.pdf" H 10600 7950 50  0001 C CNN
-	1    10600 7950
-	0    -1   -1   0   
-$EndComp
 $EndSCHEMATC
