@@ -86,30 +86,30 @@ U 5CEA727E
 F0 "coprocessor slot" 50
 F1 "coprocessor slot.sch" 50
 $EndSheet
-Text Notes 1200 1300 0    50   ~ 0
-x done\n   to review
-Text Notes 2750 1300 0    50   ~ 0
-x done\n   to review
-Text Notes 4250 1300 0    50   ~ 0
-x done\n   to review
-Text Notes 5700 1300 0    50   ~ 0
-x done\n   to review
-Text Notes 7250 1300 0    50   ~ 0
-x done\n   to review
-Text Notes 8750 1300 0    50   ~ 0
-x done\n   to review
-Text Notes 8750 2300 0    50   ~ 0
- x done\n   to review
-Text Notes 7300 2300 0    50   ~ 0
-x done\n   to review
-Text Notes 5750 2300 0    50   ~ 0
-x done\n   to review
-Text Notes 4300 2300 0    50   ~ 0
-x done\n   to review
-Text Notes 2750 2300 0    50   ~ 0
-x done\n   to review
-Text Notes 1250 2300 0    50   ~ 0
-x done\n   to review
-Text Notes 950  5550 0    157  ~ 0
+Text Notes 1050 1350 0    79   ~ 0
+review 1 :\nreview 2 :
+Text Notes 900  6350 0    157  ~ 0
 Rev 6.3 fixes :\n - Kickstart 2.03 and Denise 8373\n\nRev 6.4 fixes :\n - Agnus 8375\n - Instead of R101, add a capacitor (100nF) from right side of R101 to ground
+Text Notes 1050 2350 0    79   ~ 0
+review 1 :\nreview 2 :
+Text Notes 2550 2350 0    79   ~ 0
+review 1 :\nreview 2 :
+Text Notes 4050 2350 0    79   ~ 0
+review 1 :\nreview 2 :
+Text Notes 5550 2350 0    79   ~ 0
+review 1 :\nreview 2 :
+Text Notes 5550 1350 0    79   ~ 0
+review 1 :\nreview 2 :
+Text Notes 4050 1350 0    79   ~ 0
+review 1 :\nreview 2 :
+Text Notes 2550 1350 0    79   ~ 0
+review 1 :\nreview 2 :
+Text Notes 7050 1350 0    79   ~ 0
+review 1 :\nreview 2 :
+Text Notes 8550 1350 0    79   ~ 0
+review 1 :\nreview 2 :
+Text Notes 8550 2350 0    79   ~ 0
+review 1 :\nreview 2 :
+Text Notes 7050 2350 0    79   ~ 0
+review 1 :\nreview 2 :
 $EndSCHEMATC

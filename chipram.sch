@@ -2205,6 +2205,7 @@ Wire Wire Line
 	12550 7300 12600 7300
 Wire Wire Line
 	12550 7300 12500 7300
+Connection ~ 12550 7300
 Wire Bus Line
 	3750 1850 5850 1850
 Wire Bus Line
@@ -2229,5 +2230,4 @@ Wire Bus Line
 	7650 6800 15750 6800
 Wire Bus Line
 	7350 9800 15750 9800
-Connection ~ 12550 7300
 $EndSCHEMATC

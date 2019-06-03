@@ -2087,12 +2087,6 @@ Wire Wire Line
 Connection ~ 6800 4050
 Text Label 14600 8750 0    50   ~ 0
 Vref
-Wire Bus Line
-	1300 4850 1300 5050
-Wire Bus Line
-	1300 3800 1300 4500
-Wire Bus Line
-	1300 1800 1300 3300
 $Comp
 L power:PWR_FLAG #FLG01
 U 1 1 5D60601F
@@ -2128,4 +2122,10 @@ F 3 "~" H 10850 9000 50  0001 C CNN
 	1    10850 9000
 	-1   0    0    1   
 $EndComp
+Wire Bus Line
+	1300 4850 1300 5050
+Wire Bus Line
+	1300 3800 1300 4500
+Wire Bus Line
+	1300 1800 1300 3300
 $EndSCHEMATC

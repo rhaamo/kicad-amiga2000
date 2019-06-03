@@ -1406,26 +1406,6 @@ F 3 "~" H 6300 7550 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	850  4000 1050 4000
-Wire Bus Line
-	7050 3250 7050 3500
-Wire Bus Line
-	6300 3250 7050 3250
-Wire Bus Line
-	13800 2750 13800 3050
-Wire Bus Line
-	3450 1250 3450 1700
-Wire Bus Line
-	1550 2450 1550 2900
-Wire Bus Line
-	1550 1100 1550 1700
-Wire Bus Line
-	1550 1800 1550 2300
-Wire Bus Line
-	850  1700 1400 1700
-Wire Bus Line
-	3350 7050 3350 7400
-Wire Bus Line
-	3350 7550 3350 7900
 $Comp
 L Device:R R2
 U 1 1 5D3BFFB3
@@ -1453,4 +1433,24 @@ F 3 "" H 1050 3700 50  0001 C CNN
 $EndComp
 Text Notes 650  3450 0    50   ~ 0
 REV 6.2 fix\np36 to +5 via 1k
+Wire Bus Line
+	7050 3250 7050 3500
+Wire Bus Line
+	6300 3250 7050 3250
+Wire Bus Line
+	13800 2750 13800 3050
+Wire Bus Line
+	3450 1250 3450 1700
+Wire Bus Line
+	1550 2450 1550 2900
+Wire Bus Line
+	1550 1100 1550 1700
+Wire Bus Line
+	1550 1800 1550 2300
+Wire Bus Line
+	850  1700 1400 1700
+Wire Bus Line
+	3350 7050 3350 7400
+Wire Bus Line
+	3350 7550 3350 7900
 $EndSCHEMATC

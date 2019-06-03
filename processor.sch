@@ -378,8 +378,6 @@ Wire Wire Line
 	5750 5350 5950 5350
 Wire Wire Line
 	5950 5450 5750 5450
-Wire Bus Line
-	6050 3850 6150 3850
 Text GLabel 6150 1350 2    50   Input ~ 0
 A[1..23]
 Text GLabel 6150 3850 2    50   Input ~ 0
@@ -1450,6 +1448,8 @@ Wire Notes Line
 	1250 4400 600  4400
 Text Notes 700  4150 1    50   ~ 0
 rev 6.2 fixes
+Wire Bus Line
+	6050 3850 6150 3850
 Wire Bus Line
 	1850 1950 1850 2200
 Wire Bus Line

@@ -2469,28 +2469,6 @@ Wire Wire Line
 	10300 1900 10550 1900
 Wire Wire Line
 	10550 1900 10550 1850
-Wire Bus Line
-	11300 2950 11300 3100
-Wire Bus Line
-	2650 600  2750 600 
-Wire Bus Line
-	3450 900  3850 900 
-Wire Bus Line
-	3000 850  3000 1000
-Wire Bus Line
-	7200 3650 7550 3650
-Wire Bus Line
-	7350 5800 7700 5800
-Wire Bus Line
-	6600 5800 6950 5800
-Wire Bus Line
-	5050 800  6150 800 
-Wire Bus Line
-	5050 2000 6150 2000
-Wire Bus Line
-	1700 4400 1700 5200
-Wire Bus Line
-	1700 2550 1700 4150
 $Comp
 L power:PWR_FLAG #FLG0107
 U 1 1 5DAEFE05
@@ -2517,4 +2495,26 @@ $EndComp
 Connection ~ 2100 6100
 Text GLabel 6400 4350 2    50   Input ~ 0
 +5V_USER
+Wire Bus Line
+	11300 2950 11300 3100
+Wire Bus Line
+	2650 600  2750 600 
+Wire Bus Line
+	3450 900  3850 900 
+Wire Bus Line
+	3000 850  3000 1000
+Wire Bus Line
+	7200 3650 7550 3650
+Wire Bus Line
+	7350 5800 7700 5800
+Wire Bus Line
+	6600 5800 6950 5800
+Wire Bus Line
+	5050 800  6150 800 
+Wire Bus Line
+	5050 2000 6150 2000
+Wire Bus Line
+	1700 4400 1700 5200
+Wire Bus Line
+	1700 2550 1700 4150
 $EndSCHEMATC
