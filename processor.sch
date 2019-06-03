@@ -1474,4 +1474,16 @@ Wire Bus Line
 	6050 3850 6050 5350
 Wire Bus Line
 	6050 1350 6050 3650
+Text Label 3500 1850 0    50   ~ 0
+_IPL0
+Text Label 3500 1950 0    50   ~ 0
+_IPL1
+Text Label 3500 2050 0    50   ~ 0
+_IPL2
+Text Label 3550 2750 0    50   ~ 0
+FC0
+Text Label 3550 2850 0    50   ~ 0
+FC1
+Text Label 3550 2950 0    50   ~ 0
+FC2
 $EndSCHEMATC
