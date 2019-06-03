@@ -339,15 +339,16 @@ F 3 "http://www.ti.com/lit/gpn/sn74LS157" H 4650 8750 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L Connector:DB9_Female CN200
+L Connector:DB9_Male_MountingHoles CN200
 U 1 1 5CF14CAD
 P 8450 7700
 F 0 "CN200" H 8630 7746 50  0000 L CNN
 F 1 "DB9P RIGHT(1)" H 8630 7655 50  0000 L CNN
 F 2 "" H 8450 7700 50  0001 C CNN
 F 3 " ~" H 8450 7700 50  0001 C CNN
+F 4 "Male" H 8450 7700 50  0001 C CNN "Gender"
 	1    8450 7700
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L Device:C C210
@@ -513,15 +514,16 @@ POTY
 Text Label 8100 8100 2    50   ~ 0
 POTX
 $Comp
-L Connector:DB9_Female CN201
+L Connector:DB9_Male_MountingHoles CN201
 U 1 1 5CF88629
 P 8500 9900
 F 0 "CN201" H 8680 9946 50  0000 L CNN
 F 1 "DB9P LEFT(0)" H 8680 9855 50  0000 L CNN
 F 2 "" H 8500 9900 50  0001 C CNN
 F 3 " ~" H 8500 9900 50  0001 C CNN
+F 4 "Male" H 8500 9900 50  0001 C CNN "Gender"
 	1    8500 9900
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 Text Label 7800 9500 0    50   ~ 0
 FORWARD
@@ -2243,11 +2245,33 @@ Wire Wire Line
 	8200 10000 7650 10000
 Wire Wire Line
 	7650 10000 7650 10300
+Connection ~ 7650 10300
 Wire Bus Line
 	1300 4850 1300 5050
 Wire Bus Line
 	1300 3800 1300 4500
 Wire Bus Line
 	1300 1800 1300 3300
-Connection ~ 7650 10300
+$Comp
+L power:GND #PWR?
+U 1 1 5D8F333D
+P 8450 7100
+F 0 "#PWR?" H 8450 6850 50  0001 C CNN
+F 1 "GND" H 8455 6927 50  0000 C CNN
+F 2 "" H 8450 7100 50  0001 C CNN
+F 3 "" H 8450 7100 50  0001 C CNN
+	1    8450 7100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5D8F3978
+P 8500 9300
+F 0 "#PWR?" H 8500 9050 50  0001 C CNN
+F 1 "GND" H 8505 9127 50  0000 C CNN
+F 2 "" H 8500 9300 50  0001 C CNN
+F 3 "" H 8500 9300 50  0001 C CNN
+	1    8500 9300
+	0    -1   -1   0   
+$EndComp
 $EndSCHEMATC

@@ -639,15 +639,16 @@ Wire Wire Line
 	5250 2750 5250 2950
 Connection ~ 5150 2750
 $Comp
-L Connector:DB25_Female CN305
+L Connector:DB25_Male_MountingHoles CN305
 U 1 1 5DD269D4
 P 14650 6650
 F 0 "CN305" H 14830 6696 50  0000 L CNN
 F 1 "DB25P" H 14830 6605 50  0000 L CNN
 F 2 "" H 14650 6650 50  0001 C CNN
 F 3 " ~" H 14650 6650 50  0001 C CNN
+F 4 "Male" H 14650 6650 50  0001 C CNN "Gender"
 	1    14650 6650
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L Transistor_BJT:2N3906 Q302
@@ -729,6 +730,7 @@ F 0 "CN304" V 11100 3512 50  0000 R CNN
 F 1 "Conn_02x13_Odd_Even" V 11055 3512 50  0001 R CNN
 F 2 "" H 11050 4200 50  0001 C CNN
 F 3 "~" H 11050 4200 50  0001 C CNN
+F 4 "Male" V 11050 4200 50  0001 C CNN "Gender"
 	1    11050 4200
 	0    -1   -1   0   
 $EndComp
@@ -832,7 +834,7 @@ F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 6250 3450 50  0001 C CNN
 	2    6250 3450
 	1    0    0    -1  
 $EndComp
-Text Notes 13750 5200 0    157  ~ 0
+Text Notes 13800 5050 0    157  ~ 0
 EXTERNAL SERIAL
 $Comp
 L Device:C_Feedthrough EMI326
@@ -1898,4 +1900,15 @@ Wire Bus Line
 	1800 5650 1800 5900
 Wire Bus Line
 	1800 4750 1800 5450
+$Comp
+L power:GND #PWR?
+U 1 1 5D8F7764
+P 14650 5250
+F 0 "#PWR?" H 14650 5000 50  0001 C CNN
+F 1 "GND" H 14655 5077 50  0000 C CNN
+F 2 "" H 14650 5250 50  0001 C CNN
+F 3 "" H 14650 5250 50  0001 C CNN
+	1    14650 5250
+	0    -1   -1   0   
+$EndComp
 $EndSCHEMATC

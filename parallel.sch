@@ -33,6 +33,7 @@ F 0 "CN302" V 12785 2450 50  0000 C CNN
 F 1 "EXTERNAL FLOPPY" V 12876 2450 50  0000 C CNN
 F 2 "" H 13100 2350 50  0001 C CNN
 F 3 " ~" H 13100 2350 50  0001 C CNN
+F 4 "Female" V 13150 2450 50  0001 C CNN "Gender"
 	1    13150 2450
 	0    -1   1    0   
 $EndComp
@@ -44,17 +45,19 @@ F 0 "CN303" H 15700 6325 50  0000 C CNN
 F 1 "Conn_02x17_Odd_Even" H 15700 6326 50  0001 C CNN
 F 2 "" H 15650 5400 50  0001 C CNN
 F 3 "~" H 15650 5400 50  0001 C CNN
+F 4 "Male" H 15650 5400 50  0001 C CNN "Gender"
 	1    15650 5400
 	-1   0    0    -1  
 $EndComp
 $Comp
-L Connector:DB25_Female CN301
+L Connector:DB25_Female_MountingHoles CN301
 U 1 1 6B84D7F5
 P 9150 5750
 F 0 "CN301" H 9330 5796 50  0000 L CNN
 F 1 "CENTRONICS" H 9330 5705 50  0000 L CNN
 F 2 "" H 9150 5750 50  0001 C CNN
 F 3 " ~" H 9150 5750 50  0001 C CNN
+F 4 "Female" H 9150 5750 50  0001 C CNN "Gender"
 	1    9150 5750
 	1    0    0    -1  
 $EndComp
@@ -66,6 +69,7 @@ F 0 "CN300" H 10100 833 50  0000 C CNN
 F 1 "KEYBOARD" H 10100 924 50  0000 C CNN
 F 2 "" H 10100 1200 50  0001 C CNN
 F 3 "http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf" H 10100 1200 50  0001 C CNN
+F 4 "Female" H 10100 1200 50  0001 C CNN "Gender"
 	1    10100 1200
 	1    0    0    1   
 $EndComp
@@ -631,21 +635,19 @@ Wire Wire Line
 $Comp
 L power:GND #PWR0182
 U 1 1 6B8C755F
-P 8750 7150
-F 0 "#PWR0182" H 8750 6900 50  0001 C CNN
-F 1 "GND" H 8755 6977 50  0000 C CNN
-F 2 "" H 8750 7150 50  0001 C CNN
-F 3 "" H 8750 7150 50  0001 C CNN
-	1    8750 7150
+P 8750 7200
+F 0 "#PWR0182" H 8750 6950 50  0001 C CNN
+F 1 "GND" H 8755 7027 50  0000 C CNN
+F 2 "" H 8750 7200 50  0001 C CNN
+F 3 "" H 8750 7200 50  0001 C CNN
+	1    8750 7200
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	8850 6850 8750 6850
 Wire Wire Line
-	8750 6850 8750 7100
-Connection ~ 8750 7100
-Wire Wire Line
-	8750 7100 8750 7150
+	8750 6850 8750 7150
+Connection ~ 8750 7150
 Wire Wire Line
 	8850 6650 8750 6650
 Wire Wire Line
@@ -733,12 +735,12 @@ Wire Wire Line
 	8250 4450 8500 4450
 Connection ~ 8500 4450
 Wire Wire Line
-	7800 6350 7800 7100
+	7800 6350 7800 7150
 Wire Wire Line
-	7800 7100 8100 7100
+	7800 7150 8100 7150
 Wire Wire Line
-	7300 7100 7800 7100
-Connection ~ 7800 7100
+	7300 7150 7800 7150
+Connection ~ 7800 7150
 Wire Wire Line
 	7800 6050 8200 6050
 Wire Wire Line
@@ -778,7 +780,7 @@ Wire Wire Line
 Connection ~ 7550 6200
 Connection ~ 7300 6650
 Wire Wire Line
-	7300 6650 7300 7100
+	7300 6650 7300 7150
 Wire Wire Line
 	7550 5900 7550 5600
 Wire Wire Line
@@ -1280,10 +1282,10 @@ F 3 "~" H 8100 7400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	8100 7250 8100 7100
-Connection ~ 8100 7100
+	8100 7250 8100 7150
+Connection ~ 8100 7150
 Wire Wire Line
-	8100 7100 8750 7100
+	8100 7150 8750 7150
 Wire Wire Line
 	8300 3850 8150 3850
 Wire Wire Line
@@ -2825,6 +2827,10 @@ Text GLabel 15150 8250 2    50   Input ~ 0
 _BRST
 Text Notes 3050 6600 0    50   ~ 0
 REV 6.2 fixes list C909 as removed but I haven't seen\nit removed at all on numerous 6.2 boards.\nso it is kept here
+Wire Wire Line
+	9150 7150 8750 7150
+Wire Wire Line
+	8750 7150 8750 7200
 Wire Bus Line
 	1200 4450 3050 4450
 Wire Bus Line
