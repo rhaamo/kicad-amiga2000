@@ -368,7 +368,7 @@ F 1 "LM339" H 762 2345 50  0000 R CNN
 F 2 "" H 900 2400 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/lm339.pdf" H 1000 2500 50  0001 C CNN
 	5    950  2300
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 $Comp
 L Device:C C805
@@ -1896,10 +1896,6 @@ Wire Wire Line
 	4150 1550 4250 1550
 Text Notes 3750 750  0    50   ~ 0
 rev 6.2 fixes: D802 removed, PST518B added\nalso that makes the ERC cry but whatever...
-Wire Bus Line
-	1800 5650 1800 5900
-Wire Bus Line
-	1800 4750 1800 5450
 $Comp
 L power:GND #PWR0268
 U 1 1 5D8F7764
@@ -1911,4 +1907,8 @@ F 3 "" H 14650 5250 50  0001 C CNN
 	1    14650 5250
 	0    -1   -1   0   
 $EndComp
+Wire Bus Line
+	1800 5650 1800 5900
+Wire Bus Line
+	1800 4750 1800 5450
 $EndSCHEMATC
