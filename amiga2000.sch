@@ -105,11 +105,13 @@ review 1 : ok\nreview 2 :
 Text Notes 2550 1350 0    79   ~ 0
 review 1 : ok\nreview 2 :
 Text Notes 7050 1350 0    79   ~ 0
-review 1 :\nreview 2 :
+review 1 : ok\nreview 2 :
 Text Notes 8550 1350 0    79   ~ 0
 review 1 :\nreview 2 :
 Text Notes 8550 2350 0    79   ~ 0
 review 1 :\nreview 2 :
 Text Notes 7050 2350 0    79   ~ 0
 review 1 :\nreview 2 :
+Text Notes 1850 3950 0    118  ~ 0
+Notes: XX4256-15 pins 18 and 19 are swapped in the original scanned schematics\npin 18 of U501 is DRD2, and 19 is DRD3.
 $EndSCHEMATC
