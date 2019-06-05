@@ -44,8 +44,6 @@ Text Label 900  2200 0    50   ~ 0
 GND4
 Text Label 900  2300 0    50   ~ 0
 +12V
-Text Label 900  2400 0    50   ~ 0
-KEY
 Text Label 900  2500 0    50   ~ 0
 -12V
 Text Label 900  2600 0    50   ~ 0
@@ -88,9 +86,7 @@ Wire Wire Line
 Wire Wire Line
 	1150 2200 1150 2100
 Connection ~ 1150 2100
-Wire Wire Line
-	750  2400 1250 2400
-NoConn ~ 1250 2400
+NoConn ~ 750  2400
 $Comp
 L Device:CP C400
 U 1 1 5DDD679A
@@ -930,4 +926,6 @@ Wire Wire Line
 Connection ~ 2000 3900
 Wire Wire Line
 	2000 3900 2400 3900
+Text Notes 900  2400 0    50   ~ 0
+key
 $EndSCHEMATC
