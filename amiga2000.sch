@@ -91,9 +91,9 @@ review 1 : ok\nreview 2 :
 Text Notes 900  6350 0    157  ~ 0
 Rev 6.3 fixes :\n - Kickstart 2.03 and Denise 8373\n\nRev 6.4 fixes :\n - Agnus 8375\n - Instead of R101, add a capacitor (100nF) from right side of R101 to ground
 Text Notes 1050 2350 0    79   ~ 0
-review 1 :\nreview 2 :
+review 1 : ok\nreview 2 :
 Text Notes 2550 2350 0    79   ~ 0
-review 1 :\nreview 2 :
+review 1 : ok\nreview 2 :
 Text Notes 4050 2350 0    79   ~ 0
 review 1 :\nreview 2 :
 Text Notes 5550 2350 0    79   ~ 0
