@@ -1855,10 +1855,8 @@ Wire Wire Line
 	11700 1150 11100 1150
 Wire Wire Line
 	11100 1150 11100 6000
-Wire Wire Line
-	11100 6000 15300 6000
 Connection ~ 11700 1150
-Text Label 15300 6000 2    50   ~ 0
+Text Label 15250 6000 2    50   ~ 0
 _DKRD
 Wire Wire Line
 	15650 2200 15150 2200
@@ -2482,9 +2480,6 @@ Wire Wire Line
 	15950 8950 15400 8950
 Wire Wire Line
 	15950 6750 15950 8950
-Connection ~ 15300 6000
-Wire Wire Line
-	15300 6000 15350 6000
 Wire Wire Line
 	15300 6000 15300 6750
 Wire Wire Line
@@ -2841,4 +2836,6 @@ Wire Bus Line
 	6650 4500 6650 5600
 Wire Bus Line
 	4950 5000 4950 5900
+Wire Wire Line
+	11100 6000 15350 6000
 $EndSCHEMATC
