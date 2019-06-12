@@ -1,0 +1,3 @@
+[submodule "kicad_libraries"]
+	path = kicad_libraries
+	url = https://dev.sigpipe.me/dashieelectronics/kicad_libraries
