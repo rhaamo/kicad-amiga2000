@@ -97,7 +97,7 @@ review 1 : ok\nreview 2 :
 Text Notes 4050 2350 0    79   ~ 0
 review 1 : ok\nreview 2 :
 Text Notes 5550 2350 0    79   ~ 0
-review 1 :\nreview 2 :
+review 1 : ok\nreview 2 :
 Text Notes 5550 1350 0    79   ~ 0
 review 1 : ok\nreview 2 :
 Text Notes 4050 1350 0    79   ~ 0
