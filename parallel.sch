@@ -73,8 +73,6 @@ F 4 "Female" H 10100 1200 50  0001 C CNN "Gender"
 	1    10100 1200
 	1    0    0    1   
 $EndComp
-Text Notes 9350 750  0    50   ~ 0
-TODO: keyboard connector to be checked...
 $Comp
 L Device:Ferrite_Bead_Small FB301
 U 1 1 6B851834
@@ -2826,6 +2824,8 @@ Wire Wire Line
 	9150 7150 8750 7150
 Wire Wire Line
 	8750 7150 8750 7200
+Wire Wire Line
+	11100 6000 15350 6000
 Wire Bus Line
 	1200 4450 3050 4450
 Wire Bus Line
@@ -2836,6 +2836,4 @@ Wire Bus Line
 	6650 4500 6650 5600
 Wire Bus Line
 	4950 5000 4950 5900
-Wire Wire Line
-	11100 6000 15350 6000
 $EndSCHEMATC
