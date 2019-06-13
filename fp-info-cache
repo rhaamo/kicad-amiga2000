@@ -1,4 +1,4 @@
-15936619361811717
+15942996805697717
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -39879,6 +39879,13 @@ USB A Vertical
 7
 5
 Connector_USB
+USB_A_Stewart_SS-52100-001_Horizontal
+USB A connector https://belfuse.com/resources/drawings/stewartconnector/dr-stw-ss-52100-001.pdf
+USB_A Female Connector receptacle
+0
+6
+5
+Connector_USB
 USB_A_Wuerth_61400826021_Horizontal_Stacked
 Stacked USB A connector http://katalog.we-online.de/em/datasheet/61400826021.pdf
 Wuerth stacked USB_A
@@ -52744,6 +52751,20 @@ QFN DFN_QFN
 0
 31
 17
+Package_DFN_QFN
+QFN-20-1EP_3.5x3.5mm_P0.5mm_EP2x2mm
+QFN, 20 Pin (http://www.ti.com/lit/ml/mpqf239/mpqf239.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+25
+21
+Package_DFN_QFN
+QFN-20-1EP_3.5x3.5mm_P0.5mm_EP2x2mm_ThermalVias
+QFN, 20 Pin (http://www.ti.com/lit/ml/mpqf239/mpqf239.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+30
+21
 Package_DFN_QFN
 QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm
 QFN, 20 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/3553fc.pdf#page=34), generated with kicad-footprint-generator ipc_noLead_generator.py
