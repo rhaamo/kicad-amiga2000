@@ -1,4 +1,4 @@
-15953921017432644
+15957046666283644
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -6976,8 +6976,8 @@ DSUB-25_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOff
 25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 7.699999999999999mm, distance of mounting holes 47.1mm, distance of mounting holes to PCB edge 9.12mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
 25-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 7.699999999999999mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm
 0
-27
 26
+25
 Connector_Dsub
 DSUB-25_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm
 25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
@@ -44099,6 +44099,20 @@ COPRO
 0
 86
 86
+d_amiga
+DIN_5_KBD
+
+
+0
+7
+5
+d_amiga
+DSUB-23_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm
+25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 7.699999999999999mm, distance of mounting holes 47.1mm, distance of mounting holes to PCB edge 9.12mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+25-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 7.699999999999999mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm
+0
+25
+24
 d_amiga
 RCA
 3 Pins Amiga RCA jack
