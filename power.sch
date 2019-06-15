@@ -115,7 +115,7 @@ U 1 1 5DDD76F1
 P 3050 1700
 F 0 "C402" H 3168 1746 50  0000 L CNN
 F 1 "47uF 16V" H 3168 1655 50  0000 L CNN
-F 2 "Capacitor_THT:C_Rect_L11.0mm_W2.8mm_P10.00mm_MKT" H 3088 1550 50  0001 C CNN
+F 2 "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm" H 3088 1550 50  0001 C CNN
 F 3 "~" H 3050 1700 50  0001 C CNN
 	1    3050 1700
 	1    0    0    -1  
@@ -907,25 +907,102 @@ Connection ~ 2000 5900
 Wire Wire Line
 	2000 5900 1600 5900
 Wire Wire Line
-	2000 5900 2000 5400
+	2000 5900 2000 5650
 Wire Wire Line
 	2000 5400 1600 5400
 Wire Wire Line
-	2000 5400 2000 4900
+	2000 5400 2000 5150
 Connection ~ 2000 5400
 Connection ~ 2000 4900
 Wire Wire Line
 	2000 4900 2400 4900
 Wire Wire Line
-	2000 4900 2000 4400
+	2000 4900 2000 4650
 Connection ~ 2000 4400
 Wire Wire Line
 	2000 4400 1600 4400
 Wire Wire Line
-	2000 4400 2000 3900
+	2000 4400 2000 4150
 Connection ~ 2000 3900
 Wire Wire Line
 	2000 3900 2400 3900
 Text Notes 900  2400 0    50   ~ 0
 key
+$Comp
+L Mechanical:MountingHole_Pad H13
+U 1 1 5D27BD54
+P 2500 5400
+F 0 "H13" V 2500 5550 50  0000 L CNN
+F 1 "MountingHole_Pad" H 2600 5358 50  0001 L CNN
+F 2 "MountingHole:MountingHole_4mm_Pad_Via" H 2500 5400 50  0001 C CNN
+F 3 "~" H 2500 5400 50  0001 C CNN
+	1    2500 5400
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	2000 5400 2400 5400
+$Comp
+L Mechanical:MountingHole_Pad H10
+U 1 1 5D281946
+P 2500 4150
+F 0 "H10" V 2500 4300 50  0000 L CNN
+F 1 "MountingHole_Pad" H 2600 4108 50  0001 L CNN
+F 2 "MountingHole:MountingHole_4mm_Pad_Via" H 2500 4150 50  0001 C CNN
+F 3 "~" H 2500 4150 50  0001 C CNN
+	1    2500 4150
+	0    1    1    0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H11
+U 1 1 5D281D87
+P 2500 4650
+F 0 "H11" V 2500 4800 50  0000 L CNN
+F 1 "MountingHole_Pad" H 2600 4608 50  0001 L CNN
+F 2 "MountingHole:MountingHole_4mm_Pad_Via" H 2500 4650 50  0001 C CNN
+F 3 "~" H 2500 4650 50  0001 C CNN
+	1    2500 4650
+	0    1    1    0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H12
+U 1 1 5D2822E5
+P 2500 5150
+F 0 "H12" V 2500 5300 50  0000 L CNN
+F 1 "MountingHole_Pad" H 2600 5108 50  0001 L CNN
+F 2 "MountingHole:MountingHole_4mm_Pad_Via" H 2500 5150 50  0001 C CNN
+F 3 "~" H 2500 5150 50  0001 C CNN
+	1    2500 5150
+	0    1    1    0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H14
+U 1 1 5D282642
+P 2500 5650
+F 0 "H14" V 2500 5800 50  0000 L CNN
+F 1 "MountingHole_Pad" H 2600 5608 50  0001 L CNN
+F 2 "MountingHole:MountingHole_4mm_Pad_Via" H 2500 5650 50  0001 C CNN
+F 3 "~" H 2500 5650 50  0001 C CNN
+	1    2500 5650
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	2400 5650 2000 5650
+Connection ~ 2000 5650
+Wire Wire Line
+	2000 5650 2000 5400
+Wire Wire Line
+	2000 5150 2400 5150
+Connection ~ 2000 5150
+Wire Wire Line
+	2000 5150 2000 4900
+Wire Wire Line
+	2400 4650 2000 4650
+Connection ~ 2000 4650
+Wire Wire Line
+	2000 4650 2000 4400
+Wire Wire Line
+	2000 4150 2400 4150
+Connection ~ 2000 4150
+Wire Wire Line
+	2000 4150 2000 3900
 $EndSCHEMATC
