@@ -700,7 +700,7 @@ U 1 1 5DD30D12
 P 10300 2700
 F 0 "CN306" H 10272 2678 50  0000 R CNN
 F 1 "Conn_01x03_Male" H 10408 2890 50  0001 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" H 10300 2700 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 10300 2700 50  0001 C CNN
 F 3 "~" H 10300 2700 50  0001 C CNN
 	1    10300 2700
 	-1   0    0    1   
@@ -728,7 +728,7 @@ U 1 1 5DD596DC
 P 11050 4200
 F 0 "CN304" V 11100 3512 50  0000 R CNN
 F 1 "Conn_02x13_Odd_Even" V 11055 3512 50  0001 R CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x13_P2.54mm_Vertical" H 11050 4200 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x13_P2.54mm_Vertical" H 11050 4200 50  0001 C CNN
 F 3 "~" H 11050 4200 50  0001 C CNN
 F 4 "Male" V 11050 4200 50  0001 C CNN "Gender"
 	1    11050 4200

@@ -615,7 +615,7 @@ U 1 1 5D117F30
 P 10400 9250
 F 0 "J200" H 10373 9228 50  0000 R CNN
 F 1 "Conn_01x03_Male" H 10372 9273 50  0001 R CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" H 10400 9250 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 10400 9250 50  0001 C CNN
 F 3 "~" H 10400 9250 50  0001 C CNN
 	1    10400 9250
 	1    0    0    1   

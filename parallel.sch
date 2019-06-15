@@ -43,7 +43,7 @@ U 1 1 6B848FF5
 P 15650 5400
 F 0 "CN303" H 15700 6325 50  0000 C CNN
 F 1 "Conn_02x17_Odd_Even" H 15700 6326 50  0001 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x17_P2.54mm_Vertical" H 15650 5400 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x17_P2.54mm_Vertical" H 15650 5400 50  0001 C CNN
 F 3 "~" H 15650 5400 50  0001 C CNN
 F 4 "Male" H 15650 5400 50  0001 C CNN "Gender"
 	1    15650 5400
@@ -1059,7 +1059,7 @@ U 1 1 6BBA7D23
 P 1950 6000
 F 0 "J300" V 2058 5812 50  0000 R CNN
 F 1 "Conn_01x03_Male" V 2013 5812 50  0001 R CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" H 1950 6000 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 1950 6000 50  0001 C CNN
 F 3 "~" H 1950 6000 50  0001 C CNN
 	1    1950 6000
 	0    -1   -1   0   
@@ -2200,7 +2200,7 @@ U 1 1 6D1C732B
 P 15600 7000
 F 0 "J301" H 15572 6882 50  0000 R CNN
 F 1 "DF1:" H 15572 6973 50  0000 R CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Vertical" H 15600 7000 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical" H 15600 7000 50  0001 C CNN
 F 3 "~" H 15600 7000 50  0001 C CNN
 	1    15600 7000
 	-1   0    0    1   

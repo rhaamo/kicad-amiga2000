@@ -177,7 +177,7 @@ U 1 1 6B4C7698
 P 1400 3200
 F 0 "J900" H 1400 3100 50  0000 C CNN
 F 1 "Jumper_2_Bridged" H 1400 3304 50  0001 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Vertical" H 1400 3200 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical" H 1400 3200 50  0001 C CNN
 F 3 "~" H 1400 3200 50  0001 C CNN
 	1    1400 3200
 	1    0    0    -1  
@@ -1344,7 +1344,7 @@ U 1 1 5CF1B0FC
 P 6400 6350
 F 0 "J101" H 6508 6539 50  0000 C CNN
 F 1 "Conn_01x03_Male" H 6508 6540 50  0001 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" H 6400 6350 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 6400 6350 50  0001 C CNN
 F 3 "~" H 6400 6350 50  0001 C CNN
 	1    6400 6350
 	1    0    0    -1  
