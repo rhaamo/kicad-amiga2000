@@ -1,4 +1,4 @@
-15942996805697717
+15946118003935938
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -47879,6 +47879,20 @@ L_Toroid Vertical series Radial pin pitch 31.80mm  length 67.6mm width 36.1mm Vi
 0
 2
 2
+ISA
+ISA8
+ISA8 Connector
+ISA ISA8 EDGE CONN
+0
+62
+62
+ISA
+ISA16
+Connector, ISA16
+ISA ISA16 EDGE CONN
+0
+98
+98
 Jumper
 SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
