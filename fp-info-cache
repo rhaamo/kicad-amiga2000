@@ -1,4 +1,4 @@
-15946118003935938
+15952360411896644
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -44085,6 +44085,34 @@ single digit 7 segemnt red/green LED
 0
 10
 10
+d_amiga
+A2K_PWR
+Molex KK 396 Series 41791
+
+0
+14
+14
+d_amiga
+COPRO
+
+
+0
+86
+86
+d_amiga
+VIDEOSLOT
+
+
+0
+36
+36
+d_amiga
+Zorro
+
+
+0
+100
+100
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -47891,8 +47919,8 @@ ISA16
 Connector, ISA16
 ISA ISA16 EDGE CONN
 0
-98
-98
+36
+36
 Jumper
 SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
