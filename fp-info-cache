@@ -1,4 +1,4 @@
-15957042369678644
+15958603049306644
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -44113,6 +44113,13 @@ DSUB-23_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOff
 0
 25
 23
+d_amiga
+EMI_FILTER
+Through hole straight socket strip, 1x03, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x03 2.54mm single row
+0
+3
+3
 d_amiga
 RCA
 3 Pins Amiga RCA jack
