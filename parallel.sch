@@ -31,7 +31,7 @@ U 1 1 6B84037A
 P 13150 2450
 F 0 "CN302" V 12785 2450 50  0000 C CNN
 F 1 "DB23F" V 12876 2450 50  0000 C CNN
-F 2 "d_amiga:DSUB-23_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm" H 13100 2350 50  0001 C CNN
+F 2 "d_amiga:DSUB-23_Female_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm" H 13100 2350 50  0001 C CNN
 F 3 " ~" H 13100 2350 50  0001 C CNN
 F 4 "Female" V 13150 2450 50  0001 C CNN "Gender"
 	1    13150 2450
