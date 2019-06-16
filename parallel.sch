@@ -2848,6 +2848,23 @@ Text Notes 9650 5400 1    197  ~ 0
 PARALLEL
 Text Notes 13600 1950 2    197  ~ 0
 EXT FLOPPY
+$Comp
+L Connector:Conn_01x02_Male J3
+U 1 1 5E049EEE
+P 1300 2850
+F 0 "J3" H 1408 3031 50  0000 C CNN
+F 1 "ACCEL" H 1408 2940 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1300 2850 50  0001 C CNN
+F 3 "~" H 1300 2850 50  0001 C CNN
+	1    1300 2850
+	1    0    0    -1  
+$EndComp
+Text GLabel 1500 2850 2    50   Input ~ 0
+_INT2
+Text GLabel 1500 2950 2    50   Input ~ 0
+_OVR
+Text Notes 1000 2600 0    50   ~ 0
+MOD: Breakout _OVR and _INT2 \nto pin header to avoid needing \nto clip to CIA and GARY.
 Wire Bus Line
 	1200 4450 3050 4450
 Wire Bus Line
