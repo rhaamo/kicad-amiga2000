@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>/Users/dashie/Seafile/dev/kicad/amiga2000/amiga2000.sch</source>
-    <date>Sunday, 16 June 2019 at 13:19:18</date>
+    <date>Sunday, 16 June 2019 at 20:23:00</date>
     <tool>Eeschema (5.1.2-1)-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -3560,7 +3560,7 @@
     </comp>
     <comp ref="CN302">
       <value>DB23F</value>
-      <footprint>d_amiga:DSUB-23_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm</footprint>
+      <footprint>d_amiga:DSUB-23_Female_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm</footprint>
       <datasheet> ~</datasheet>
       <fields>
         <field name="Gender">Female</field>
