@@ -1,4 +1,4 @@
-15958603049512644
+15958603112514644
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -44101,10 +44101,10 @@ COPRO
 86
 d_amiga
 DIN_5_KBD
-
+DIN 5 Amiga keyboard connector; Fits original and midi type connector
 
 0
-7
+8
 5
 d_amiga
 DSUB-23_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm
