@@ -211,7 +211,6 @@ F 0 "C920" H 3915 4946 50  0000 L CNN
 F 1 "100pF" H 3915 4855 50  0000 L CNN
 F 2 "Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT" H 3838 4750 50  0001 C CNN
 F 3 "~" H 3800 4900 50  0001 C CNN
-F 4 "To check on PCB" H 3800 4750 50  0000 C CNN "Notes"
 	1    3800 4900
 	1    0    0    -1  
 $EndComp

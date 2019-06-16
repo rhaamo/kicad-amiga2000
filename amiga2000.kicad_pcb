@@ -61,7 +61,7 @@
     (solder_mask_min_width 0.25)
     (aux_axis_origin 0 0)
     (grid_origin 44.7228 370.1184)
-    (visible_elements FFFFF77F)
+    (visible_elements FFFFFF7F)
     (pcbplotparams
       (layerselection 0x010fc_ffffffff)
       (usegerberextensions false)
@@ -9333,7 +9333,7 @@
     )
   )
 
-  (module Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT locked (layer F.Cu) (tedit 5AE50EF0) (tstamp 5D08F201)
+  (module Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT locked (layer F.Cu) (tedit 5AE50EF0) (tstamp 5D127308)
     (at 175.5628 134.8884 90)
     (descr "C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.5*2mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf")
     (tags "C Rect series Radial pin pitch 10.00mm  length 11.5mm width 2mm Capacitor")
