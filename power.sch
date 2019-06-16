@@ -1005,4 +1005,59 @@ Wire Wire Line
 Connection ~ 2000 4150
 Wire Wire Line
 	2000 4150 2000 3900
+$Comp
+L Device:Ferrite_Bead FB904
+U 1 1 5DDC1F23
+P 5000 4150
+F 0 "FB904" H 5137 4150 50  0000 L CNN
+F 1 "Ferrite_Bead" H 5137 4105 50  0001 L CNN
+F 2 "Inductor_THT:L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC" V 4930 4150 50  0001 C CNN
+F 3 "~" H 5000 4150 50  0001 C CNN
+	1    5000 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Ferrite_Bead FB906
+U 1 1 5DDC28AE
+P 6000 4150
+F 0 "FB906" H 6137 4150 50  0000 L CNN
+F 1 "Ferrite_Bead" H 6137 4105 50  0001 L CNN
+F 2 "Inductor_THT:L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC" V 5930 4150 50  0001 C CNN
+F 3 "~" H 6000 4150 50  0001 C CNN
+	1    6000 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0272
+U 1 1 5DDC360A
+P 5500 4500
+F 0 "#PWR0272" H 5500 4250 50  0001 C CNN
+F 1 "GND" H 5505 4327 50  0000 C CNN
+F 2 "" H 5500 4500 50  0001 C CNN
+F 3 "" H 5500 4500 50  0001 C CNN
+	1    5500 4500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5000 4000 5000 3750
+Wire Wire Line
+	5000 3750 5500 3750
+Wire Wire Line
+	5500 3750 5500 4350
+Wire Wire Line
+	6000 4000 6000 3750
+Wire Wire Line
+	6000 3750 5500 3750
+Connection ~ 5500 3750
+Wire Wire Line
+	5000 4300 5000 4350
+Wire Wire Line
+	5000 4350 5500 4350
+Connection ~ 5500 4350
+Wire Wire Line
+	5500 4350 5500 4500
+Wire Wire Line
+	5500 4350 6000 4350
+Wire Wire Line
+	6000 4350 6000 4300
 $EndSCHEMATC
