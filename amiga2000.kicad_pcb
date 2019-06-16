@@ -29836,7 +29836,7 @@
     (descr "CP, Radial series, Radial, pin pitch=5.00mm, , diameter=8mm, Electrolytic Capacitor")
     (tags "CP Radial series Radial pin pitch 5.00mm  diameter 8mm Electrolytic Capacitor")
     (path /5CEA7254/6FB2715A)
-    (fp_text reference C214 (at 2.5 -5.25 90) (layer F.SilkS)
+    (fp_text reference C214 (at -2.86 -0.07 180) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value "470uF 16v" (at 2.5 5.25 90) (layer F.Fab)
