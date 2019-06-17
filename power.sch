@@ -1013,6 +1013,7 @@ F 0 "FB904" H 5137 4150 50  0000 L CNN
 F 1 "Ferrite_Bead" H 5137 4105 50  0001 L CNN
 F 2 "Inductor_THT:L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC" V 4930 4150 50  0001 C CNN
 F 3 "~" H 5000 4150 50  0001 C CNN
+F 4 "yes" H 5000 4150 50  0001 C CNN "DoNotPopulate"
 	1    5000 4150
 	1    0    0    -1  
 $EndComp
@@ -1024,6 +1025,7 @@ F 0 "FB906" H 6137 4150 50  0000 L CNN
 F 1 "Ferrite_Bead" H 6137 4105 50  0001 L CNN
 F 2 "Inductor_THT:L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC" V 5930 4150 50  0001 C CNN
 F 3 "~" H 6000 4150 50  0001 C CNN
+F 4 "yes" H 6000 4150 50  0001 C CNN "DoNotPopulate"
 	1    6000 4150
 	1    0    0    -1  
 $EndComp

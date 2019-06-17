@@ -914,6 +914,7 @@ F 0 "J1" V 16800 13250 50  0000 R CNN
 F 1 "Conn_01x03_Male" V 16963 13012 50  0001 R CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 16900 13200 50  0001 C CNN
 F 3 "~" H 16900 13200 50  0001 C CNN
+F 4 "yes" H 16900 13200 50  0001 C CNN "DoNotPopulate"
 	1    16900 13200
 	0    -1   -1   0   
 $EndComp
@@ -925,6 +926,7 @@ F 0 "J2" V 17150 13150 50  0000 R CNN
 F 1 "Conn_01x03_Male" V 17313 12912 50  0001 R CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 17250 13100 50  0001 C CNN
 F 3 "~" H 17250 13100 50  0001 C CNN
+F 4 "yes" H 17250 13100 50  0001 C CNN "DoNotPopulate"
 	1    17250 13100
 	0    -1   -1   0   
 $EndComp
@@ -3437,6 +3439,7 @@ F 0 "R901" H 21820 5296 50  0000 L CNN
 F 1 "empty" H 21820 5205 50  0000 L CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 21680 5250 50  0001 C CNN
 F 3 "~" H 21750 5250 50  0001 C CNN
+F 4 "yes" H 21750 5250 50  0001 C CNN "DoNotPopulate"
 	1    21750 5250
 	1    0    0    -1  
 $EndComp
@@ -3448,6 +3451,7 @@ F 0 "C917" H 22265 5296 50  0000 L CNN
 F 1 "empty" H 22265 5205 50  0000 L CNN
 F 2 "Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT" H 22188 5100 50  0001 C CNN
 F 3 "~" H 22150 5250 50  0001 C CNN
+F 4 "yes" H 22150 5250 50  0001 C CNN "DoNotPopulate"
 	1    22150 5250
 	1    0    0    -1  
 $EndComp
@@ -3459,6 +3463,7 @@ F 0 "C902" H 22665 5296 50  0000 L CNN
 F 1 "empty" H 22665 5205 50  0000 L CNN
 F 2 "Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT" H 22588 5100 50  0001 C CNN
 F 3 "~" H 22550 5250 50  0001 C CNN
+F 4 "yes" H 22550 5250 50  0001 C CNN "DoNotPopulate"
 	1    22550 5250
 	1    0    0    -1  
 $EndComp

@@ -267,6 +267,7 @@ F 0 "RP905" H 4550 8600 50  0000 R CNN
 F 1 "4.7k" H 4550 8500 50  0000 R CNN
 F 2 "Resistor_THT:R_Array_SIP6" V 4625 8300 50  0001 C CNN
 F 3 "http://www.vishay.com/docs/31509/csc.pdf" H 4250 8300 50  0001 C CNN
+F 4 "yes" H 4250 8300 50  0001 C CNN "DoNotPopulate"
 	1    4250 8300
 	-1   0    0    1   
 $EndComp
@@ -278,6 +279,7 @@ F 0 "RP906" H 4850 8600 50  0000 R CNN
 F 1 "4.7k" H 5200 8500 50  0000 R CNN
 F 2 "Resistor_THT:R_Array_SIP6" V 5175 8300 50  0001 C CNN
 F 3 "http://www.vishay.com/docs/31509/csc.pdf" H 4800 8300 50  0001 C CNN
+F 4 "yes" H 4800 8300 50  0001 C CNN "DoNotPopulate"
 	1    4800 8300
 	1    0    0    1   
 $EndComp
@@ -289,6 +291,7 @@ F 0 "RP904" H 5450 8600 50  0000 R CNN
 F 1 "4.7k" H 5800 8500 50  0000 R CNN
 F 2 "Resistor_THT:R_Array_SIP6" V 5825 8300 50  0001 C CNN
 F 3 "http://www.vishay.com/docs/31509/csc.pdf" H 5450 8300 50  0001 C CNN
+F 4 "yes" H 5450 8300 50  0001 C CNN "DoNotPopulate"
 	1    5450 8300
 	1    0    0    1   
 $EndComp

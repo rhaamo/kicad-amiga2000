@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>/Users/dashie/Seafile/dev/kicad/amiga2000/amiga2000.sch</source>
-    <date>Sunday, 16 June 2019 at 20:23:00</date>
+    <date>Monday, 17 June 2019 at 09:56:13</date>
     <tool>Eeschema (5.1.2-1)-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -537,6 +537,9 @@
       <value>0.1uF</value>
       <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="DoNotPopulate">yes</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/paula/" tstamps="/5CEA6FCB/"/>
       <tstamp>5D3CE7A0</tstamp>
@@ -641,6 +644,9 @@
       <value>0.1uF</value>
       <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="DoNotPopulate">yes</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/paula/" tstamps="/5CEA6FCB/"/>
       <tstamp>5D5E8D9F</tstamp>
@@ -1714,6 +1720,9 @@
       <value>Ferrite_Bead</value>
       <footprint>Inductor_THT:L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="DoNotPopulate">yes</field>
+      </fields>
       <libsource lib="Device" part="Ferrite_Bead" description="Ferrite bead"/>
       <sheetpath names="/power/" tstamps="/5CEA7058/"/>
       <tstamp>5DDC1F23</tstamp>
@@ -1722,6 +1731,9 @@
       <value>Ferrite_Bead</value>
       <footprint>Inductor_THT:L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="DoNotPopulate">yes</field>
+      </fields>
       <libsource lib="Device" part="Ferrite_Bead" description="Ferrite bead"/>
       <sheetpath names="/power/" tstamps="/5CEA7058/"/>
       <tstamp>5DDC28AE</tstamp>
@@ -2012,6 +2024,9 @@
       <value>Conn_01x03_Male</value>
       <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="DoNotPopulate">yes</field>
+      </fields>
       <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
       <tstamp>5F5F3C44</tstamp>
@@ -2020,6 +2035,9 @@
       <value>Conn_01x03_Male</value>
       <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="DoNotPopulate">yes</field>
+      </fields>
       <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
       <tstamp>5F5F5398</tstamp>
@@ -2476,6 +2494,9 @@
       <value>empty</value>
       <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="DoNotPopulate">yes</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
       <tstamp>649EF97B</tstamp>
@@ -2484,6 +2505,9 @@
       <value>empty</value>
       <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="DoNotPopulate">yes</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
       <tstamp>649F0927</tstamp>
@@ -2492,6 +2516,9 @@
       <value>empty</value>
       <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="DoNotPopulate">yes</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
       <tstamp>649F0D60</tstamp>
@@ -2562,6 +2589,9 @@
     <comp ref="CN704">
       <value>IBM_16_BIT_EXTENDED_BUS</value>
       <footprint>ISA:ISA16</footprint>
+      <fields>
+        <field name="DoNotPopulate">yes</field>
+      </fields>
       <libsource lib="amiga_customs" part="IBM_16_BIT_EXTENDED_BUS" description=""/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
       <tstamp>68223365</tstamp>
@@ -2576,6 +2606,9 @@
     <comp ref="CN705">
       <value>IBM_16_BIT_EXTENDED_BUS</value>
       <footprint>ISA:ISA16</footprint>
+      <fields>
+        <field name="DoNotPopulate">yes</field>
+      </fields>
       <libsource lib="amiga_customs" part="IBM_16_BIT_EXTENDED_BUS" description=""/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
       <tstamp>682288F7</tstamp>
@@ -4175,6 +4208,9 @@
       <value>4.7k</value>
       <footprint>Resistor_THT:R_Array_SIP6</footprint>
       <datasheet>http://www.vishay.com/docs/31509/csc.pdf</datasheet>
+      <fields>
+        <field name="DoNotPopulate">yes</field>
+      </fields>
       <libsource lib="Device" part="R_Network05" description="5 resistor network, star topology, bussed resistors, small symbol"/>
       <sheetpath names="/denise/" tstamps="/5CEA7254/"/>
       <tstamp>6E66C330</tstamp>
@@ -4183,6 +4219,9 @@
       <value>4.7k</value>
       <footprint>Resistor_THT:R_Array_SIP6</footprint>
       <datasheet>http://www.vishay.com/docs/31509/csc.pdf</datasheet>
+      <fields>
+        <field name="DoNotPopulate">yes</field>
+      </fields>
       <libsource lib="Device" part="R_Network05" description="5 resistor network, star topology, bussed resistors, small symbol"/>
       <sheetpath names="/denise/" tstamps="/5CEA7254/"/>
       <tstamp>6E66D278</tstamp>
@@ -4191,6 +4230,9 @@
       <value>4.7k</value>
       <footprint>Resistor_THT:R_Array_SIP6</footprint>
       <datasheet>http://www.vishay.com/docs/31509/csc.pdf</datasheet>
+      <fields>
+        <field name="DoNotPopulate">yes</field>
+      </fields>
       <libsource lib="Device" part="R_Network05" description="5 resistor network, star topology, bussed resistors, small symbol"/>
       <sheetpath names="/denise/" tstamps="/5CEA7254/"/>
       <tstamp>6E66E3C4</tstamp>
@@ -7640,8 +7682,8 @@
       <node ref="C409" pin="1"/>
       <node ref="C410" pin="2"/>
       <node ref="C411" pin="1"/>
-      <node ref="C412" pin="1"/>
       <node ref="EMI211" pin="2"/>
+      <node ref="C412" pin="2"/>
       <node ref="C413" pin="1"/>
       <node ref="C414" pin="1"/>
       <node ref="C541" pin="1"/>
@@ -8561,7 +8603,7 @@
       <node ref="CN702" pin="9"/>
       <node ref="CN400" pin="13"/>
       <node ref="CN605" pin="8"/>
-      <node ref="C412" pin="2"/>
+      <node ref="C412" pin="1"/>
       <node ref="C413" pin="2"/>
       <node ref="CN703" pin="9"/>
     </net>

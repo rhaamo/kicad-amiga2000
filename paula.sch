@@ -895,6 +895,7 @@ F 0 "C240" H 6665 1396 50  0000 L CNN
 F 1 "0.1uF" H 6665 1305 50  0000 L CNN
 F 2 "Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT" H 6588 1200 50  0001 C CNN
 F 3 "~" H 6550 1350 50  0001 C CNN
+F 4 "yes" H 6550 1350 50  0001 C CNN "DoNotPopulate"
 	1    6550 1350
 	1    0    0    -1  
 $EndComp
@@ -1187,6 +1188,7 @@ F 0 "C230" H 6665 3546 50  0000 L CNN
 F 1 "0.1uF" H 6665 3455 50  0000 L CNN
 F 2 "Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT" H 6588 3350 50  0001 C CNN
 F 3 "~" H 6550 3500 50  0001 C CNN
+F 4 "yes" H 6550 3500 50  0001 C CNN "DoNotPopulate"
 	1    6550 3500
 	1    0    0    -1  
 $EndComp
