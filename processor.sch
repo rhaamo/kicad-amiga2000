@@ -21,7 +21,7 @@ P 7600 1850
 F 0 "U103" H 7700 2850 50  0000 C CNN
 F 1 "74F245" H 7750 2750 50  0000 C CNN
 F 2 "Package_DIP:DIP-20_W7.62mm_Socket" H 7600 1850 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS245" H 7600 1850 50  0001 C CNN
+F 3 "http://www.mouser.com/ds/2/308/fairchild%20semiconductor_74f245-1116738.pdf" H 7600 1850 50  0001 C CNN
 	1    7600 1850
 	1    0    0    -1  
 $EndComp
@@ -32,7 +32,7 @@ P 7600 4950
 F 0 "U105" H 7750 5950 50  0000 C CNN
 F 1 "74F245" H 7800 5850 50  0000 C CNN
 F 2 "Package_DIP:DIP-20_W7.62mm_Socket" H 7600 4950 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS245" H 7600 4950 50  0001 C CNN
+F 3 "http://www.mouser.com/ds/2/308/fairchild%20semiconductor_74f245-1116738.pdf" H 7600 4950 50  0001 C CNN
 	1    7600 4950
 	1    0    0    -1  
 $EndComp
@@ -65,7 +65,7 @@ P 1500 1550
 F 0 "U303" H 1500 1875 50  0000 C CNN
 F 1 "74F08" H 1500 1784 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 1550 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 1500 1550 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74f08.pdf" H 1500 1550 50  0001 C CNN
 	4    1500 1550
 	1    0    0    -1  
 $EndComp

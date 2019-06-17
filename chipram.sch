@@ -21,7 +21,7 @@ P 2100 1900
 F 0 "U540" H 2250 2600 50  0000 C CNN
 F 1 "74F244" H 1850 2600 50  0000 C CNN
 F 2 "Package_DIP:DIP-20_W7.62mm_Socket" H 2100 1900 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS244" H 2100 1900 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74F244" H 2100 1900 50  0001 C CNN
 	1    2100 1900
 	1    0    0    -1  
 $EndComp
@@ -32,7 +32,7 @@ P 2100 3750
 F 0 "U541" H 2250 4450 50  0000 C CNN
 F 1 "74F244" H 1850 4450 50  0000 C CNN
 F 2 "Package_DIP:DIP-20_W7.62mm_Socket" H 2100 3750 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS244" H 2100 3750 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74F244" H 2100 3750 50  0001 C CNN
 	1    2100 3750
 	1    0    0    -1  
 $EndComp

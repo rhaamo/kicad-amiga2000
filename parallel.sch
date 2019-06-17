@@ -2245,7 +2245,7 @@ P 14250 8850
 F 0 "U108" H 14250 9331 50  0000 C CNN
 F 1 "74LS74A" H 14250 9240 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 14250 8850 50  0001 C CNN
-F 3 "74xx/74hc_hct74.pdf" H 14250 8850 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74ls74a.pdf" H 14250 8850 50  0001 C CNN
 	2    14250 8850
 	-1   0    0    -1  
 $EndComp

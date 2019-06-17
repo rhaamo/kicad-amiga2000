@@ -324,7 +324,7 @@ P 5050 3100
 F 0 "U900" H 5050 3425 50  0000 C CNN
 F 1 "74F00" H 5050 3334 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 5050 3100 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74ls00" H 5050 3100 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74f00.pdf" H 5050 3100 50  0001 C CNN
 	3    5050 3100
 	-1   0    0    -1  
 $EndComp
@@ -335,7 +335,7 @@ P 5950 3200
 F 0 "U900" H 5950 2883 50  0000 C CNN
 F 1 "74F00" H 5950 2974 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 5950 3200 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74ls00" H 5950 3200 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74f00.pdf" H 5950 3200 50  0001 C CNN
 	4    5950 3200
 	-1   0    0    1   
 $EndComp
@@ -371,7 +371,7 @@ P 4000 10500
 F 0 "X1" H 4200 10200 50  0000 R CNN
 F 1 "28.63636MHz" H 4600 10800 50  0000 R CNN
 F 2 "Oscillator:Oscillator_DIP-14" H 4450 10150 50  0001 C CNN
-F 3 "http://www.conwin.com/datasheets/cx/cx030.pdf" H 3900 10500 50  0001 C CNN
+F 3 "" H 3900 10500 50  0001 C CNN
 	1    4000 10500
 	1    0    0    -1  
 $EndComp
@@ -937,9 +937,9 @@ L 74xx:74LS04 U107
 U 1 1 6B5EBEA7
 P 10800 2000
 F 0 "U107" H 10800 2317 50  0000 C CNN
-F 1 "74LS74A" H 10800 2226 50  0000 C CNN
+F 1 "74F04" H 10800 2226 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 10800 2000 50  0001 C CNN
-F 3 "74xx/74hc_hct74.pdf" H 10800 2000 50  0001 C CNN
+F 3 "https://www.soemtron.org/downloads/disposals/74f04.pdf" H 10800 2000 50  0001 C CNN
 	1    10800 2000
 	1    0    0    -1  
 $EndComp
@@ -948,9 +948,9 @@ L 74xx:74LS04 U107
 U 5 1 6B5ED012
 P 10800 2500
 F 0 "U107" H 10800 2817 50  0000 C CNN
-F 1 "74LS74A" H 10800 2726 50  0000 C CNN
+F 1 "74F04" H 10800 2726 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 10800 2500 50  0001 C CNN
-F 3 "74xx/74hc_hct74.pdf" H 10800 2500 50  0001 C CNN
+F 3 "https://www.soemtron.org/downloads/disposals/74f04.pdf" H 10800 2500 50  0001 C CNN
 	5    10800 2500
 	1    0    0    -1  
 $EndComp
@@ -959,9 +959,9 @@ L 74xx:74LS04 U107
 U 2 1 6B5EDDF4
 P 12400 2900
 F 0 "U107" H 12400 3217 50  0000 C CNN
-F 1 "74LS74A" H 12400 3126 50  0000 C CNN
+F 1 "74F04" H 12400 3126 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 12400 2900 50  0001 C CNN
-F 3 "74xx/74hc_hct74.pdf" H 12400 2900 50  0001 C CNN
+F 3 "https://www.soemtron.org/downloads/disposals/74f04.pdf" H 12400 2900 50  0001 C CNN
 	2    12400 2900
 	1    0    0    -1  
 $EndComp
@@ -970,9 +970,9 @@ L 74xx:74LS04 U107
 U 6 1 6B5EED5D
 P 12400 3450
 F 0 "U107" H 12400 3767 50  0000 C CNN
-F 1 "74LS74A" H 12400 3676 50  0000 C CNN
+F 1 "74F04" H 12400 3676 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 12400 3450 50  0001 C CNN
-F 3 "74xx/74hc_hct74.pdf" H 12400 3450 50  0001 C CNN
+F 3 "https://www.soemtron.org/downloads/disposals/74f04.pdf" H 12400 3450 50  0001 C CNN
 	6    12400 3450
 	1    0    0    -1  
 $EndComp
@@ -981,9 +981,9 @@ L 74xx:74LS04 U107
 U 3 1 6B5EFFF2
 P 12400 4000
 F 0 "U107" H 12400 4317 50  0000 C CNN
-F 1 "74LS74A" H 12400 4226 50  0000 C CNN
+F 1 "74F04" H 12400 4226 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 12400 4000 50  0001 C CNN
-F 3 "74xx/74hc_hct74.pdf" H 12400 4000 50  0001 C CNN
+F 3 "https://www.soemtron.org/downloads/disposals/74f04.pdf" H 12400 4000 50  0001 C CNN
 	3    12400 4000
 	1    0    0    -1  
 $EndComp
@@ -992,9 +992,9 @@ L 74xx:74LS04 U107
 U 4 1 6B5F0D4A
 P 12400 4500
 F 0 "U107" H 12400 4817 50  0000 C CNN
-F 1 "74LS74A" H 12400 4726 50  0000 C CNN
+F 1 "74F04" H 12400 4726 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 12400 4500 50  0001 C CNN
-F 3 "74xx/74hc_hct74.pdf" H 12400 4500 50  0001 C CNN
+F 3 "https://www.soemtron.org/downloads/disposals/74f04.pdf" H 12400 4500 50  0001 C CNN
 	4    12400 4500
 	1    0    0    -1  
 $EndComp
@@ -1241,7 +1241,7 @@ P 12350 7050
 F 0 "U900" H 12120 7096 50  0000 R CNN
 F 1 "74F00" H 12120 7005 50  0000 R CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 12350 7050 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74ls00" H 12350 7050 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74f00.pdf" H 12350 7050 50  0001 C CNN
 	5    12350 7050
 	-1   0    0    -1  
 $EndComp
@@ -1252,7 +1252,7 @@ P 13550 7050
 F 0 "U108" H 13780 7096 50  0000 L CNN
 F 1 "74LS74A" H 13780 7005 50  0000 L CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 13550 7050 50  0001 C CNN
-F 3 "74xx/74hc_hct74.pdf" H 13550 7050 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74ls74a.pdf" H 13550 7050 50  0001 C CNN
 	3    13550 7050
 	1    0    0    -1  
 $EndComp
@@ -1602,9 +1602,9 @@ L 74xx:74LS04 U107
 U 7 1 5D029E31
 P 14750 7050
 F 0 "U107" H 14980 7096 50  0000 L CNN
-F 1 "74LS74A" H 14980 7005 50  0000 L CNN
+F 1 "74F04" H 14980 7005 50  0000 L CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 14750 7050 50  0001 C CNN
-F 3 "74xx/74hc_hct74.pdf" H 14750 7050 50  0001 C CNN
+F 3 "https://www.soemtron.org/downloads/disposals/74f04.pdf" H 14750 7050 50  0001 C CNN
 	7    14750 7050
 	1    0    0    -1  
 $EndComp

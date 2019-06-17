@@ -489,7 +489,7 @@ P 8450 4700
 F 0 "U108" H 8450 5181 50  0000 C CNN
 F 1 "74LS74A" H 8450 5090 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 8450 4700 50  0001 C CNN
-F 3 "74xx/74hc_hct74.pdf" H 8450 4700 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74ls74a.pdf" H 8450 4700 50  0001 C CNN
 	1    8450 4700
 	1    0    0    -1  
 $EndComp

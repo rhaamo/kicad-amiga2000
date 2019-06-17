@@ -570,7 +570,7 @@ P 11000 5500
 F 0 "U602" H 11000 6481 50  0000 C CNN
 F 1 "74ALS245" H 11000 6390 50  0000 C CNN
 F 2 "Package_DIP:DIP-20_W7.62mm_Socket" H 11000 5500 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS245" H 11000 5500 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74als245a.pdf" H 11000 5500 50  0001 C CNN
 	1    11000 5500
 	1    0    0    -1  
 $EndComp
@@ -603,7 +603,7 @@ P 11000 12500
 F 0 "U605" H 11000 11519 50  0000 C CNN
 F 1 "74ALS245" H 11000 11610 50  0000 C CNN
 F 2 "Package_DIP:DIP-20_W7.62mm_Socket" H 11000 12500 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS245" H 11000 12500 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74als245a.pdf" H 11000 12500 50  0001 C CNN
 	1    11000 12500
 	1    0    0    1   
 $EndComp

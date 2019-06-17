@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>/Users/dashie/Seafile/dev/kicad/amiga2000/amiga2000.sch</source>
-    <date>Monday, 17 June 2019 at 09:56:13</date>
+    <date>Monday, 17 June 2019 at 10:29:12</date>
     <tool>Eeschema (5.1.2-1)-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -178,7 +178,7 @@
     <comp ref="U103">
       <value>74F245</value>
       <footprint>Package_DIP:DIP-20_W7.62mm_Socket</footprint>
-      <datasheet>http://www.ti.com/lit/gpn/sn74LS245</datasheet>
+      <datasheet>http://www.mouser.com/ds/2/308/fairchild%20semiconductor_74f245-1116738.pdf</datasheet>
       <libsource lib="74xx" part="74LS245" description="Octal BUS Transceivers, 3-State outputs"/>
       <sheetpath names="/processor/" tstamps="/5CEA6F7F/"/>
       <tstamp>5CEADCFB</tstamp>
@@ -186,7 +186,7 @@
     <comp ref="U105">
       <value>74F245</value>
       <footprint>Package_DIP:DIP-20_W7.62mm_Socket</footprint>
-      <datasheet>http://www.ti.com/lit/gpn/sn74LS245</datasheet>
+      <datasheet>http://www.mouser.com/ds/2/308/fairchild%20semiconductor_74f245-1116738.pdf</datasheet>
       <libsource lib="74xx" part="74LS245" description="Octal BUS Transceivers, 3-State outputs"/>
       <sheetpath names="/processor/" tstamps="/5CEA6F7F/"/>
       <tstamp>5CEAE944</tstamp>
@@ -1543,7 +1543,7 @@
     <comp ref="U108">
       <value>74LS74A</value>
       <footprint>Package_DIP:DIP-14_W7.62mm_Socket</footprint>
-      <datasheet>74xx/74hc_hct74.pdf</datasheet>
+      <datasheet>http://www.ti.com/lit/ds/symlink/sn74ls74a.pdf</datasheet>
       <libsource lib="74xx" part="74LS74" description="Dual D Flip-flop, Set &amp; Reset"/>
       <sheetpath names="/power/" tstamps="/5CEA7058/"/>
       <tstamp>6E62E332</tstamp>
@@ -1741,7 +1741,7 @@
     <comp ref="U540">
       <value>74F244</value>
       <footprint>Package_DIP:DIP-20_W7.62mm_Socket</footprint>
-      <datasheet>http://www.ti.com/lit/gpn/sn74LS244</datasheet>
+      <datasheet>http://www.ti.com/lit/gpn/sn74F244</datasheet>
       <libsource lib="74xx" part="74LS244" description="8-bit Bus Buffer 3-State outputs"/>
       <sheetpath names="/chipram/" tstamps="/5CEA708D/"/>
       <tstamp>5DE1224A</tstamp>
@@ -1749,7 +1749,7 @@
     <comp ref="U541">
       <value>74F244</value>
       <footprint>Package_DIP:DIP-20_W7.62mm_Socket</footprint>
-      <datasheet>http://www.ti.com/lit/gpn/sn74LS244</datasheet>
+      <datasheet>http://www.ti.com/lit/gpn/sn74F244</datasheet>
       <libsource lib="74xx" part="74LS244" description="8-bit Bus Buffer 3-State outputs"/>
       <sheetpath names="/chipram/" tstamps="/5CEA708D/"/>
       <tstamp>5E8886E5</tstamp>
@@ -3418,7 +3418,6 @@
     <comp ref="X1">
       <value>28.63636MHz</value>
       <footprint>Oscillator:Oscillator_DIP-14</footprint>
-      <datasheet>http://www.conwin.com/datasheets/cx/cx030.pdf</datasheet>
       <libsource lib="Oscillator" part="ACO-xxxMHz" description="HCMOS Crystal Clock Oscillator, DIP14-style metal package"/>
       <sheetpath names="/agnus/" tstamps="/5CEA71EC/"/>
       <tstamp>6B4F5F4A</tstamp>
@@ -3504,9 +3503,9 @@
       <tstamp>6B59288D</tstamp>
     </comp>
     <comp ref="U107">
-      <value>74LS74A</value>
+      <value>74F04</value>
       <footprint>Package_DIP:DIP-14_W7.62mm_Socket</footprint>
-      <datasheet>74xx/74hc_hct74.pdf</datasheet>
+      <datasheet>https://www.soemtron.org/downloads/disposals/74f04.pdf</datasheet>
       <libsource lib="74xx" part="74LS04" description="Hex Inverter"/>
       <sheetpath names="/agnus/" tstamps="/5CEA71EC/"/>
       <tstamp>6B5EBEA7</tstamp>
@@ -4575,7 +4574,7 @@
     <comp ref="U602">
       <value>74ALS245</value>
       <footprint>Package_DIP:DIP-20_W7.62mm_Socket</footprint>
-      <datasheet>http://www.ti.com/lit/gpn/sn74LS245</datasheet>
+      <datasheet>http://www.ti.com/lit/ds/symlink/sn74als245a.pdf</datasheet>
       <libsource lib="74xx" part="74LS245" description="Octal BUS Transceivers, 3-State outputs"/>
       <sheetpath names="/coprocessor slot/" tstamps="/5CEA727E/"/>
       <tstamp>70D66236</tstamp>
@@ -4599,7 +4598,7 @@
     <comp ref="U605">
       <value>74ALS245</value>
       <footprint>Package_DIP:DIP-20_W7.62mm_Socket</footprint>
-      <datasheet>http://www.ti.com/lit/gpn/sn74LS245</datasheet>
+      <datasheet>http://www.ti.com/lit/ds/symlink/sn74als245a.pdf</datasheet>
       <libsource lib="74xx" part="74LS245" description="Octal BUS Transceivers, 3-State outputs"/>
       <sheetpath names="/coprocessor slot/" tstamps="/5CEA727E/"/>
       <tstamp>70D7E34B</tstamp>
