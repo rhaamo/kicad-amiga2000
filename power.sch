@@ -303,12 +303,12 @@ $Comp
 L Device:CP C412
 U 1 1 5DDDF78A
 P 5750 2100
-F 0 "C412" H 5868 2146 50  0000 L CNN
-F 1 "47uF 16V" H 5868 2055 50  0000 L CNN
+F 0 "C412" H 5450 2050 50  0000 L CNN
+F 1 "47uF 16V" H 5300 2200 50  0000 L CNN
 F 2 "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm" H 5788 1950 50  0001 C CNN
 F 3 "~" H 5750 2100 50  0001 C CNN
 	1    5750 2100
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:C C413
@@ -1060,6 +1060,6 @@ Wire Wire Line
 	5500 4350 6000 4350
 Wire Wire Line
 	6000 4350 6000 4300
-Text Notes 4600 3050 0    50   ~ 0
+Text Notes 4900 3100 0    50   ~ 0
 for some reasons, C412 is inverted in schematic\nbut corrected on factory PCB assembly…
 $EndSCHEMATC
