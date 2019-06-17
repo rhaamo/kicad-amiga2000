@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>/Users/dashie/Seafile/dev/kicad/amiga2000/amiga2000.sch</source>
-    <date>Monday, 17 June 2019 at 10:29:12</date>
+    <date>Monday, 17 June 2019 at 14:27:37</date>
     <tool>Eeschema (5.1.2-1)-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -241,7 +241,7 @@
     </comp>
     <comp ref="C100">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/processor/" tstamps="/5CEA6F7F/"/>
@@ -249,7 +249,7 @@
     </comp>
     <comp ref="C103">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/processor/" tstamps="/5CEA6F7F/"/>
@@ -257,7 +257,7 @@
     </comp>
     <comp ref="C104">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/processor/" tstamps="/5CEA6F7F/"/>
@@ -265,7 +265,7 @@
     </comp>
     <comp ref="C105">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/processor/" tstamps="/5CEA6F7F/"/>
@@ -273,7 +273,7 @@
     </comp>
     <comp ref="C106">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/processor/" tstamps="/5CEA6F7F/"/>
@@ -321,7 +321,7 @@
     </comp>
     <comp ref="C1">
       <value>270pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/processor/" tstamps="/5CEA6F7F/"/>
@@ -344,7 +344,7 @@
       <tstamp>5CEEE95F</tstamp>
     </comp>
     <comp ref="C225">
-      <value>470uF 16v</value>
+      <value>470uF 16/25v</value>
       <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="CP" description="Polarized capacitor"/>
@@ -353,7 +353,7 @@
     </comp>
     <comp ref="C200">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/paula/" tstamps="/5CEA6FCB/"/>
@@ -380,7 +380,7 @@
     </comp>
     <comp ref="C210">
       <value>0.047uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/paula/" tstamps="/5CEA6FCB/"/>
@@ -388,7 +388,7 @@
     </comp>
     <comp ref="C211">
       <value>0.047uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/paula/" tstamps="/5CEA6FCB/"/>
@@ -396,7 +396,7 @@
     </comp>
     <comp ref="C212">
       <value>0.047uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/paula/" tstamps="/5CEA6FCB/"/>
@@ -404,7 +404,7 @@
     </comp>
     <comp ref="C213">
       <value>0.047uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/paula/" tstamps="/5CEA6FCB/"/>
@@ -420,7 +420,7 @@
     </comp>
     <comp ref="C218">
       <value>0.047uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/paula/" tstamps="/5CEA6FCB/"/>
@@ -471,7 +471,7 @@
     </comp>
     <comp ref="C202">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/paula/" tstamps="/5CEA6FCB/"/>
@@ -495,7 +495,7 @@
     </comp>
     <comp ref="C220">
       <value>0.22uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/paula/" tstamps="/5CEA6FCB/"/>
@@ -503,7 +503,7 @@
     </comp>
     <comp ref="C221">
       <value>0.22uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/paula/" tstamps="/5CEA6FCB/"/>
@@ -535,7 +535,7 @@
     </comp>
     <comp ref="C240">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="DoNotPopulate">yes</field>
@@ -562,7 +562,7 @@
     </comp>
     <comp ref="C241">
       <value>6800pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/paula/" tstamps="/5CEA6FCB/"/>
@@ -586,7 +586,7 @@
     </comp>
     <comp ref="C242">
       <value>3900pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/paula/" tstamps="/5CEA6FCB/"/>
@@ -610,7 +610,7 @@
     </comp>
     <comp ref="C244">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/paula/" tstamps="/5CEA6FCB/"/>
@@ -642,7 +642,7 @@
     </comp>
     <comp ref="C230">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="DoNotPopulate">yes</field>
@@ -669,7 +669,7 @@
     </comp>
     <comp ref="C231">
       <value>6800pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/paula/" tstamps="/5CEA6FCB/"/>
@@ -693,7 +693,7 @@
     </comp>
     <comp ref="C232">
       <value>3900pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/paula/" tstamps="/5CEA6FCB/"/>
@@ -701,7 +701,7 @@
     </comp>
     <comp ref="C233">
       <value>22uF 16V</value>
-      <footprint>Capacitor_THT:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="CP" description="Polarized capacitor"/>
       <sheetpath names="/paula/" tstamps="/5CEA6FCB/"/>
@@ -717,7 +717,7 @@
     </comp>
     <comp ref="C234">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/paula/" tstamps="/5CEA6FCB/"/>
@@ -805,7 +805,7 @@
     </comp>
     <comp ref="C219">
       <value>0.22uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/paula/" tstamps="/5CEA6FCB/"/>
@@ -813,7 +813,7 @@
     </comp>
     <comp ref="C224">
       <value>4.7uF 16V</value>
-      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.50mm</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="CP" description="Polarized capacitor"/>
       <sheetpath names="/paula/" tstamps="/5CEA6FCB/"/>
@@ -829,7 +829,7 @@
     </comp>
     <comp ref="C900">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/paula/" tstamps="/5CEA6FCB/"/>
@@ -837,7 +837,7 @@
     </comp>
     <comp ref="C901">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/paula/" tstamps="/5CEA6FCB/"/>
@@ -989,7 +989,7 @@
     </comp>
     <comp ref="C301">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/serial/" tstamps="/5CEA702B/"/>
@@ -1021,7 +1021,7 @@
     </comp>
     <comp ref="C805">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/serial/" tstamps="/5CEA702B/"/>
@@ -1029,7 +1029,7 @@
     </comp>
     <comp ref="C815">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/serial/" tstamps="/5CEA702B/"/>
@@ -1115,7 +1115,7 @@
     </comp>
     <comp ref="C320">
       <value>470pF</value>
-      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W4.5mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/serial/" tstamps="/5CEA702B/"/>
@@ -1123,7 +1123,7 @@
     </comp>
     <comp ref="C321">
       <value>470pF</value>
-      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W4.5mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/serial/" tstamps="/5CEA702B/"/>
@@ -1219,7 +1219,7 @@
     </comp>
     <comp ref="C919">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/serial/" tstamps="/5CEA702B/"/>
@@ -1251,7 +1251,7 @@
     </comp>
     <comp ref="C314">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W4.5mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/serial/" tstamps="/5CEA702B/"/>
@@ -1259,7 +1259,7 @@
     </comp>
     <comp ref="C315">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W4.5mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/serial/" tstamps="/5CEA702B/"/>
@@ -1267,7 +1267,7 @@
     </comp>
     <comp ref="C316">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W4.5mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/serial/" tstamps="/5CEA702B/"/>
@@ -1275,7 +1275,7 @@
     </comp>
     <comp ref="C310">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W4.5mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/serial/" tstamps="/5CEA702B/"/>
@@ -1283,7 +1283,7 @@
     </comp>
     <comp ref="C311">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W4.5mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/serial/" tstamps="/5CEA702B/"/>
@@ -1291,7 +1291,7 @@
     </comp>
     <comp ref="C312">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W4.5mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/serial/" tstamps="/5CEA702B/"/>
@@ -1299,7 +1299,7 @@
     </comp>
     <comp ref="C313">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W4.5mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/serial/" tstamps="/5CEA702B/"/>
@@ -1355,7 +1355,7 @@
     </comp>
     <comp ref="C304">
       <value>100pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/serial/" tstamps="/5CEA702B/"/>
@@ -1371,7 +1371,7 @@
     </comp>
     <comp ref="C306">
       <value>100pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/serial/" tstamps="/5CEA702B/"/>
@@ -1414,7 +1414,7 @@
     </comp>
     <comp ref="C401">
       <value>0.01uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/power/" tstamps="/5CEA7058/"/>
@@ -1462,7 +1462,7 @@
     </comp>
     <comp ref="C407">
       <value>0.01uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/power/" tstamps="/5CEA7058/"/>
@@ -1478,7 +1478,7 @@
     </comp>
     <comp ref="C409">
       <value>0.01uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/power/" tstamps="/5CEA7058/"/>
@@ -1494,7 +1494,7 @@
     </comp>
     <comp ref="C411">
       <value>0.01uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/power/" tstamps="/5CEA7058/"/>
@@ -1510,7 +1510,7 @@
     </comp>
     <comp ref="C413">
       <value>0.01uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/power/" tstamps="/5CEA7058/"/>
@@ -1518,7 +1518,7 @@
     </comp>
     <comp ref="C414">
       <value>0.01uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/power/" tstamps="/5CEA7058/"/>
@@ -1582,7 +1582,7 @@
     </comp>
     <comp ref="C903">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/power/" tstamps="/5CEA7058/"/>
@@ -1590,7 +1590,7 @@
     </comp>
     <comp ref="C906">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/power/" tstamps="/5CEA7058/"/>
@@ -1598,7 +1598,7 @@
     </comp>
     <comp ref="C910">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/power/" tstamps="/5CEA7058/"/>
@@ -1763,7 +1763,7 @@
     </comp>
     <comp ref="C500">
       <value>0.22uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/chipram/" tstamps="/5CEA708D/"/>
@@ -1843,7 +1843,7 @@
     </comp>
     <comp ref="C501">
       <value>0.33uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/chipram/" tstamps="/5CEA708D/"/>
@@ -1851,7 +1851,7 @@
     </comp>
     <comp ref="C502">
       <value>0.33uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/chipram/" tstamps="/5CEA708D/"/>
@@ -1859,7 +1859,7 @@
     </comp>
     <comp ref="C503">
       <value>0.33uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/chipram/" tstamps="/5CEA708D/"/>
@@ -1867,7 +1867,7 @@
     </comp>
     <comp ref="C504">
       <value>0.33uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/chipram/" tstamps="/5CEA708D/"/>
@@ -1875,7 +1875,7 @@
     </comp>
     <comp ref="C508">
       <value>0.33uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/chipram/" tstamps="/5CEA708D/"/>
@@ -1883,7 +1883,7 @@
     </comp>
     <comp ref="C507">
       <value>0.33uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/chipram/" tstamps="/5CEA708D/"/>
@@ -1891,7 +1891,7 @@
     </comp>
     <comp ref="C506">
       <value>0.33uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/chipram/" tstamps="/5CEA708D/"/>
@@ -1899,7 +1899,7 @@
     </comp>
     <comp ref="C505">
       <value>0.33uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/chipram/" tstamps="/5CEA708D/"/>
@@ -1939,7 +1939,7 @@
     </comp>
     <comp ref="C540">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/chipram/" tstamps="/5CEA708D/"/>
@@ -1947,7 +1947,7 @@
     </comp>
     <comp ref="C541">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/chipram/" tstamps="/5CEA708D/"/>
@@ -2044,7 +2044,7 @@
     </comp>
     <comp ref="C416">
       <value>220uF 16V</value>
-      <footprint>Capacitor_THT:C_Axial_L12.0mm_D7.5mm_P20.00mm_Horizontal</footprint>
+      <footprint>Capacitor_THT:C_Axial_L12.0mm_D8.5mm_P15.00mm_Horizontal</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="CP_Small" description="Polarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2052,7 +2052,7 @@
     </comp>
     <comp ref="C417">
       <value>220uF 16V</value>
-      <footprint>Capacitor_THT:C_Axial_L12.0mm_D7.5mm_P20.00mm_Horizontal</footprint>
+      <footprint>Capacitor_THT:C_Axial_L12.0mm_D8.5mm_P15.00mm_Horizontal</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="CP_Small" description="Polarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2060,7 +2060,7 @@
     </comp>
     <comp ref="C418">
       <value>220uF 16V</value>
-      <footprint>Capacitor_THT:C_Axial_L12.0mm_D7.5mm_P20.00mm_Horizontal</footprint>
+      <footprint>Capacitor_THT:C_Axial_L12.0mm_D8.5mm_P15.00mm_Horizontal</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="CP_Small" description="Polarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2068,7 +2068,7 @@
     </comp>
     <comp ref="C419">
       <value>220uF 16V</value>
-      <footprint>Capacitor_THT:C_Axial_L12.0mm_D7.5mm_P20.00mm_Horizontal</footprint>
+      <footprint>Capacitor_THT:C_Axial_L12.0mm_D8.5mm_P15.00mm_Horizontal</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="CP_Small" description="Polarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2076,7 +2076,7 @@
     </comp>
     <comp ref="C617">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2084,7 +2084,7 @@
     </comp>
     <comp ref="C619">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2092,7 +2092,7 @@
     </comp>
     <comp ref="C620">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2100,7 +2100,7 @@
     </comp>
     <comp ref="C621">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2108,7 +2108,7 @@
     </comp>
     <comp ref="C622">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2116,7 +2116,7 @@
     </comp>
     <comp ref="C623">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2124,7 +2124,7 @@
     </comp>
     <comp ref="C624">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2132,7 +2132,7 @@
     </comp>
     <comp ref="C625">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2140,7 +2140,7 @@
     </comp>
     <comp ref="C626">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2148,7 +2148,7 @@
     </comp>
     <comp ref="C627">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2156,7 +2156,7 @@
     </comp>
     <comp ref="C628">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2164,7 +2164,7 @@
     </comp>
     <comp ref="C629">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2172,7 +2172,7 @@
     </comp>
     <comp ref="C630">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2180,7 +2180,7 @@
     </comp>
     <comp ref="C631">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2188,7 +2188,7 @@
     </comp>
     <comp ref="C632">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2196,7 +2196,7 @@
     </comp>
     <comp ref="C633">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2204,7 +2204,7 @@
     </comp>
     <comp ref="C635">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2212,7 +2212,7 @@
     </comp>
     <comp ref="C637">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2220,7 +2220,7 @@
     </comp>
     <comp ref="C639">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2228,7 +2228,7 @@
     </comp>
     <comp ref="C641">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2236,7 +2236,7 @@
     </comp>
     <comp ref="C645">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2244,7 +2244,7 @@
     </comp>
     <comp ref="C647">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2252,7 +2252,7 @@
     </comp>
     <comp ref="C649">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2260,7 +2260,7 @@
     </comp>
     <comp ref="C650">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2268,7 +2268,7 @@
     </comp>
     <comp ref="C651">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2276,7 +2276,7 @@
     </comp>
     <comp ref="C652">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2284,7 +2284,7 @@
     </comp>
     <comp ref="C654">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2292,7 +2292,7 @@
     </comp>
     <comp ref="C655">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2300,7 +2300,7 @@
     </comp>
     <comp ref="C657">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2308,7 +2308,7 @@
     </comp>
     <comp ref="C659">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2316,7 +2316,7 @@
     </comp>
     <comp ref="C661">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2324,7 +2324,7 @@
     </comp>
     <comp ref="C606">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2348,7 +2348,7 @@
     </comp>
     <comp ref="C662">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2356,7 +2356,7 @@
     </comp>
     <comp ref="C660">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2364,7 +2364,7 @@
     </comp>
     <comp ref="C658">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2372,7 +2372,7 @@
     </comp>
     <comp ref="C663">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2380,7 +2380,7 @@
     </comp>
     <comp ref="C664">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2388,7 +2388,7 @@
     </comp>
     <comp ref="C665">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2396,7 +2396,7 @@
     </comp>
     <comp ref="C666">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2404,7 +2404,7 @@
     </comp>
     <comp ref="C667">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2412,7 +2412,7 @@
     </comp>
     <comp ref="C668">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2420,7 +2420,7 @@
     </comp>
     <comp ref="C669">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2428,7 +2428,7 @@
     </comp>
     <comp ref="C670">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2436,7 +2436,7 @@
     </comp>
     <comp ref="C671">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2444,7 +2444,7 @@
     </comp>
     <comp ref="C672">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2452,7 +2452,7 @@
     </comp>
     <comp ref="C673">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2460,7 +2460,7 @@
     </comp>
     <comp ref="C674">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2468,7 +2468,7 @@
     </comp>
     <comp ref="C678">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2643,7 +2643,7 @@
     </comp>
     <comp ref="C700">
       <value>0.22uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2651,7 +2651,7 @@
     </comp>
     <comp ref="C703">
       <value>0.22uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2659,7 +2659,7 @@
     </comp>
     <comp ref="C704">
       <value>0.22uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2667,7 +2667,7 @@
     </comp>
     <comp ref="C702">
       <value>0.22uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2683,7 +2683,7 @@
     </comp>
     <comp ref="C711">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2691,7 +2691,7 @@
     </comp>
     <comp ref="C713">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2699,7 +2699,7 @@
     </comp>
     <comp ref="C714">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2707,7 +2707,7 @@
     </comp>
     <comp ref="C716">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2715,7 +2715,7 @@
     </comp>
     <comp ref="C717">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2723,7 +2723,7 @@
     </comp>
     <comp ref="C719">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2731,7 +2731,7 @@
     </comp>
     <comp ref="C720">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2739,7 +2739,7 @@
     </comp>
     <comp ref="C722">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2747,7 +2747,7 @@
     </comp>
     <comp ref="C726">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2779,7 +2779,7 @@
     </comp>
     <comp ref="C728">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2787,7 +2787,7 @@
     </comp>
     <comp ref="C730">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2795,7 +2795,7 @@
     </comp>
     <comp ref="C732">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2803,7 +2803,7 @@
     </comp>
     <comp ref="C734">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2811,7 +2811,7 @@
     </comp>
     <comp ref="C736">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2819,7 +2819,7 @@
     </comp>
     <comp ref="C738">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2827,7 +2827,7 @@
     </comp>
     <comp ref="C740">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2835,7 +2835,7 @@
     </comp>
     <comp ref="C742">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2843,7 +2843,7 @@
     </comp>
     <comp ref="C744">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2851,7 +2851,7 @@
     </comp>
     <comp ref="C746">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2867,7 +2867,7 @@
     </comp>
     <comp ref="C748">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2875,7 +2875,7 @@
     </comp>
     <comp ref="C750">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2883,7 +2883,7 @@
     </comp>
     <comp ref="C752">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2891,7 +2891,7 @@
     </comp>
     <comp ref="C754">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2899,7 +2899,7 @@
     </comp>
     <comp ref="C756">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2907,7 +2907,7 @@
     </comp>
     <comp ref="C758">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2915,7 +2915,7 @@
     </comp>
     <comp ref="C790">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2923,7 +2923,7 @@
     </comp>
     <comp ref="C791">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2931,7 +2931,7 @@
     </comp>
     <comp ref="C793">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2947,7 +2947,7 @@
     </comp>
     <comp ref="C794">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2955,7 +2955,7 @@
     </comp>
     <comp ref="C796">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2963,7 +2963,7 @@
     </comp>
     <comp ref="C760">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2971,7 +2971,7 @@
     </comp>
     <comp ref="C762">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2979,7 +2979,7 @@
     </comp>
     <comp ref="C764">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2987,7 +2987,7 @@
     </comp>
     <comp ref="C766">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -2995,7 +2995,7 @@
     </comp>
     <comp ref="C768">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -3003,7 +3003,7 @@
     </comp>
     <comp ref="C770">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -3019,7 +3019,7 @@
     </comp>
     <comp ref="C776">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -3027,7 +3027,7 @@
     </comp>
     <comp ref="C778">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -3035,7 +3035,7 @@
     </comp>
     <comp ref="C780">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -3043,7 +3043,7 @@
     </comp>
     <comp ref="C782">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -3051,7 +3051,7 @@
     </comp>
     <comp ref="C784">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -3059,7 +3059,7 @@
     </comp>
     <comp ref="C786">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -3067,7 +3067,7 @@
     </comp>
     <comp ref="C787">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -3075,7 +3075,7 @@
     </comp>
     <comp ref="C789">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -3083,7 +3083,7 @@
     </comp>
     <comp ref="C705">
       <value>0.22uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/pc slots/" tstamps="/5CEA7188/"/>
@@ -3131,7 +3131,7 @@
     </comp>
     <comp ref="C920">
       <value>100pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/expansion logic/" tstamps="/5CEA71BC/"/>
@@ -3139,7 +3139,7 @@
     </comp>
     <comp ref="C904">
       <value>100pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/expansion logic/" tstamps="/5CEA71BC/"/>
@@ -3147,7 +3147,7 @@
     </comp>
     <comp ref="C800">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/expansion logic/" tstamps="/5CEA71BC/"/>
@@ -3179,7 +3179,7 @@
     </comp>
     <comp ref="Y800">
       <value>32768Hz</value>
-      <footprint>Crystal:Crystal_DS10_D1.0mm_L4.3mm_Horizontal</footprint>
+      <footprint>Crystal:Crystal_DS15_D1.5mm_L5.0mm_Horizontal</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="Crystal" description="Two pin crystal"/>
       <sheetpath names="/expansion logic/" tstamps="/5CEA71BC/"/>
@@ -3187,7 +3187,7 @@
     </comp>
     <comp ref="C810">
       <value>20pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/expansion logic/" tstamps="/5CEA71BC/"/>
@@ -3203,7 +3203,7 @@
     </comp>
     <comp ref="C811">
       <value>4.7uF 16V</value>
-      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.50mm</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="CP" description="Polarized capacitor"/>
       <sheetpath names="/expansion logic/" tstamps="/5CEA71BC/"/>
@@ -3211,7 +3211,7 @@
     </comp>
     <comp ref="C812">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/expansion logic/" tstamps="/5CEA71BC/"/>
@@ -3291,7 +3291,7 @@
     </comp>
     <comp ref="C803">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/expansion logic/" tstamps="/5CEA71BC/"/>
@@ -3307,7 +3307,7 @@
     </comp>
     <comp ref="C804">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/expansion logic/" tstamps="/5CEA71BC/"/>
@@ -3315,7 +3315,7 @@
     </comp>
     <comp ref="C802">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/expansion logic/" tstamps="/5CEA71BC/"/>
@@ -3345,7 +3345,7 @@
     </comp>
     <comp ref="C905">
       <value>100pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/agnus/" tstamps="/5CEA71EC/"/>
@@ -3416,7 +3416,7 @@
       <tstamp>6B4E019A</tstamp>
     </comp>
     <comp ref="X1">
-      <value>28.63636MHz</value>
+      <value>28.37516MHz (pal)</value>
       <footprint>Oscillator:Oscillator_DIP-14</footprint>
       <libsource lib="Oscillator" part="ACO-xxxMHz" description="HCMOS Crystal Clock Oscillator, DIP14-style metal package"/>
       <sheetpath names="/agnus/" tstamps="/5CEA71EC/"/>
@@ -3424,7 +3424,7 @@
     </comp>
     <comp ref="C110">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/agnus/" tstamps="/5CEA71EC/"/>
@@ -3456,7 +3456,7 @@
     </comp>
     <comp ref="C101">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/agnus/" tstamps="/5CEA71EC/"/>
@@ -3464,7 +3464,7 @@
     </comp>
     <comp ref="C415">
       <value>4.7uF 16V</value>
-      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.50mm</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="CP" description="Polarized capacitor"/>
       <sheetpath names="/agnus/" tstamps="/5CEA71EC/"/>
@@ -3472,7 +3472,7 @@
     </comp>
     <comp ref="C102">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/agnus/" tstamps="/5CEA71EC/"/>
@@ -3536,7 +3536,7 @@
     </comp>
     <comp ref="C907">
       <value>100pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/agnus/" tstamps="/5CEA71EC/"/>
@@ -3544,7 +3544,7 @@
     </comp>
     <comp ref="C908">
       <value>100pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/agnus/" tstamps="/5CEA71EC/"/>
@@ -3552,7 +3552,7 @@
     </comp>
     <comp ref="C918">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/agnus/" tstamps="/5CEA71EC/"/>
@@ -3560,7 +3560,7 @@
     </comp>
     <comp ref="C108">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/agnus/" tstamps="/5CEA71EC/"/>
@@ -3576,7 +3576,7 @@
     </comp>
     <comp ref="C107">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/agnus/" tstamps="/5CEA71EC/"/>
@@ -3668,7 +3668,7 @@
     </comp>
     <comp ref="C261">
       <value>100pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/parallel/" tstamps="/5CEA721E/"/>
@@ -3676,7 +3676,7 @@
     </comp>
     <comp ref="C260">
       <value>100pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/parallel/" tstamps="/5CEA721E/"/>
@@ -3684,7 +3684,7 @@
     </comp>
     <comp ref="C259">
       <value>100pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/parallel/" tstamps="/5CEA721E/"/>
@@ -3692,7 +3692,7 @@
     </comp>
     <comp ref="C912">
       <value>470uF 25v</value>
-      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="CP" description="Polarized capacitor"/>
       <sheetpath names="/parallel/" tstamps="/5CEA721E/"/>
@@ -3852,7 +3852,7 @@
     </comp>
     <comp ref="C909">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/parallel/" tstamps="/5CEA721E/"/>
@@ -3860,7 +3860,7 @@
     </comp>
     <comp ref="C916">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/parallel/" tstamps="/5CEA721E/"/>
@@ -3916,7 +3916,7 @@
     </comp>
     <comp ref="C322">
       <value>0.01uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/parallel/" tstamps="/5CEA721E/"/>
@@ -3924,7 +3924,7 @@
     </comp>
     <comp ref="C323">
       <value>0.01uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/parallel/" tstamps="/5CEA721E/"/>
@@ -4100,7 +4100,7 @@
     </comp>
     <comp ref="C300">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/parallel/" tstamps="/5CEA721E/"/>
@@ -4108,7 +4108,7 @@
     </comp>
     <comp ref="C203">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/parallel/" tstamps="/5CEA721E/"/>
@@ -4116,7 +4116,7 @@
     </comp>
     <comp ref="C302">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/parallel/" tstamps="/5CEA721E/"/>
@@ -4124,7 +4124,7 @@
     </comp>
     <comp ref="C303">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/parallel/" tstamps="/5CEA721E/"/>
@@ -4132,7 +4132,7 @@
     </comp>
     <comp ref="C607">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/parallel/" tstamps="/5CEA721E/"/>
@@ -4246,7 +4246,7 @@
     </comp>
     <comp ref="C915">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/denise/" tstamps="/5CEA7254/"/>
@@ -4262,7 +4262,7 @@
     </comp>
     <comp ref="C913">
       <value>47pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/denise/" tstamps="/5CEA7254/"/>
@@ -4334,7 +4334,7 @@
     </comp>
     <comp ref="C215">
       <value>0.22uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/denise/" tstamps="/5CEA7254/"/>
@@ -4342,7 +4342,7 @@
     </comp>
     <comp ref="C216">
       <value>0.22uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/denise/" tstamps="/5CEA7254/"/>
@@ -4350,7 +4350,7 @@
     </comp>
     <comp ref="C217">
       <value>0.22uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/denise/" tstamps="/5CEA7254/"/>
@@ -4486,7 +4486,7 @@
     </comp>
     <comp ref="C914">
       <value>100pF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/denise/" tstamps="/5CEA7254/"/>
@@ -4494,14 +4494,14 @@
     </comp>
     <comp ref="C201">
       <value>0.22uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/denise/" tstamps="/5CEA7254/"/>
       <tstamp>6F20491F</tstamp>
     </comp>
     <comp ref="C226">
-      <value>470uF 16v</value>
+      <value>470uF 16/25v</value>
       <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="CP" description="Polarized capacitor"/>
@@ -4509,8 +4509,8 @@
       <tstamp>6FB2595B</tstamp>
     </comp>
     <comp ref="C214">
-      <value>470uF 16v</value>
-      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <value>470uF 16/25v</value>
+      <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="CP" description="Polarized capacitor"/>
       <sheetpath names="/denise/" tstamps="/5CEA7254/"/>
@@ -4534,7 +4534,7 @@
     </comp>
     <comp ref="C205">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/denise/" tstamps="/5CEA7254/"/>
@@ -4542,7 +4542,7 @@
     </comp>
     <comp ref="C206">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/denise/" tstamps="/5CEA7254/"/>
@@ -4605,7 +4605,7 @@
     </comp>
     <comp ref="C602">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/coprocessor slot/" tstamps="/5CEA727E/"/>
@@ -4613,7 +4613,7 @@
     </comp>
     <comp ref="C601">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/coprocessor slot/" tstamps="/5CEA727E/"/>
@@ -4621,7 +4621,7 @@
     </comp>
     <comp ref="C600">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/coprocessor slot/" tstamps="/5CEA727E/"/>
@@ -4645,7 +4645,7 @@
     </comp>
     <comp ref="C603">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/coprocessor slot/" tstamps="/5CEA727E/"/>
@@ -4653,7 +4653,7 @@
     </comp>
     <comp ref="C604">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/coprocessor slot/" tstamps="/5CEA727E/"/>
@@ -4661,7 +4661,7 @@
     </comp>
     <comp ref="C605">
       <value>0.1uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/coprocessor slot/" tstamps="/5CEA727E/"/>
