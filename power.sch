@@ -1060,4 +1060,6 @@ Wire Wire Line
 	5500 4350 6000 4350
 Wire Wire Line
 	6000 4350 6000 4300
+Text Notes 4600 3050 0    50   ~ 0
+for some reasons, C412 is inverted in schematic\nbut corrected on factory PCB assembly…
 $EndSCHEMATC
