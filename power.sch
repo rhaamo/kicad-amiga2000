@@ -95,6 +95,7 @@ F 0 "C400" H 1518 1746 50  0000 L CNN
 F 1 "220uF 16V" H 1518 1655 50  0000 L CNN
 F 2 "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm" H 1438 1550 50  0001 C CNN
 F 3 "~" H 1400 1700 50  0001 C CNN
+F 4 "667-ECA-1CM221B" H 1400 1700 50  0001 C CNN "RefOrder"
 	1    1400 1700
 	1    0    0    -1  
 $EndComp
@@ -106,6 +107,7 @@ F 0 "C401" H 2165 1746 50  0000 L CNN
 F 1 "0.01uF" H 2165 1655 50  0000 L CNN
 F 2 "Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT" H 2088 1550 50  0001 C CNN
 F 3 "~" H 2050 1700 50  0001 C CNN
+F 4 "581-SA105C103K" H 2050 1700 50  0001 C CNN "RefOrder"
 	1    2050 1700
 	1    0    0    -1  
 $EndComp
@@ -117,6 +119,7 @@ F 0 "C402" H 3168 1746 50  0000 L CNN
 F 1 "47uF 16V" H 3168 1655 50  0000 L CNN
 F 2 "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm" H 3088 1550 50  0001 C CNN
 F 3 "~" H 3050 1700 50  0001 C CNN
+F 4 "667-ECA-1CM470B" H 3050 1700 50  0001 C CNN "RefOrder"
 	1    3050 1700
 	1    0    0    -1  
 $EndComp
@@ -128,6 +131,7 @@ F 0 "C403" H 3815 1746 50  0000 L CNN
 F 1 "47uF 16V" H 3815 1655 50  0000 L CNN
 F 2 "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm" H 3738 1550 50  0001 C CNN
 F 3 "~" H 3700 1700 50  0001 C CNN
+F 4 "667-ECA-1CM470B" H 3700 1700 50  0001 C CNN "RefOrder"
 	1    3700 1700
 	1    0    0    -1  
 $EndComp
@@ -139,6 +143,7 @@ F 0 "C404" H 4618 1746 50  0000 L CNN
 F 1 "47uF 16V" H 4618 1655 50  0000 L CNN
 F 2 "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm" H 4538 1550 50  0001 C CNN
 F 3 "~" H 4500 1700 50  0001 C CNN
+F 4 "667-ECA-1CM470B" H 4500 1700 50  0001 C CNN "RefOrder"
 	1    4500 1700
 	1    0    0    -1  
 $EndComp
@@ -150,6 +155,7 @@ F 0 "C405" H 5265 1746 50  0000 L CNN
 F 1 "47uF 16V" H 5265 1655 50  0000 L CNN
 F 2 "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm" H 5188 1550 50  0001 C CNN
 F 3 "~" H 5150 1700 50  0001 C CNN
+F 4 "667-ECA-1CM470B" H 5150 1700 50  0001 C CNN "RefOrder"
 	1    5150 1700
 	1    0    0    -1  
 $EndComp
@@ -240,6 +246,7 @@ F 0 "C406" H 1282 2054 50  0000 R CNN
 F 1 "47uF 16V" H 1282 2145 50  0000 R CNN
 F 2 "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm" H 1438 1950 50  0001 C CNN
 F 3 "~" H 1400 2100 50  0001 C CNN
+F 4 "667-ECA-1CM470B" H 1400 2100 50  0001 C CNN "RefOrder"
 	1    1400 2100
 	-1   0    0    1   
 $EndComp
@@ -251,6 +258,7 @@ F 0 "C407" H 2165 2146 50  0000 L CNN
 F 1 "0.01uF" H 2165 2055 50  0000 L CNN
 F 2 "Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT" H 2088 1950 50  0001 C CNN
 F 3 "~" H 2050 2100 50  0001 C CNN
+F 4 "581-SA105C103K" H 2050 2100 50  0001 C CNN "RefOrder"
 	1    2050 2100
 	1    0    0    -1  
 $EndComp
@@ -262,6 +270,7 @@ F 0 "C409" H 3815 2146 50  0000 L CNN
 F 1 "0.01uF" H 3815 2055 50  0000 L CNN
 F 2 "Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT" H 3738 1950 50  0001 C CNN
 F 3 "~" H 3700 2100 50  0001 C CNN
+F 4 "581-SA105C103K" H 3700 2100 50  0001 C CNN "RefOrder"
 	1    3700 2100
 	1    0    0    -1  
 $EndComp
@@ -273,6 +282,7 @@ F 0 "C410" H 4382 2054 50  0000 R CNN
 F 1 "47uF 16V" H 4382 2145 50  0000 R CNN
 F 2 "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm" H 4538 1950 50  0001 C CNN
 F 3 "~" H 4500 2100 50  0001 C CNN
+F 4 "667-ECA-1CM470B" H 4500 2100 50  0001 C CNN "RefOrder"
 	1    4500 2100
 	-1   0    0    1   
 $EndComp
@@ -284,6 +294,7 @@ F 0 "C411" H 5265 2146 50  0000 L CNN
 F 1 "0.01uF" H 5265 2055 50  0000 L CNN
 F 2 "Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT" H 5188 1950 50  0001 C CNN
 F 3 "~" H 5150 2100 50  0001 C CNN
+F 4 "581-SA105C103K" H 5150 2100 50  0001 C CNN "RefOrder"
 	1    5150 2100
 	1    0    0    -1  
 $EndComp
@@ -296,6 +307,7 @@ F 0 "C412" H 5900 2050 50  0000 L CNN
 F 1 "47uF 16V" H 5850 2200 50  0000 L CNN
 F 2 "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm" H 5788 1950 50  0001 C CNN
 F 3 "~" H 5750 2100 50  0001 C CNN
+F 4 "667-ECA-1CM470B" H 5750 2100 50  0001 C CNN "RefOrder"
 	1    5750 2100
 	1    0    0    -1  
 $EndComp
@@ -307,6 +319,7 @@ F 0 "C413" H 6465 2146 50  0000 L CNN
 F 1 "0.01uF" H 6465 2055 50  0000 L CNN
 F 2 "Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT" H 6388 1950 50  0001 C CNN
 F 3 "~" H 6350 2100 50  0001 C CNN
+F 4 "581-SA105C103K" H 6350 2100 50  0001 C CNN "RefOrder"
 	1    6350 2100
 	1    0    0    -1  
 $EndComp
@@ -318,6 +331,7 @@ F 0 "C414" H 7065 2146 50  0000 L CNN
 F 1 "0.01uF" H 7065 2055 50  0000 L CNN
 F 2 "Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT" H 6988 1950 50  0001 C CNN
 F 3 "~" H 6950 2100 50  0001 C CNN
+F 4 "581-SA105C103K" H 6950 2100 50  0001 C CNN "RefOrder"
 	1    6950 2100
 	1    0    0    -1  
 $EndComp
@@ -415,6 +429,7 @@ F 0 "D400" V 9254 2229 50  0000 L CNN
 F 1 "1N4001" V 9345 2229 50  0000 L CNN
 F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 9300 1975 50  0001 C CNN
 F 3 "http://www.vishay.com/docs/88503/1n4001.pdf" H 9300 2150 50  0001 C CNN
+F 4 "750-1N4001-G" H 9300 2150 50  0001 C CNN "RefOrder"
 	1    9300 2150
 	0    1    1    0   
 $EndComp
@@ -446,6 +461,7 @@ F 0 "D401" V 10054 2229 50  0000 L CNN
 F 1 "1N4001" V 10145 2229 50  0000 L CNN
 F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 10100 1975 50  0001 C CNN
 F 3 "http://www.vishay.com/docs/88503/1n4001.pdf" H 10100 2150 50  0001 C CNN
+F 4 "750-1N4001-G" H 10100 2150 50  0001 C CNN "RefOrder"
 	1    10100 2150
 	0    -1   -1   0   
 $EndComp
@@ -479,6 +495,7 @@ F 0 "U108" H 8450 5181 50  0000 C CNN
 F 1 "74LS74A" H 8450 5090 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 8450 4700 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/sn74ls74a.pdf" H 8450 4700 50  0001 C CNN
+F 4 "595-SN74LS74AN" H 8450 4700 50  0001 C CNN "RefOrder"
 	1    8450 4700
 	1    0    0    -1  
 $EndComp
@@ -490,6 +507,7 @@ F 0 "U607" H 8450 5975 50  0000 C CNN
 F 1 "74LS08" H 8450 5884 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 8450 5650 50  0001 C CNN
 F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 8450 5650 50  0001 C CNN
+F 4 "595-SN74LS08N" H 8450 5650 50  0001 C CNN "RefOrder"
 	3    8450 5650
 	1    0    0    -1  
 $EndComp
@@ -661,6 +679,7 @@ F 0 "C420" H 5868 1746 50  0000 L CNN
 F 1 "47uF 16V" H 5868 1655 50  0000 L CNN
 F 2 "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm" H 5788 1550 50  0001 C CNN
 F 3 "~" H 5750 1700 50  0001 C CNN
+F 4 "667-ECA-1CM470B" H 5750 1700 50  0001 C CNN "RefOrder"
 	1    5750 1700
 	1    0    0    -1  
 $EndComp
@@ -672,6 +691,7 @@ F 0 "C421" H 6468 1746 50  0000 L CNN
 F 1 "47uF 16V" H 6468 1655 50  0000 L CNN
 F 2 "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm" H 6388 1550 50  0001 C CNN
 F 3 "~" H 6350 1700 50  0001 C CNN
+F 4 "667-ECA-1CM470B" H 6350 1700 50  0001 C CNN "RefOrder"
 	1    6350 1700
 	1    0    0    -1  
 $EndComp
@@ -699,6 +719,7 @@ F 0 "C422" H 7068 1746 50  0000 L CNN
 F 1 "47uF 16V" H 7068 1655 50  0000 L CNN
 F 2 "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm" H 6988 1550 50  0001 C CNN
 F 3 "~" H 6950 1700 50  0001 C CNN
+F 4 "667-ECA-1CM470B" H 6950 1700 50  0001 C CNN "RefOrder"
 	1    6950 1700
 	1    0    0    -1  
 $EndComp
@@ -710,6 +731,7 @@ F 0 "C903" H 7665 1746 50  0000 L CNN
 F 1 "0.1uF" H 7665 1655 50  0000 L CNN
 F 2 "Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT" H 7588 1550 50  0001 C CNN
 F 3 "~" H 7550 1700 50  0001 C CNN
+F 4 "581-SA105C104KARC" H 7550 1700 50  0001 C CNN "RefOrder"
 	1    7550 1700
 	1    0    0    -1  
 $EndComp
@@ -721,6 +743,7 @@ F 0 "C906" H 8115 1746 50  0000 L CNN
 F 1 "0.1uF" H 8115 1655 50  0000 L CNN
 F 2 "Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT" H 8038 1550 50  0001 C CNN
 F 3 "~" H 8000 1700 50  0001 C CNN
+F 4 "581-SA105C104KARC" H 8000 1700 50  0001 C CNN "RefOrder"
 	1    8000 1700
 	1    0    0    -1  
 $EndComp
@@ -732,6 +755,7 @@ F 0 "C910" H 8565 1746 50  0000 L CNN
 F 1 "0.1uF" H 8565 1655 50  0000 L CNN
 F 2 "Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT" H 8488 1550 50  0001 C CNN
 F 3 "~" H 8450 1700 50  0001 C CNN
+F 4 "581-SA105C104KARC" H 8450 1700 50  0001 C CNN "RefOrder"
 	1    8450 1700
 	1    0    0    -1  
 $EndComp
@@ -780,6 +804,7 @@ F 0 "H1" V 1645 3903 50  0000 C CNN
 F 1 "MountingHole_Pad" H 1600 3858 50  0001 L CNN
 F 2 "MountingHole:MountingHole_4mm_Pad_Via" H 1500 3900 50  0001 C CNN
 F 3 "~" H 1500 3900 50  0001 C CNN
+F 4 "yes" H 1500 3900 50  0001 C CNN "DoNotPopulate"
 	1    1500 3900
 	0    -1   -1   0   
 $EndComp
@@ -791,6 +816,7 @@ F 0 "H2" V 1645 4403 50  0000 C CNN
 F 1 "MountingHole_Pad" H 1600 4358 50  0001 L CNN
 F 2 "MountingHole:MountingHole_4mm_Pad_Via" H 1500 4400 50  0001 C CNN
 F 3 "~" H 1500 4400 50  0001 C CNN
+F 4 "yes" H 1500 4400 50  0001 C CNN "DoNotPopulate"
 	1    1500 4400
 	0    -1   -1   0   
 $EndComp
@@ -802,6 +828,7 @@ F 0 "H3" V 1645 4903 50  0000 C CNN
 F 1 "MountingHole_Pad" H 1600 4858 50  0001 L CNN
 F 2 "MountingHole:MountingHole_4mm_Pad_Via" H 1500 4900 50  0001 C CNN
 F 3 "~" H 1500 4900 50  0001 C CNN
+F 4 "yes" H 1500 4900 50  0001 C CNN "DoNotPopulate"
 	1    1500 4900
 	0    -1   -1   0   
 $EndComp
@@ -813,6 +840,7 @@ F 0 "H4" V 1645 5403 50  0000 C CNN
 F 1 "MountingHole_Pad" H 1600 5358 50  0001 L CNN
 F 2 "MountingHole:MountingHole_4mm_Pad_Via" H 1500 5400 50  0001 C CNN
 F 3 "~" H 1500 5400 50  0001 C CNN
+F 4 "yes" H 1500 5400 50  0001 C CNN "DoNotPopulate"
 	1    1500 5400
 	0    -1   -1   0   
 $EndComp
@@ -824,6 +852,7 @@ F 0 "H5" V 1645 5903 50  0000 C CNN
 F 1 "MountingHole_Pad" H 1600 5858 50  0001 L CNN
 F 2 "MountingHole:MountingHole_4mm_Pad_Via" H 1500 5900 50  0001 C CNN
 F 3 "~" H 1500 5900 50  0001 C CNN
+F 4 "yes" H 1500 5900 50  0001 C CNN "DoNotPopulate"
 	1    1500 5900
 	0    -1   -1   0   
 $EndComp
@@ -835,6 +864,7 @@ F 0 "H6" V 2500 4050 50  0000 L CNN
 F 1 "MountingHole_Pad" H 2600 3858 50  0001 L CNN
 F 2 "MountingHole:MountingHole_4mm_Pad_Via" H 2500 3900 50  0001 C CNN
 F 3 "~" H 2500 3900 50  0001 C CNN
+F 4 "yes" H 2500 3900 50  0001 C CNN "DoNotPopulate"
 	1    2500 3900
 	0    1    1    0   
 $EndComp
@@ -846,6 +876,7 @@ F 0 "H7" V 2500 4550 50  0000 L CNN
 F 1 "MountingHole_Pad" H 2600 4358 50  0001 L CNN
 F 2 "MountingHole:MountingHole_4mm_Pad_Via" H 2500 4400 50  0001 C CNN
 F 3 "~" H 2500 4400 50  0001 C CNN
+F 4 "yes" H 2500 4400 50  0001 C CNN "DoNotPopulate"
 	1    2500 4400
 	0    1    1    0   
 $EndComp
@@ -857,6 +888,7 @@ F 0 "H8" V 2500 5050 50  0000 L CNN
 F 1 "MountingHole_Pad" H 2600 4858 50  0001 L CNN
 F 2 "MountingHole:MountingHole_4mm_Pad_Via" H 2500 4900 50  0001 C CNN
 F 3 "~" H 2500 4900 50  0001 C CNN
+F 4 "yes" H 2500 4900 50  0001 C CNN "DoNotPopulate"
 	1    2500 4900
 	0    1    1    0   
 $EndComp
@@ -868,6 +900,7 @@ F 0 "H9" V 2500 6050 50  0000 L CNN
 F 1 "MountingHole_Pad" H 2600 5858 50  0001 L CNN
 F 2 "MountingHole:MountingHole_4mm_Pad_Via" H 2500 5900 50  0001 C CNN
 F 3 "~" H 2500 5900 50  0001 C CNN
+F 4 "yes" H 2500 5900 50  0001 C CNN "DoNotPopulate"
 	1    2500 5900
 	0    1    1    0   
 $EndComp
@@ -925,6 +958,7 @@ F 0 "H13" V 2500 5550 50  0000 L CNN
 F 1 "MountingHole_Pad" H 2600 5358 50  0001 L CNN
 F 2 "MountingHole:MountingHole_4mm_Pad_Via" H 2500 5400 50  0001 C CNN
 F 3 "~" H 2500 5400 50  0001 C CNN
+F 4 "yes" H 2500 5400 50  0001 C CNN "DoNotPopulate"
 	1    2500 5400
 	0    1    1    0   
 $EndComp
@@ -938,6 +972,7 @@ F 0 "H10" V 2500 4300 50  0000 L CNN
 F 1 "MountingHole_Pad" H 2600 4108 50  0001 L CNN
 F 2 "MountingHole:MountingHole_4mm_Pad_Via" H 2500 4150 50  0001 C CNN
 F 3 "~" H 2500 4150 50  0001 C CNN
+F 4 "yes" H 2500 4150 50  0001 C CNN "DoNotPopulate"
 	1    2500 4150
 	0    1    1    0   
 $EndComp
@@ -949,6 +984,7 @@ F 0 "H11" V 2500 4800 50  0000 L CNN
 F 1 "MountingHole_Pad" H 2600 4608 50  0001 L CNN
 F 2 "MountingHole:MountingHole_4mm_Pad_Via" H 2500 4650 50  0001 C CNN
 F 3 "~" H 2500 4650 50  0001 C CNN
+F 4 "yes" H 2500 4650 50  0001 C CNN "DoNotPopulate"
 	1    2500 4650
 	0    1    1    0   
 $EndComp
@@ -960,6 +996,7 @@ F 0 "H12" V 2500 5300 50  0000 L CNN
 F 1 "MountingHole_Pad" H 2600 5108 50  0001 L CNN
 F 2 "MountingHole:MountingHole_4mm_Pad_Via" H 2500 5150 50  0001 C CNN
 F 3 "~" H 2500 5150 50  0001 C CNN
+F 4 "yes" H 2500 5150 50  0001 C CNN "DoNotPopulate"
 	1    2500 5150
 	0    1    1    0   
 $EndComp
@@ -971,6 +1008,7 @@ F 0 "H14" V 2500 5800 50  0000 L CNN
 F 1 "MountingHole_Pad" H 2600 5608 50  0001 L CNN
 F 2 "MountingHole:MountingHole_4mm_Pad_Via" H 2500 5650 50  0001 C CNN
 F 3 "~" H 2500 5650 50  0001 C CNN
+F 4 "yes" H 2500 5650 50  0001 C CNN "DoNotPopulate"
 	1    2500 5650
 	0    1    1    0   
 $EndComp
@@ -1059,6 +1097,7 @@ F 0 "C408" H 3168 2146 50  0000 L CNN
 F 1 "47uF 16V" H 3168 2055 50  0000 L CNN
 F 2 "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm" H 3088 1950 50  0001 C CNN
 F 3 "~" H 3050 2100 50  0001 C CNN
+F 4 "667-ECA-1CM470B" H 3050 2100 50  0001 C CNN "RefOrder"
 	1    3050 2100
 	1    0    0    -1  
 $EndComp
