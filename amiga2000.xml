@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>/Users/dashie/Seafile/dev/kicad/amiga2000/amiga2000.sch</source>
-    <date>Monday, 17 June 2019 at 20:08:33</date>
+    <date>Wednesday, 19 June 2019 at 12:23:08</date>
     <tool>Eeschema (5.1.2-1)-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -575,7 +575,7 @@
     </comp>
     <comp ref="C222">
       <value>47uF 16V</value>
-      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:CP_Radial_Tantal_D5.5mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">667-ECA-1CM470B</field>
@@ -586,7 +586,7 @@
     </comp>
     <comp ref="C223">
       <value>47uF 16V</value>
-      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:CP_Radial_Tantal_D5.5mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">667-ECA-1CM470B</field>
@@ -597,7 +597,7 @@
     </comp>
     <comp ref="C220">
       <value>0.22uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">594-A224K20X7RF5TAA</field>
@@ -608,7 +608,7 @@
     </comp>
     <comp ref="C221">
       <value>0.22uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">594-A224K20X7RF5TAA</field>
@@ -730,7 +730,7 @@
     </comp>
     <comp ref="C243">
       <value>22uF 16V</value>
-      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:CP_Radial_Tantal_D5.0mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">667-ECA-1CM220B</field>
@@ -871,7 +871,7 @@
     </comp>
     <comp ref="C233">
       <value>22uF 16V</value>
-      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:CP_Radial_Tantal_D5.0mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">667-ECA-1CM220B</field>
@@ -945,7 +945,7 @@
     </comp>
     <comp ref="C204">
       <value>0.01uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">581-SA105C103K</field>
@@ -1011,7 +1011,7 @@
     </comp>
     <comp ref="C219">
       <value>0.22uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">594-A224K20X7RF5TAA</field>
@@ -1283,7 +1283,7 @@
     </comp>
     <comp ref="C813">
       <value>22uF 16V</value>
-      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:CP_Radial_Tantal_D5.0mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">667-ECA-1CM220B</field>
@@ -1349,7 +1349,7 @@
     </comp>
     <comp ref="C814">
       <value>22uF 16V</value>
-      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:CP_Radial_Tantal_D5.0mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">667-ECA-1CM220B</field>
@@ -1423,7 +1423,7 @@
     </comp>
     <comp ref="C320">
       <value>470pF</value>
-      <footprint>Capacitor_THT:C_Rect_L7.0mm_W4.5mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">810-FG28C0G1H471JNT0</field>
@@ -1434,7 +1434,7 @@
     </comp>
     <comp ref="C321">
       <value>470pF</value>
-      <footprint>Capacitor_THT:C_Rect_L7.0mm_W4.5mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">810-FG28C0G1H471JNT0</field>
@@ -1599,7 +1599,7 @@
     </comp>
     <comp ref="C305">
       <value>0.01uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">581-SA105C103K</field>
@@ -1610,7 +1610,7 @@
     </comp>
     <comp ref="C314">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L7.0mm_W4.5mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">810-FG28C0G1H102JNT6</field>
@@ -1621,7 +1621,7 @@
     </comp>
     <comp ref="C315">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L7.0mm_W4.5mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">810-FG28C0G1H102JNT6</field>
@@ -1632,7 +1632,7 @@
     </comp>
     <comp ref="C316">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L7.0mm_W4.5mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">810-FG28C0G1H102JNT6</field>
@@ -1643,7 +1643,7 @@
     </comp>
     <comp ref="C310">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L7.0mm_W4.5mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">810-FG28C0G1H102JNT6</field>
@@ -1654,7 +1654,7 @@
     </comp>
     <comp ref="C311">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L7.0mm_W4.5mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">810-FG28C0G1H102JNT6</field>
@@ -1665,7 +1665,7 @@
     </comp>
     <comp ref="C312">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L7.0mm_W4.5mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">810-FG28C0G1H102JNT6</field>
@@ -1676,7 +1676,7 @@
     </comp>
     <comp ref="C313">
       <value>1000pF</value>
-      <footprint>Capacitor_THT:C_Rect_L7.0mm_W4.5mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">810-FG28C0G1H102JNT6</field>
@@ -1739,7 +1739,7 @@
     </comp>
     <comp ref="C318">
       <value>22uF 16V</value>
-      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:CP_Radial_Tantal_D5.0mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">667-ECA-1CM220B</field>
@@ -1783,7 +1783,7 @@
     </comp>
     <comp ref="C317">
       <value>22uF 16V</value>
-      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:CP_Radial_Tantal_D5.0mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">667-ECA-1CM220B</field>
@@ -1813,7 +1813,7 @@
     </comp>
     <comp ref="C400">
       <value>220uF 16V</value>
-      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:CP_Radial_Tantal_D6.0mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">667-ECA-1CM221B</field>
@@ -1835,7 +1835,7 @@
     </comp>
     <comp ref="C402">
       <value>47uF 16V</value>
-      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:CP_Radial_Tantal_D5.5mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">667-ECA-1CM470B</field>
@@ -1846,7 +1846,7 @@
     </comp>
     <comp ref="C403">
       <value>47uF 16V</value>
-      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:CP_Radial_Tantal_D5.5mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">667-ECA-1CM470B</field>
@@ -1857,7 +1857,7 @@
     </comp>
     <comp ref="C404">
       <value>47uF 16V</value>
-      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:CP_Radial_Tantal_D5.5mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">667-ECA-1CM470B</field>
@@ -1868,7 +1868,7 @@
     </comp>
     <comp ref="C405">
       <value>47uF 16V</value>
-      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:CP_Radial_Tantal_D5.5mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">667-ECA-1CM470B</field>
@@ -1879,7 +1879,7 @@
     </comp>
     <comp ref="C406">
       <value>47uF 16V</value>
-      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:CP_Radial_Tantal_D5.5mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">667-ECA-1CM470B</field>
@@ -1912,7 +1912,7 @@
     </comp>
     <comp ref="C410">
       <value>47uF 16V</value>
-      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:CP_Radial_Tantal_D5.5mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">667-ECA-1CM470B</field>
@@ -1934,7 +1934,7 @@
     </comp>
     <comp ref="C412">
       <value>47uF 16V</value>
-      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:CP_Radial_Tantal_D5.5mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">667-ECA-1CM470B</field>
@@ -2011,7 +2011,7 @@
     </comp>
     <comp ref="C420">
       <value>47uF 16V</value>
-      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:CP_Radial_Tantal_D5.5mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">667-ECA-1CM470B</field>
@@ -2022,7 +2022,7 @@
     </comp>
     <comp ref="C421">
       <value>47uF 16V</value>
-      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:CP_Radial_Tantal_D5.5mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">667-ECA-1CM470B</field>
@@ -2033,7 +2033,7 @@
     </comp>
     <comp ref="C422">
       <value>47uF 16V</value>
-      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:CP_Radial_Tantal_D5.5mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">667-ECA-1CM470B</field>
@@ -2253,7 +2253,7 @@
     </comp>
     <comp ref="C408">
       <value>47uF 16V</value>
-      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:CP_Radial_Tantal_D5.5mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">667-ECA-1CM470B</field>
@@ -2293,7 +2293,7 @@
     </comp>
     <comp ref="C500">
       <value>0.22uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">594-A224K20X7RF5TAA</field>
@@ -2634,10 +2634,10 @@
     </comp>
     <comp ref="C416">
       <value>220uF 16V</value>
-      <footprint>Capacitor_THT:C_Axial_L12.0mm_D8.5mm_P15.00mm_Horizontal</footprint>
+      <footprint>Capacitor_THT:C_Axial_L19.0mm_D8.0mm_P25.00mm_Horizontal</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="RefOrder">667-ECA-1CM221B</field>
+        <field name="RefOrder">75-516D227M025MM6AE3</field>
       </fields>
       <libsource lib="Device" part="CP_Small" description="Polarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2645,10 +2645,10 @@
     </comp>
     <comp ref="C417">
       <value>220uF 16V</value>
-      <footprint>Capacitor_THT:C_Axial_L12.0mm_D8.5mm_P15.00mm_Horizontal</footprint>
+      <footprint>Capacitor_THT:C_Axial_L19.0mm_D8.0mm_P25.00mm_Horizontal</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="RefOrder">667-ECA-1CM221B</field>
+        <field name="RefOrder">75-516D227M025MM6AE3</field>
       </fields>
       <libsource lib="Device" part="CP_Small" description="Polarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2656,10 +2656,10 @@
     </comp>
     <comp ref="C418">
       <value>220uF 16V</value>
-      <footprint>Capacitor_THT:C_Axial_L12.0mm_D8.5mm_P15.00mm_Horizontal</footprint>
+      <footprint>Capacitor_THT:C_Axial_L19.0mm_D8.0mm_P25.00mm_Horizontal</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="RefOrder">667-ECA-1CM221B</field>
+        <field name="RefOrder">75-516D227M025MM6AE3</field>
       </fields>
       <libsource lib="Device" part="CP_Small" description="Polarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -2667,10 +2667,10 @@
     </comp>
     <comp ref="C419">
       <value>220uF 16V</value>
-      <footprint>Capacitor_THT:C_Axial_L12.0mm_D8.5mm_P15.00mm_Horizontal</footprint>
+      <footprint>Capacitor_THT:C_Axial_L19.0mm_D8.0mm_P25.00mm_Horizontal</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="RefOrder">667-ECA-1CM221B</field>
+        <field name="RefOrder">75-516D227M025MM6AE3</field>
       </fields>
       <libsource lib="Device" part="CP_Small" description="Polarized capacitor, small symbol"/>
       <sheetpath names="/zorro/" tstamps="/5CEA70D9/"/>
@@ -3419,7 +3419,7 @@
     </comp>
     <comp ref="C700">
       <value>0.22uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">594-A224K20X7RF5TAA</field>
@@ -3430,7 +3430,7 @@
     </comp>
     <comp ref="C703">
       <value>0.22uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">594-A224K20X7RF5TAA</field>
@@ -3441,7 +3441,7 @@
     </comp>
     <comp ref="C704">
       <value>0.22uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">594-A224K20X7RF5TAA</field>
@@ -3452,7 +3452,7 @@
     </comp>
     <comp ref="C702">
       <value>0.22uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">594-A224K20X7RF5TAA</field>
@@ -3463,7 +3463,7 @@
     </comp>
     <comp ref="C701">
       <value>22uF 16V</value>
-      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:CP_Radial_Tantal_D5.0mm_P5.00mm</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">667-ECA-1CM220B</field>
@@ -4024,7 +4024,7 @@
     </comp>
     <comp ref="C705">
       <value>0.22uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">594-A224K20X7RF5TAA</field>
@@ -5659,7 +5659,7 @@
     </comp>
     <comp ref="C215">
       <value>0.22uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">594-A224K20X7RF5TAA</field>
@@ -5670,7 +5670,7 @@
     </comp>
     <comp ref="C216">
       <value>0.22uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">594-A224K20X7RF5TAA</field>
@@ -5681,7 +5681,7 @@
     </comp>
     <comp ref="C217">
       <value>0.22uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">594-A224K20X7RF5TAA</field>
@@ -5703,7 +5703,7 @@
     </comp>
     <comp ref="FB216">
       <value>Ferrite_Bead_Small</value>
-      <footprint>Inductor_THT:L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC</footprint>
+      <footprint>d_amiga:FERRITE_BEADS_DOUBLE</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">81-BL03RN2R1P1A</field>
@@ -5714,7 +5714,7 @@
     </comp>
     <comp ref="FB217">
       <value>Ferrite_Bead_Small</value>
-      <footprint>Inductor_THT:L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC</footprint>
+      <footprint>d_amiga:FERRITE_BEADS_DOUBLE</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">81-BL03RN2R1P1A</field>
@@ -5725,7 +5725,7 @@
     </comp>
     <comp ref="FB900">
       <value>Ferrite_Bead_Small</value>
-      <footprint>Inductor_THT:L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC</footprint>
+      <footprint>d_amiga:FERRITE_BEADS_DOUBLE</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">81-BL03RN2R1P1A</field>
@@ -5736,7 +5736,7 @@
     </comp>
     <comp ref="FB901">
       <value>Ferrite_Bead_Small</value>
-      <footprint>Inductor_THT:L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC</footprint>
+      <footprint>d_amiga:FERRITE_BEADS_DOUBLE</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">81-BL03RN2R1P1A</field>
@@ -5747,7 +5747,7 @@
     </comp>
     <comp ref="FB902">
       <value>Ferrite_Bead_Small</value>
-      <footprint>Inductor_THT:L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC</footprint>
+      <footprint>d_amiga:FERRITE_BEADS_DOUBLE</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">81-BL03RN2R1P1A</field>
@@ -5758,7 +5758,7 @@
     </comp>
     <comp ref="FB218">
       <value>Ferrite_Bead_Small</value>
-      <footprint>Inductor_THT:L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC</footprint>
+      <footprint>d_amiga:FERRITE_BEADS_DOUBLE</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">81-BL03RN2R1P1A</field>
@@ -5769,7 +5769,7 @@
     </comp>
     <comp ref="FB219">
       <value>Ferrite_Bead_Small</value>
-      <footprint>Inductor_THT:L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC</footprint>
+      <footprint>d_amiga:FERRITE_BEADS_DOUBLE</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">81-BL03RN2R1P1A</field>
@@ -5780,7 +5780,7 @@
     </comp>
     <comp ref="FB220">
       <value>Ferrite_Bead_Small</value>
-      <footprint>Inductor_THT:L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC</footprint>
+      <footprint>d_amiga:FERRITE_BEADS_DOUBLE</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">81-BL03RN2R1P1A</field>
@@ -5791,7 +5791,7 @@
     </comp>
     <comp ref="FB221">
       <value>Ferrite_Bead_Small</value>
-      <footprint>Inductor_THT:L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC</footprint>
+      <footprint>d_amiga:FERRITE_BEADS_DOUBLE</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">81-BL03RN2R1P1A</field>
@@ -5802,7 +5802,7 @@
     </comp>
     <comp ref="FB903">
       <value>Ferrite_Bead_Small</value>
-      <footprint>Inductor_THT:L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC</footprint>
+      <footprint>d_amiga:FERRITE_BEADS_DOUBLE</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">81-BL03RN2R1P1A</field>
@@ -5879,7 +5879,7 @@
     </comp>
     <comp ref="C201">
       <value>0.22uF</value>
-      <footprint>Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT</footprint>
+      <footprint>Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="RefOrder">594-A224K20X7RF5TAA</field>

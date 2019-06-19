@@ -1,4 +1,4 @@
-15960163820039644
+15961724756819644
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -44127,6 +44127,13 @@ Through hole socket strip THT 1x03 2.54mm single row
 0
 3
 3
+d_amiga
+FERRITE_BEADS_DOUBLE
+Inductor, Axial series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=7*3.3mm^2, Fastron, MICC, http://www.fastrongroup.com/image-show/70/MICC.pdf?type=Complete-DataSheet&productType=series
+Inductor Axial series Axial Vertical pin pitch 5.08mm  length 7mm diameter 3.3mm Fastron MICC
+0
+2
+2
 d_amiga
 RCA
 3 Pins Amiga RCA jack
