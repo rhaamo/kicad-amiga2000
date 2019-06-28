@@ -4,6 +4,16 @@
 
 Current schematics are based on 6.0 plus known 6.2 fixes.
 
+Deviations from the original 6.2:
+- The snapped resistor net around the 68k have been removed from schematics.
+- The two res net soldered to U603 and U604 have a dedicated footprint on PCB
+- The bridge C1/R1 also has footprint, same for R2 from U800
+- The PST reset have dedicated footprint, diode have been removed
+- There is an aditionnal header, J3, with OVR and INT2 breakout for accelerator cards, easier than clipping on chips
+- Jumpers should have a default working configuration labelled on the PCB plus various notes
+- The keyboard connector footprint have been modified to handle either the original one, or a standard MIDI one
+- The battery terminals are just a two pins header, just plug some wires and use any battery you want aside or glued or whatever
+
 # Notes
 
 The capacitors on the left of the POWER Connector are somewhat troubling if you don't have a lot of experience.
@@ -37,6 +47,8 @@ Then solder all the electrolytics caps, connect power, re-test all the lines.
 Solder everything else, don't populate ICs yet, re-power and re-test.
 
 Then you can add ICs and run DiagROM and then enjoy.
+
+DO NOT POPULATE: J1, J2, C902, C917, R901, FB904, FB906, RP904, RP906, RP905, C230, C240, they are unpopulated on factory 6.2 rev, so, let them as-is.
 
 # Testing
 
