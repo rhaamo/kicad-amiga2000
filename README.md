@@ -90,3 +90,9 @@ Can be useful for PCB part:
  - Component-side.jpg
 
 Documented 6.2 fixes: https://wiki.sigpipe.me/amiga:a2000:rev6.2fixes
+
+# Pictures
+
+<img width="400" src="https://raw.githubusercontent.com/rhaamo/kicad-amiga2000/master/pictures/IMG_8130.jpeg" alt="">
+<img width="400" src="https://raw.githubusercontent.com/rhaamo/kicad-amiga2000/master/pictures/IMG_8156.jpeg" alt="">
+<img width="400" src="https://raw.githubusercontent.com/rhaamo/kicad-amiga2000/master/pictures/IMG_8158.jpeg" alt="">
