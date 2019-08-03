@@ -55,8 +55,9 @@ DO NOT POPULATE: J1, J2, C902, C917, R901, FB904, FB906, RP904, RP906, RP905, C2
 My first prototype have been tested with DiagROM v1.1.
 
 Working: mouse, zorro listing of detected cards, composite video out, video out, serial (out at least), one audio ch (the other one should work too), keyboard.
+Booting a workbench from the accelerator CF sorta work until noise issue or something make any disk I/O hang and crash.
 
-Left to test: floppy, parallel port, booting a workbench, if the RTC works properly.
+Left to test: floppy, parallel port, if the RTC works properly.
 
 The DiagROM detects 1024kB of chipmem, the extended test goes all the way up to 1023kB and then throw an error, I'm not sure if it's a DiagROM issue or just expected.
 
@@ -84,12 +85,19 @@ My own dying 6.2 A2000 board.
 This pre-6.2 schematics, best scan quality available...:
 - http://amiga.serveftp.net/Schematics/A2000_schematics/A2000_rev6_schematics_scanned.pdf
 
-Can be useful for PCB part:
+A big thanks for Floppie209 for his 1:1 board replica:
 - https://github.com/Floppie209/Amiga2000-remake/
- - Solder-side.jpg
- - Component-side.jpg
+
+Whithout Floppie work I wouldn't have had enough motivation to sacrifice a sorta working board for measurements.
 
 Documented 6.2 fixes: https://wiki.sigpipe.me/amiga:a2000:rev6.2fixes
+
+# Random parts numbers
+- 100pin edge connector: Digikey part number: A121376-ND https://www.digikey.de/product-detail/de/5645235-3/A121376-ND/1122009/?itemSeq=298014615
+- 86pin edge connector: A144213-ND https://www.digikey.de/product-detail/de/1-5530843-0/A144213-ND/2310825/?itemSeq=298014678
+- 36pin edge connector: A31716-ND https://www.digikey.de/product-detail/de/5530843-3/A31716-ND/770542/?itemSeq=298014646
+- 62pin edge connector: A121053-ND https://www.digikey.de/product-detail/de/te-connectivity-amp-connectors/7-5530843-0/A121053-ND/1121982
+- combined ISA connector: A101941-ND https://www.digikey.de/product-detail/de/te-connectivity-amp-connectors/5176139-2/A101941-ND/2310817
 
 # Pictures
 
