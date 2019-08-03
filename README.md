@@ -76,7 +76,7 @@ Use this script to quickly extract all Global Labels from wanted sheets.
 
 # License
 
-TBD
+CC0
 
 # Sources
 
