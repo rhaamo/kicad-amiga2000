@@ -98,8 +98,8 @@ Documented 6.2 fixes: https://wiki.sigpipe.me/amiga:a2000:rev6.2fixes
 |-----|------------|-----------|-----------------|-----|
 | Zorro (100pins) | A121376-ND | 571-5645235-3 | 5645235-3 | no |
 | CoPro (86pins) | A144213-ND | 571-1-5530843-0 | 1-5530843-0 | no |
-| Video Slots and ISA16bit | A31716-ND |  571-5530843-3 | 5530843-3 | no |
-| ISA 8bit | A121053-ND |  571-7-5530843-0  | 7-5530843-0 | no |
+| Video Slots and ISA16bit (36p) | A31716-ND |  571-5530843-3 | 5530843-3 | no |
+| ISA 8bit (642) | A121053-ND |  571-7-5530843-0  | 7-5530843-0 | no |
 | Full lenght ISA slots | A101941-ND |  571-5176139-2  | 5176139-2 | no |
 
 # Pictures
