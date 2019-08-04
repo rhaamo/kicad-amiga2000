@@ -36,7 +36,7 @@ Memory and RTC chip should be got from eBay, same for the PST reset thingy (U1).
 
 The ISA (8bit and 16bit connectors) fits perfectly a full-length connector got from like an old PC motherboard.
 
-COPRO and Zorro connectors doesn't have known source yet.
+The the table at the bottom of this README for a list of DigiKey and Mouser P/N for ZORRO, CoPro, Video and ISA slots.
 
 Other chips (paula, denise, CIA, etc.) are got from a donor motherboard.
 
@@ -93,11 +93,14 @@ Whithout Floppie work I wouldn't have had enough motivation to sacrifice a sorta
 Documented 6.2 fixes: https://wiki.sigpipe.me/amiga:a2000:rev6.2fixes
 
 # Random parts numbers
-- 100pin edge connector: Digikey part number: A121376-ND https://www.digikey.de/product-detail/de/5645235-3/A121376-ND/1122009/?itemSeq=298014615
-- 86pin edge connector: A144213-ND https://www.digikey.de/product-detail/de/1-5530843-0/A144213-ND/2310825/?itemSeq=298014678
-- 36pin edge connector: A31716-ND https://www.digikey.de/product-detail/de/5530843-3/A31716-ND/770542/?itemSeq=298014646
-- 62pin edge connector: A121053-ND https://www.digikey.de/product-detail/de/te-connectivity-amp-connectors/7-5530843-0/A121053-ND/1121982
-- combined ISA connector: A101941-ND https://www.digikey.de/product-detail/de/te-connectivity-amp-connectors/5176139-2/A101941-ND/2310817
+
+| for | Digikey PN | Mouser PN | Manufacturer PN | EOL |
+|-----|------------|-----------|-----------------|-----|
+| Zorro (100pins) | A121376-ND | 571-5645235-3 | 5645235-3 | no |
+| CoPro (86pins) | A144213-ND | 571-1-5530843-0 | 1-5530843-0 | no |
+| Video Slots and ISA16bit | A31716-ND |  571-5530843-3 | 5530843-3 | no |
+| ISA 8bit | A121053-ND |  571-7-5530843-0  | 7-5530843-0 | no |
+| Full lenght ISA slots | A101941-ND |  571-5176139-2  | 5176139-2 | no |
 
 # Pictures
 
