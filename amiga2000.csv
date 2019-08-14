@@ -139,9 +139,3 @@ U900 ,1,74F00,Package_DIP:DIP-14_W7.62mm_Socket,http://www.ti.com/lit/gpn/sn74ls
 VC800 ,1,22-47pF,Capacitor_THT:C_Rect_L7.0mm_W6.5mm_P5.00mm,~, , , 
 X1 ,1,28.37516MHz (pal),Oscillator:Oscillator_DIP-14,, , , 
 Y800 ,1,32768Hz,Crystal:Crystal_DS15_D1.5mm_L5.0mm_Horizontal,~, , ,695-CFS145-327K-U
-
-
-
-
-BOM made with KICAD_BOM_WIZARD (https://github.com/HashDefineElectronics/KiCad_BOM_Wizard.git)
-Generated Wednesday, 19 June 2019 at 12:23:08
