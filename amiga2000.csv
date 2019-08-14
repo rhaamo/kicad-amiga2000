@@ -90,18 +90,18 @@ R901 ,1,empty,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~,y
 R904 R905 ,2,47,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~, , ,603-CFR-25JT-52-47R
 R914 ,1,1 0.5W,Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal,~, , ,603-CFR-50JB-52-1R
 RP100 RP101 RP200 RP705 ,4,4.7k,Resistor_THT:R_Array_SIP10,http://www.vishay.com/docs/31509/csc.pdf, , ,858-L101S472LF
-RP102 RP201 RP203 RP902 RP907 ,5,47 (isolated, pack),Resistor_THT:R_Array_SIP8,http://www.vishay.com/docs/31509/csc.pdf, , ,858-L083S470LF
-RP204 ,1,68 (isolated, pack),Resistor_THT:R_Array_SIP8,http://www.vishay.com/docs/31509/csc.pdf, , ,858-L083S680LF
+RP102 RP201 RP203 RP902 RP907 ,5,47 (isolated pack),Resistor_THT:R_Array_SIP8,http://www.vishay.com/docs/31509/csc.pdf, , ,858-L083S470LF
+RP204 ,1,68 (isolated pack),Resistor_THT:R_Array_SIP8,http://www.vishay.com/docs/31509/csc.pdf, , ,858-L083S680LF
 RP205 RP301 RP607 RP903 RP908 ,5,1k,Resistor_THT:R_Array_SIP6,http://www.vishay.com/docs/31509/csc.pdf, , ,652-4606M-1LF-1K
 RP300 ,1,10k,Resistor_THT:R_Array_SIP10,http://www.vishay.com/docs/31509/csc.pdf, , ,652-4610X-1LF-10K
-RP500 RP501 ,2,47 (isolated, pack),Resistor_THT:R_Array_SIP10,http://www.vishay.com/docs/31509/csc.pdf, , ,652-4610X-2LF-47
-RP502 ,1,22 (isolated, pack),Resistor_THT:R_Array_SIP10,http://www.vishay.com/docs/31509/csc.pdf, , ,652-4610X-2LF-22
+RP500 RP501 ,2,47 (isolated pack),Resistor_THT:R_Array_SIP10,http://www.vishay.com/docs/31509/csc.pdf, , ,652-4610X-2LF-47
+RP502 ,1,22 (isolated pack),Resistor_THT:R_Array_SIP10,http://www.vishay.com/docs/31509/csc.pdf, , ,652-4610X-2LF-22
 RP503 RP604 ,2,470,Resistor_THT:R_Array_SIP10,http://www.vishay.com/docs/31509/csc.pdf, , ,652-4610X-1LF-470
 RP600 ,1,10k,Resistor_THT:R_Array_SIP8,http://www.vishay.com/docs/31509/csc.pdf, , ,652-4608X-101-103FLF
 RP601 RP602 RP603 RP605 RP700 RP701 RP702 RP703 RP704 ,9,1k,Resistor_THT:R_Array_SIP10,http://www.vishay.com/docs/31509/csc.pdf, , ,652-4610X-1LF-1K
 RP800 ,1,1k,Resistor_THT:R_Array_SIP8,http://www.vishay.com/docs/31509/csc.pdf, , ,652-4608X-AP1-102LF
 RP801 ,1,4.7k,Resistor_THT:R_Array_SIP8,http://www.vishay.com/docs/31509/csc.pdf, , ,652-4608X-AP1-472LF
-RP802 ,1,1k (isolated, pack),Resistor_THT:R_Array_SIP10,http://www.vishay.com/docs/31509/csc.pdf, , ,269-1.0K-RC
+RP802 ,1,1k (isolated pack),Resistor_THT:R_Array_SIP10,http://www.vishay.com/docs/31509/csc.pdf, , ,269-1.0K-RC
 RP904 RP905 RP906 ,3,4.7k,Resistor_THT:R_Array_SIP6,http://www.vishay.com/docs/31509/csc.pdf,yes, ,264-4.7K-RC
 RPF603 RPF604 ,2,3.3k,Resistor_THT:R_Array_SIP10,http://www.vishay.com/docs/31509/csc.pdf, , ,652-4610X-1LF-3.3K
 U1 ,1,PST518B,Package_TO_SOT_THT:TO-92L_Inline,http://www.amigawiki.org/lib/exe/fetch.php?media=de:service:upgrades:pst518b_mitsumi_datasheet.pdf, , , 
