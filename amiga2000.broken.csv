@@ -1,0 +1,161 @@
+Title,
+Revision,6.2-a
+Date,07/06/1987
+Generated,Wednesday, 19 June 2019 at 12:23:08
+Company,Commodore
+Comment 1,Drawn by: Dave Haynie
+Comment 2,Used on: A2000-CR
+Comment 3,
+Comment 4,
+Total Parts,558
+Total Unique Parts,140
+
+
+
+Ref,Qty,Value,Footprint,Datasheet,DoNotPopulate,Gender,RefOrder,
+BT800 ,1,3/60DK Ni-Cd 3.6V 60mAH,Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Vertical,~, , , 
+C1 ,1,270pF,Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT,~, , ,581-SA101A271KAA
+C100 C101 C102 C103 C104 C105 C106 C107 C108 C110 C200 C202 C203 C205 C206 C234 C244 C300 C301 C302 C303 C540 C541 C600 C601 C602 C603 C604 C605 C606 C607 C800 C802 C803 C804 C805 C812 C815 C900 C901 C903 C906 C909 C910 C915 C916 C918 C919 ,48,0.1uF,Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT,~, , ,581-SA105C104KARC
+C201 C215 C216 C217 C219 C220 C221 C500 C700 C702 C703 C704 C705 ,13,0.22uF,Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT,~, , ,594-A224K20X7RF5TAA
+C204 C305 C322 C323 C401 C407 C409 C411 C413 C414 ,10,0.01uF,Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT,~, , ,581-SA105C103K
+C210 C211 C212 C213 C218 ,5,0.047uF,Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT,~, , ,581-SA105C473KARC
+C214 C225 C226 C912 ,4,470uF 16/25v,Capacitor_THT:CP_Radial_D10.0mm_P5.00mm,~, , ,647-UVR1E471MPD
+C222 C223 C402 C403 C404 C405 C406 C408 C410 C412 C420 C421 C422 ,13,47uF 16V,Capacitor_THT:CP_Radial_Tantal_D5.5mm_P5.00mm,~, , ,667-ECA-1CM470B
+C224 C415 C811 ,3,4.7uF 16V,Capacitor_THT:CP_Radial_D5.0mm_P2.50mm,~, , ,647-UMA1C4R7MCD2TP
+C230 C240 ,2,0.1uF,Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT,~,yes, ,581-SA105C104KARC
+C231 C241 ,2,6800pF,Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT,~, , ,581-SA101C682MAA
+C232 C242 ,2,3900pF,Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT,~, , ,581-SA051C392KAA
+C233 C243 C317 C318 C701 C813 C814 ,7,22uF 16V,Capacitor_THT:CP_Radial_Tantal_D5.0mm_P5.00mm,~, , ,667-ECA-1CM220B
+C259 C260 C261 C304 C306 C904 C905 C907 C908 C914 C920 ,11,100pF,Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT,~, , ,80-C410C101K5G
+C310 C311 C312 C313 C314 C315 C316 ,7,1000pF,Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm,~, , ,810-FG28C0G1H102JNT6
+C320 C321 ,2,470pF,Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm,~, , ,810-FG28C0G1H471JNT0
+C400 ,1,220uF 16V,Capacitor_THT:CP_Radial_Tantal_D6.0mm_P5.00mm,~, , ,667-ECA-1CM221B
+C416 C417 C418 C419 ,4,220uF 16V,Capacitor_THT:C_Axial_L19.0mm_D8.0mm_P25.00mm_Horizontal,~, , ,75-516D227M025MM6AE3
+C501 C502 C503 C504 C505 C506 C507 C508 ,8,0.33uF,Capacitor_THT:C_Rect_L11.5mm_W4.0mm_P10.00mm_MKT,~, , ,581-SA305C334KAA
+C617 C619 C620 C621 C622 C623 C624 C625 C626 C627 C628 C629 C630 C631 C632 C633 C635 C637 C639 C641 C645 C647 C649 C650 C651 C652 C654 C655 C657 C658 C659 C660 C661 C662 C663 C664 C665 C666 C667 C668 C669 C670 C671 C672 C673 C674 C678 C711 C713 C714 C716 C717 C719 C720 C722 C726 C728 C730 C732 C734 C736 C738 C740 C742 C744 C746 C748 C750 C752 C754 C756 C758 C760 C762 C764 C766 C768 C770 C776 C778 C780 C782 C784 C786 C787 C789 C790 C791 C793 C794 C796 ,91,1000pF,Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT,~, , ,581-SA105C102KAR
+C810 ,1,20pF,Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT,~, , ,581-SA102A200JAR
+C902 C917 ,2,empty,Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT,~,yes, , 
+C913 ,1,47pF,Capacitor_THT:C_Rect_L11.5mm_W2.6mm_P10.00mm_MKT,~, , ,80-C410C470K1G
+CN200 ,1,DB9P RIGHT(1),Connector_Dsub:DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm, ~, ,Male, 
+CN201 ,1,DB9P LEFT(0),Connector_Dsub:DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm, ~, ,Male, 
+CN202 ,1,DB23M,d_amiga:DSUB-23_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm, ~, ,Male, 
+CN203 ,1,INTERNAL VIDEO SLOT TOP,d_amiga:VIDEOSLOT,~, , , 
+CN204 ,1,RIGHT AUDIO,d_amiga:RCA, ~, , , 
+CN205 ,1,LEFT AUDIO,d_amiga:RCA, ~, , , 
+CN206 ,1,COMPOSITE,d_amiga:RCA, ~, , , 
+CN207 ,1,INTERNAL VIDEO SLOT BOT,d_amiga:VIDEOSLOT,~, , , 
+CN300 ,1,KEYBOARD,d_amiga:DIN_5_KBD,http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf, ,Female, 
+CN301 ,1,DB25F,Connector_Dsub:DSUB-25_Female_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm, ~, ,Female, 
+CN302 ,1,DB23F,d_amiga:DSUB-23_Female_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm, ~, ,Female, 
+CN303 ,1,Conn_02x17_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x17_P2.54mm_Vertical,~, ,Male, 
+CN304 ,1,Conn_02x13_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x13_P2.54mm_Vertical,~, ,Male, 
+CN305 ,1,DB25M,Connector_Dsub:DSUB-25_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm, ~, ,Male, 
+CN400 ,1,POWER_CONN,d_amiga:A2K_PWR,~, ,Male, 
+CN600 ,1,CO-PROCESSOR_SLOT,d_amiga:COPRO,, , , 
+CN601 CN602 CN603 CN604 CN605 ,5,zorro_socket,d_amiga:Zorro,, , , 
+CN606 ,1,Conn_01x04_Male,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,~, , , 
+CN700 CN701 CN702 CN703 ,4,IBM_8_BIT_EXPANSION_BUS,ISA:ISA8,, , , 
+CN704 CN705 ,2,IBM_16_BIT_EXTENDED_BUS,ISA:ISA16,,yes, , 
+CN706 CN707 ,2,IBM_16_BIT_EXTENDED_BUS,ISA:ISA16,, , , 
+D300 D800 D801 ,3,1N4148,Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal,https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf, , ,78-1N4148
+D400 D401 ,2,1N4001,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal,http://www.vishay.com/docs/88503/1n4001.pdf, , ,750-1N4001-G
+EMI201 ,1,Fitted with a double ferrite beads...,d_amiga:EMI_FILTER,~, , ,81-BL03RN2R1P1A
+EMI206 EMI207 EMI210 EMI211 EMI229 EMI322 EMI323 EMI324 EMI339 EMI340 EMI341 ,11,100pF (Type C 101),d_amiga:EMI_FILTER,~, , ,Using Type F instead 81-DSS1NB32A101Q91A
+EMI208 EMI311 EMI312 EMI313 EMI314 EMI315 EMI316 EMI317 EMI318 EMI319 EMI320 EMI321 ,12,100pF (Type F 101),d_amiga:EMI_FILTER,~, , ,81-DSS1NB32A101Q91A
+EMI209 ,1,3.8nF (Type F 382),d_amiga:EMI_FILTER,~, , ,81-DSS1NB32A332Q91A
+EMI230 EMI231 EMI232 EMI233 EMI234 EMI235 EMI236 EMI237 EMI238 EMI239 EMI240 EMI241 EMI242 EMI243 ,14,6.8nF (Type F 682),d_amiga:EMI_FILTER,~, , ,81-DSS1NB32A682Q91A
+EMI300 EMI301 EMI302 EMI303 EMI304 EMI305 EMI306 EMI307 EMI308 EMI309 EMI310 EMI325 EMI326 EMI327 EMI328 EMI329 EMI330 EMI331 EMI332 EMI333 EMI334 EMI335 EMI336 EMI337 EMI338 ,25,330pF (Type F 331),d_amiga:EMI_FILTER,~, , ,81-DSS1NB32A331Q91A
+F1 F2 F3 F4 F5 ,5,4A,Capacitor_THT:C_Rect_L11.5mm_W2.0mm_P10.00mm_MKT,~, , ,576-0251004.MRT1L
+FB101 FB215 FB301 FB302 FB303 FB401 FB907 ,7,Ferrite_Bead_Small,Inductor_THT:L_Axial_L7.0mm_D3.3mm_P10.16mm_Horizontal_Fastron_MICC,~, , ,875-28L0138-10R-10
+FB102 ,1,Ferrite_Bead_Small,Inductor_THT:L_Axial_L9.5mm_D4.0mm_P15.24mm_Horizontal_Fastron_SMCC,~, , ,875-28L0138-10R-10
+FB216 FB217 FB218 FB219 FB220 FB221 FB900 FB901 FB902 FB903 ,10,Ferrite_Bead_Small,d_amiga:FERRITE_BEADS_DOUBLE,~, , ,81-BL03RN2R1P1A
+FB904 FB906 ,2,Ferrite_Bead,Inductor_THT:L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC,~,yes, , 
+H1 H2 H3 H4 H5 H6 H7 H8 H9 H10 H11 H12 H13 H14 ,14,MountingHole_Pad,MountingHole:MountingHole_4mm_Pad_Via,~,yes, , 
+HY200 ,1,HY200VIDIOT,Connector_PinSocket_2.54mm:PinSocket_1x22_P2.54mm_Vertical,, , , 
+J1 J2 ,2,Conn_01x03_Male,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,~,yes, , 
+J3 ,1,ACCEL,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,~, , , 
+J101 J200 J300 J306 ,4,Conn_01x03_Male,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,~, , , 
+J102 ,1,Jumper_2_Open,Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,~, , , 
+J301 ,1,DF1:,Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical,~, , , 
+J500 J900 ,2,Jumper_2_Bridged,Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical,~, , , 
+Q200 Q201 ,2,MPF102,Package_TO_SOT_THT:TO-92_Inline,~, , ,610-2N3906 or 512-J113D74Z
+Q202 Q302 ,2,2N3906,Package_TO_SOT_THT:TO-92_Inline,https://www.fairchildsemi.com/datasheets/2N/2N3906.pdf, , ,833-2N3906-AP
+Q300 ,1,2SC945,Package_TO_SOT_THT:TO-92_Inline,~, , , 
+Q301 ,1,2N3904,Package_TO_SOT_THT:TO-92_Inline,https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf, , ,833-2N3904-AP
+R1 R307 ,2,68,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~, , ,603-CFR-25JT-52-68R
+R2 R233 R243 R301 R302 R311 R312 R601 R602 R603 R604 R605 R800 R900 ,14,1k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~, , ,603-CFR-25JR-521K
+R101 R109 R201 R300 R309 R500 R806 R807 R902 R916 ,10,4.7k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~, , ,603-CFR-25JT-52-4K7
+R104 ,1,4.7K,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~, , ,603-CFR-25JR-524K7
+R105 R106 R212 ,3,22,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~, , ,603-CFR-25JR-52-22R
+R110 R111 R114 R115 R917 R1000 ,6,330,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~, , ,603-CFR-25JT-52-330R
+R200 R215 ,2,1,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~, , ,603-CFR-25JR-52-1R
+R202 R203 R206 R211 R214 R216 R231 R232 R241 R242 R305 R306 R802 R804 ,14,10k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~, , ,603-CFR-25JR-5210K
+R204 R205 ,2,470k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~, , ,603-CFR-25JR-52470K
+R207 R208 ,2,10,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~, , ,603-CFR-25JB-52-10R
+R209 R210 ,2,1.2k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~, , ,603-CFR-25JT-52-1K2
+R213 ,1,2.7k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~, , ,603-CFR-25JR-522K7
+R230 R240 ,2,360,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~, , ,603-CFR-25JB-52-360R
+R234 R244 ,2,390,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~, , ,603-CFR-25JR-52390R
+R308 ,1,200,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~, , ,603-CFR-25JR-52-200R
+R310 ,1,47 0.5W,Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal,~, , ,588-OL4705E-R52
+R801 R803 ,2,470,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~, , ,603-CFR-25JT-52-470R
+R805 ,1,47k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~, , ,603-CFR-25JR-5247K
+R901 ,1,empty,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~,yes, , 
+R904 R905 ,2,47,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~, , ,603-CFR-25JT-52-47R
+R914 ,1,1 0.5W,Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal,~, , ,603-CFR-50JB-52-1R
+RP100 RP101 RP200 RP705 ,4,4.7k,Resistor_THT:R_Array_SIP10,http://www.vishay.com/docs/31509/csc.pdf, , ,858-L101S472LF
+RP102 RP201 RP203 RP902 RP907 ,5,47 (isolated, pack),Resistor_THT:R_Array_SIP8,http://www.vishay.com/docs/31509/csc.pdf, , ,858-L083S470LF
+RP204 ,1,68 (isolated, pack),Resistor_THT:R_Array_SIP8,http://www.vishay.com/docs/31509/csc.pdf, , ,858-L083S680LF
+RP205 RP301 RP607 RP903 RP908 ,5,1k,Resistor_THT:R_Array_SIP6,http://www.vishay.com/docs/31509/csc.pdf, , ,652-4606M-1LF-1K
+RP300 ,1,10k,Resistor_THT:R_Array_SIP10,http://www.vishay.com/docs/31509/csc.pdf, , ,652-4610X-1LF-10K
+RP500 RP501 ,2,47 (isolated, pack),Resistor_THT:R_Array_SIP10,http://www.vishay.com/docs/31509/csc.pdf, , ,652-4610X-2LF-47
+RP502 ,1,22 (isolated, pack),Resistor_THT:R_Array_SIP10,http://www.vishay.com/docs/31509/csc.pdf, , ,652-4610X-2LF-22
+RP503 RP604 ,2,470,Resistor_THT:R_Array_SIP10,http://www.vishay.com/docs/31509/csc.pdf, , ,652-4610X-1LF-470
+RP600 ,1,10k,Resistor_THT:R_Array_SIP8,http://www.vishay.com/docs/31509/csc.pdf, , ,652-4608X-101-103FLF
+RP601 RP602 RP603 RP605 RP700 RP701 RP702 RP703 RP704 ,9,1k,Resistor_THT:R_Array_SIP10,http://www.vishay.com/docs/31509/csc.pdf, , ,652-4610X-1LF-1K
+RP800 ,1,1k,Resistor_THT:R_Array_SIP8,http://www.vishay.com/docs/31509/csc.pdf, , ,652-4608X-AP1-102LF
+RP801 ,1,4.7k,Resistor_THT:R_Array_SIP8,http://www.vishay.com/docs/31509/csc.pdf, , ,652-4608X-AP1-472LF
+RP802 ,1,1k (isolated, pack),Resistor_THT:R_Array_SIP10,http://www.vishay.com/docs/31509/csc.pdf, , ,269-1.0K-RC
+RP904 RP905 RP906 ,3,4.7k,Resistor_THT:R_Array_SIP6,http://www.vishay.com/docs/31509/csc.pdf,yes, ,264-4.7K-RC
+RPF603 RPF604 ,2,3.3k,Resistor_THT:R_Array_SIP10,http://www.vishay.com/docs/31509/csc.pdf, , ,652-4610X-1LF-3.3K
+U1 ,1,PST518B,Package_TO_SOT_THT:TO-92L_Inline,http://www.amigawiki.org/lib/exe/fetch.php?media=de:service:upgrades:pst518b_mitsumi_datasheet.pdf, , , 
+U100 ,1,MC68000,Package_DIP:DIP-64_W22.86mm_Socket,https://www.nxp.com/docs/en/reference-manual/MC68000UM.pdf, , , 
+U101 ,1,AGNUS8372,Package_LCC:PLCC-84_THT-Socket,, , , 
+U102 ,1,GARY5719,Package_DIP:DIP-48_W15.24mm_Socket,, , , 
+U103 U105 ,2,74F245,Package_DIP:DIP-20_W7.62mm_Socket,http://www.mouser.com/ds/2/308/fairchild%20semiconductor_74f245-1116738.pdf, , ,595-SN74F245N
+U104 U106 ,2,74LS373,Package_DIP:DIP-20_W7.62mm_Socket,http://www.ti.com/lit/gpn/sn74LS373, , ,595-SN74LS373N
+U107 ,1,74F04,Package_DIP:DIP-14_W7.62mm_Socket,https://www.soemtron.org/downloads/disposals/74f04.pdf, , ,595-SN74F04N
+U108 ,1,74LS74A,Package_DIP:DIP-14_W7.62mm_Socket,http://www.ti.com/lit/ds/symlink/sn74ls74a.pdf, , ,595-SN74LS74AN
+U200 ,1,PAULA,Package_DIP:DIP-48_W15.24mm_Socket,https://www.amigawiki.org/doku.php?id=de:parts:paula, , , 
+U201 ,1,DENISE8373,Package_DIP:DIP-48_W15.24mm_Socket,, , , 
+U202 ,1,74LS157,Package_DIP:DIP-16_W7.62mm_Socket,http://www.ti.com/lit/gpn/sn74LS157, , ,595-SN74LS157N
+U203 ,1,74LS38,Package_DIP:DIP-14_W7.62mm_Socket,http://www.ti.com/lit/gpn/sn74LS38, , ,595-SN74LS38N
+U204 ,1,LF347,Package_DIP:DIP-14_W7.62mm_Socket,http://www.ti.com/lit/ds/symlink/lf347-n.pdf, , ,926-LF347N/NOPB
+U205 U206 ,2,74LS244,Package_DIP:DIP-20_W7.62mm_Socket,http://www.ti.com/lit/gpn/sn74LS244, , ,595-SN74LS244N
+U300 ,1,CIA8520,Package_DIP:DIP-40_W15.24mm_Socket,https://www.amigawiki.org/doku.php?id=de:parts:cia, , , 
+U301 ,1,8520,Package_DIP:DIP-40_W15.24mm_Socket,https://www.amigawiki.org/doku.php?id=de:parts:cia, , , 
+U302 U606 ,2,74LS32,Package_DIP:DIP-14_W7.62mm_Socket,http://www.ti.com/lit/gpn/sn74LS32, , ,595-SN74LS32N
+U303 ,1,74F08,Package_DIP:DIP-14_W7.62mm_Socket,http://www.ti.com/lit/gpn/sn74LS08, , ,595-SN74F08N
+U304 ,1,1488,Package_DIP:DIP-14_W7.62mm_Socket,https://www.onsemi.com/pub/Collateral/MC1488-D.PDF, , ,595-MC1488N
+U305 ,1,1489,Package_DIP:DIP-14_W7.62mm_Socket,https://www.onsemi.com/pub/Collateral/MC1489-D.PDF, , ,595-MC1489N
+U500 ,1,62402,Package_DIP:DIP-40_W15.24mm_Socket,, , , 
+U501 U502 U503 U504 U505 U506 U507 U508 ,8,XX4256-15,Package_DIP:DIP-20_W7.62mm_Socket,, , , 
+U540 U541 ,2,74F244,Package_DIP:DIP-20_W7.62mm_Socket,http://www.ti.com/lit/gpn/sn74F244, , ,595-SN74F244N
+U600 U601 U603 U604 ,4,74LS245,Package_DIP:DIP-20_W7.62mm_Socket,http://www.ti.com/lit/gpn/sn74LS245, , ,595-SN74LS245N
+U602 U605 ,2,74ALS245,Package_DIP:DIP-20_W7.62mm_Socket,http://www.ti.com/lit/ds/symlink/sn74als245a.pdf, , ,595-SN74ALS245AN
+U607 U803 ,2,74LS08,Package_DIP:DIP-14_W7.62mm_Socket,http://www.ti.com/lit/gpn/sn74LS08, , ,595-SN74LS08N
+U800 ,1,BUSTER5721,Package_DIP:DIP-48_W15.24mm_Socket,http://obligement.free.fr/articles/chipsetamiga.php#buster, , , 
+U801 ,1,MSM6242,Package_DIP:DIP-18_W7.62mm_Socket,https://pdf1.alldatasheet.com/datasheet-pdf/view/11259/OKI/MSM6242B.html, , , 
+U802 ,1,74LS138,Package_DIP:DIP-16_W7.62mm_Socket,http://www.ti.com/lit/gpn/sn74LS138, , ,595-SN74LS138N
+U804 ,1,74LS148,Package_DIP:DIP-16_W7.62mm_Socket,http://www.ti.com/lit/gpn/sn74LS148, , ,595-SN74LS148N
+U805 ,1,LM339,Package_DIP:DIP-14_W7.62mm_Socket,http://www.ti.com/lit/ds/symlink/lm339.pdf, , ,595-LM339N
+U900 ,1,74F00,Package_DIP:DIP-14_W7.62mm_Socket,http://www.ti.com/lit/gpn/sn74ls00, , ,595-SN74F00N
+VC800 ,1,22-47pF,Capacitor_THT:C_Rect_L7.0mm_W6.5mm_P5.00mm,~, , , 
+X1 ,1,28.37516MHz (pal),Oscillator:Oscillator_DIP-14,, , , 
+Y800 ,1,32768Hz,Crystal:Crystal_DS15_D1.5mm_L5.0mm_Horizontal,~, , ,695-CFS145-327K-U
+
+
+
+
+BOM made with KICAD_BOM_WIZARD (https://github.com/HashDefineElectronics/KiCad_BOM_Wizard.git)
+Generated Wednesday, 19 June 2019 at 12:23:08
