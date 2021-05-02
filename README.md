@@ -14,6 +14,10 @@ Deviations from the original 6.2:
 - The keyboard connector footprint have been modified to handle either the original one, or a standard MIDI one
 - The battery terminals are just a two pins header, just plug some wires and use any battery you want aside or glued or whatever
 
+# Errata
+Currently not yet fixed:
+- there is spurious connections in PCB between the two mouse/joystick ports, probably due to labels
+
 # Notes
 
 The capacitors on the left of the POWER Connector are somewhat troubling if you don't have a lot of experience.
