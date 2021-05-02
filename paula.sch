@@ -1,6 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:amiga2000-cache
-EELAYER 29 0
+EELAYER 30 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
@@ -440,16 +439,6 @@ Wire Wire Line
 	3800 5850 3800 5050
 Wire Wire Line
 	3800 5050 3350 5050
-Text Label 7750 7300 0    50   ~ 0
-FORWARD
-Text Label 7750 7500 0    50   ~ 0
-BACK
-Text Label 7750 7700 0    50   ~ 0
-LEFT
-Text Label 7750 7900 0    50   ~ 0
-RIGHT
-Text Label 7900 7400 0    50   ~ 0
-FIRE
 Wire Wire Line
 	8150 7600 7650 7600
 $Comp
@@ -515,14 +504,6 @@ F 3 "" H 7500 8900 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	8150 7800 7500 7800
-Text Label 7750 7600 0    50   ~ 0
-+5V
-Text Label 7750 7800 0    50   ~ 0
-DGND
-Text Label 8050 8000 2    50   ~ 0
-POTY
-Text Label 8100 8100 2    50   ~ 0
-POTX
 $Comp
 L Connector:DB9_Male_MountingHoles CN201
 U 1 1 5CF88629
@@ -535,24 +516,6 @@ F 4 "Male" H 8500 9900 50  0001 C CNN "Gender"
 	1    8500 9900
 	1    0    0    1   
 $EndComp
-Text Label 7800 9500 0    50   ~ 0
-FORWARD
-Text Label 7800 9700 0    50   ~ 0
-BACK
-Text Label 7800 9900 0    50   ~ 0
-LEFT
-Text Label 7800 10100 0    50   ~ 0
-RIGHT
-Text Label 7950 9600 0    50   ~ 0
-FIRE
-Text Label 7800 9800 0    50   ~ 0
-+5V
-Text Label 7800 10000 0    50   ~ 0
-DGND
-Text Label 8050 10200 2    50   ~ 0
-POTY
-Text Label 8100 10300 2    50   ~ 0
-POTX
 Wire Wire Line
 	7650 7600 7650 9800
 Wire Wire Line
@@ -2353,4 +2316,8 @@ Wire Bus Line
 	1300 3800 1300 4500
 Wire Bus Line
 	1300 1800 1300 3300
+Text Notes 7700 8150 0    67   ~ 0
+FORWARD\nFIRE\nBACK\n+5V\nLEFT\nDGND\nRIGHT\nPOTY\nPOTX
+Text Notes 7700 10350 0    67   ~ 0
+FORWARD\nFIRE\nBACK\n+5V\nLEFT\nDGND\nRIGHT\nPOTY\nPOTX
 $EndSCHEMATC

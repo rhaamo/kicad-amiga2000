@@ -1,15 +1,18 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.2-1)-1*
-G04 #@! TF.CreationDate,2019-06-19T19:22:35+02:00*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.9)-1*
+G04 #@! TF.CreationDate,2021-05-02T22:21:16+02:00*
 G04 #@! TF.ProjectId,amiga2000,616d6967-6132-4303-9030-2e6b69636164,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Profile,NP*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.2-1)-1) date 2019-06-19 19:22:35*
+G04 Created by KiCad (PCBNEW (5.1.9)-1) date 2021-05-02 22:21:16*
 %MOMM*%
 %LPD*%
+G01*
 G04 APERTURE LIST*
+G04 #@! TA.AperFunction,Profile*
 %ADD10C,0.050000*%
+G04 #@! TD*
 G04 APERTURE END LIST*
 D10*
 X456322000Y-375000000D02*
