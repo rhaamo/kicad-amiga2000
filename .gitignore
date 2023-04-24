@@ -29,7 +29,10 @@ _autosave-*
 #*.csv
 
 ### KiCad Patch ###
+
 escue-backup/
+
+*-backups/
 
 *.tsv
 
