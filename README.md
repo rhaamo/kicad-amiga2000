@@ -72,10 +72,12 @@ Uses libraries from https://dev.sigpipe.me/dashieelectronics/kicad_libraries
 # Various tools
 
 ## extract_labels.py
+NOTE: Broken since format change with KiCAD 7.0
+
 Use this script to quickly extract all Global Labels from wanted sheets.
 
 ```
-./extract_labels.py agnus.sch amiga2000.sch chipram.sch coprocessor\ slot.sch denise.sch expansion\ logic.sch parallel.sch paula.sch pc\ slots.sch power.sch processor.sch serial.sch zorro.sch
+./extract_labels.py agnus.kicad_sch amiga2000.kicad_sch chipram.kicad_sch coprocessor\ slot.kicad_sch denise.kicad_sch expansion\ logic.kicad_sch parallel.kicad_sch paula.kicad_sch pc\ slots.kicad_sch power.kicad_sch processor.kicad_sch serial.kicad_sch zorro.kicad_sch
 ```
 
 # License
